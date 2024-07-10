@@ -2,7 +2,10 @@
 
 import json
 import pandas as pd
+import numpy as np
 import datacommons_pandas as dc
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.naive_bayes import MultinomialNB
 
 
 def filter_topics(variable):
@@ -71,40 +74,94 @@ def get_names_from_topics(dc_topics):
 			stat_var_names = []
 			for stat_var in response:
 				stat_var_names.extend(response[stat_var])
-			topics_to_names[topic] = stat_var_names
+			topics_to_names[topic] = "; ".join(stat_var_names)
+	# Formatted as: "dc/topic/Demographics": "Total Population; Population Density; Rate of Population Growth"
+	return topics_to_names
 
-	# Write the final output of Topics to list of names for associated variable into a file, so we don't have to always
-	# regenerate this!
-	with open('topic_to_names.txt', 'w') as convert_file: 
-		convert_file.write(json.dumps(topics_to_names))
-	
+def train_model():
+	f = open('topic_to_names.json')
+	data = json.load(f)
+
+	X_train = []
+	y_train = []
+	for topic in data:
+		y_train.append(topic)
+		X_train.append(data[topic])
+
+	vectorizer = CountVectorizer(stop_words="english", analyzer="word")
+
+	X_train = vectorizer.fit_transform(X_train)
+
+	# MNB CLASSIFICATION
+	mnb = MultinomialNB()
+	mnb.fit(X_train,y_train)
+	return mnb, vectorizer
 
 
 def fetch_training_data():
 	print("Fetching training data")
 
-	print("Fetching all topics")
-	dc_topics = get_topics()
+	# print("Fetching all topics")
+	# dc_topics = get_topics()
 
-	print("Now we have found all DataCommons topics, for a total topic count of ", len(dc_topics))
+	# print("Now we have found all DataCommons topics, for a total topic count of ", len(dc_topics))
 
 	# DC API marks a limit of 500 nodes per API call so we should be able to get all the topic metadata in one.
 	# Note we're duping calls that were already made for simplicity then.
-	get_names_from_topics(dc_topics)
+	# topics_to_names = get_names_from_topics(dc_topics)
+
+	# process_training_data()
+
+	# Write the final output of Topics to list of names for associated variable into a file, so we don't have to always
+	# regenerate this!
+	# with open('topic_to_names.json', 'w') as convert_file: 
+	# 	convert_file.write(json.dumps(topics_to_names))
+
+	# Formatted as: "dc/topic/Demographics": "Total Population; Population Density; Rate of Population Growth"
+	# with open("topic_to_names.txt", 'w') as f:
+	# 	for key, value in topics_to_names.items():
+	# 		f.write('%s:%s\n' % (key, value))
 
 
-
-
-def main():
+def fetch_test_data():
 	# Columns we want to read. Some rows have no name but have a ChartTitle.
-	usecols = ["Name", "StatVar", "ConciseChartTitle"]
+	usecols = ["Name", "Chart Title", "StatVar"] # , "ConciseChartTitle"
 
 	# Store all columns selected in a data frame.
 	df = pd.read_csv("dc_sample_data.csv", usecols=usecols)
 
-	# print output.
-	# print(df.to_string())
+	return df
+
+def evaluate(model, vectorizer):
+	test_df = fetch_test_data()
+	chart_title_samples = test_df['Chart Title'].values.astype('U')
+	X_test = vectorizer.transform(chart_title_samples)
+	title_prediction = model.predict(X_test)
+
+	name_samples = test_df['Name'].values.astype('U')
+	X_test = vectorizer.transform(name_samples)
+	name_prediction = model.predict(X_test)
+
+	index=0
+	fail = 0
+	predictions = {}
+	for pr in name_prediction:
+		if name_samples[index] != "nan":
+			predictions[name_samples[index]] = pr
+		index += 1
+
+	index = 0
+	for pr in title_prediction:
+		if chart_title_samples[index] != "nan":
+			predictions[chart_title_samples[index]] = pr
+		index += 1
+
+	with open("classified_test_data.txt", 'w') as f:
+		for key, value in predictions.items():
+			f.write('%s:%s\n' % (key, value))
+		
 
 
 if __name__ == "__main__":
-    fetch_training_data()
+    model, vectorizer = train_model()
+    evaluate(model, vectorizer)
