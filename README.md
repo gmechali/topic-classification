@@ -21,4 +21,16 @@ In order to run the accuracy score, use the --test_accuracy flag.
 
 Using the --evaluate_model flag will run the classification on the file `dc_sample_data.csv`, and output the predictions.
 
-You can also pass in a different file with column name(s) "Name" and/or "Chart Title" via the -- flag.
+You can also pass in a different file with column name(s) "Name" and/or "Chart Title" via the --test_data_set_path flag. The file must be a CSV.
+
+## How To Run
+
+Creating the Training data:
+```
+python3 main.py --create_training_data_set --training_data_set_filename="names_to_topics"
+```
+
+Running classifier on sample data and testing accuracy:
+```
+python3 main.py --evaluate_model --test_data_set_path="dc_sample_data.csv" --test_accuracy
+```
