@@ -82,6 +82,9 @@ def get_names_from_topics(dc_topics):
 	# topics_to_stat_vars is a dict containing the topic as the key, and the list of all
 	# associated statVars as the value.
 
+	# Fetch the test_data_stat_vars to ensure they are excluded from training data.
+	unused, unused, test_stat_vars = fetch_testing_data()
+
 	names_to_topics = {}
 	for topic in topics_to_stat_vars:
 		if topics_to_stat_vars[topic]:
@@ -89,7 +92,10 @@ def get_names_from_topics(dc_topics):
 			response = dc.get_property_values(topics_to_stat_vars[topic],'name')
 			stat_var_names = []
 			for stat_var in response:
-				stat_var_names.extend(response[stat_var])
+				if not FLAGS.evaluate_model or not test_stat_vars.includes(stat_var):
+					stat_var_names.extend(response[stat_var])
+				else:
+					print("Skipping StatVar ", stat_var)
 
 			for name in stat_var_names:
 				names_to_topics[name] = topic
@@ -152,21 +158,26 @@ def train_model():
 
 	return model, vectorizer
 
+def fetch_testing_data():
+	test_df = pd.read_csv(FLAGS.test_data_set_path, usecols=["Name", "Chart Title", "StatVar"])
+	name_samples = test_df['Name'].values.astype('U')
+	chart_title_samples = test_df['Chart Title'].values.astype('U')
+	stat_var_samples = test_df['StatVar'].values.astype('U')
+	return name_samples, chart_title_samples, stat_var_samples
+
 def evaluate():
 	"""Evaluates a given model using test data. We first try based on the `Name` test data, and fall back to `Chart Title`
 	Outputs the prediction in a json file. 
 	"""
 	model, vectorizer = train_model()
 
-	test_df = pd.read_csv(FLAGS.test_data_set_path, usecols=["Name", "Chart Title", "StatVar"])
+	name_samples, chart_title_samples, unused = fetch_testing_data()
 
 	# Classify based on Name.
-	name_samples = test_df['Name'].values.astype('U')
 	X_test = vectorizer.transform(name_samples)
 	name_prediction = model.predict(X_test)
 
 	# Classify based on Chart Title.
-	chart_title_samples = test_df['Chart Title'].values.astype('U')
 	X_test = vectorizer.transform(chart_title_samples)
 	title_prediction = model.predict(X_test)
 
