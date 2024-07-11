@@ -136,11 +136,12 @@ def train_model():
 
 	X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.1)
 
-	vectorizer = CountVectorizer(stop_words="english", analyzer="word", ngram_range=(1,3))
+	# After a few iterations, we noticed using the ngram range (1,3) yields the best results. 
+	vectorizer = CountVectorizer(stop_words="english", analyzer="word", ngram_range=(1,2))
 
 	X_train = vectorizer.fit_transform(X_train)
 
-	# MNB CLASSIFICATION
+	# Either use LogisticRegression() or MultinomialNB() - yields different results.
 	model = LogisticRegression()
 	model.fit(X_train,y_train)
 
