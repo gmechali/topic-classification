@@ -6,7 +6,13 @@ import numpy as np
 import datacommons_pandas as dc
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
+from absl import flags
 
+FLAGS = flags.FLAGS
+flags.DEFINE_boolean('create_training_data_set', False, 'Outputs a training data set')
+flags.DEFINE_string('training_data_set_filename', 'topic_to_names', 'Filename to use for training data.')
+flags.DEFINE_boolean('evaluate_model', False, 'Outputs predictions for test data')
+flags.DEFINE_string('test_data_set_path', 'dc_sample_data.csv', 'Path to the csv file to use for training data.')
 
 def filter_topics(variable):
 	if variable.startswith("dc/topic"):
@@ -82,6 +88,30 @@ def get_names_from_topics(dc_topics):
 	# Formatted as: "dc/topic/Demographics": "Total Population; Population Density; Rate of Population Growth" (3 statVars)
 	return topics_to_names
 
+def fetch_training_data():
+	print("Fetching training data")
+
+	print("Fetching all topics")
+	dc_topics = get_topics()
+
+	print("Now we have found all DataCommons topics, for a total topic count of ", len(dc_topics))
+
+	# DC API marks a limit of 500 nodes per API call so we should be able to get all the topic metadata in one.
+	# Note we're duping calls that were already made for simplicity then.
+	topics_to_names = get_names_from_topics(dc_topics)
+
+	# Write the final output of Topics to list of names for associated variable into a file, so we don't have to always
+	# regenerate this!
+	with open(training_data_set_filename+'.json', 'w') as convert_file: 
+		convert_file.write(json.dumps(topics_to_names))
+
+	# Formatted as: "dc/topic/Demographics": "Total Population; Population Density; Rate of Population Growth"
+	# Keeping it since it's more human-readable.
+	with open(training_data_set_filename + '.txt', 'w') as f:
+		for key, value in topics_to_names.items():
+			f.write('%s:%s\n' % (key, value))
+
+
 def train_model():
 	"""Train the model using json output.
 	Returns the model and the CountVectorizer. 
@@ -105,43 +135,24 @@ def train_model():
 	return mnb, vectorizer
 
 
-def fetch_training_data():
-	print("Fetching training data")
-
-	print("Fetching all topics")
-	dc_topics = get_topics()
-
-	print("Now we have found all DataCommons topics, for a total topic count of ", len(dc_topics))
-
-	# DC API marks a limit of 500 nodes per API call so we should be able to get all the topic metadata in one.
-	# Note we're duping calls that were already made for simplicity then.
-	topics_to_names = get_names_from_topics(dc_topics)
-
-	# Write the final output of Topics to list of names for associated variable into a file, so we don't have to always
-	# regenerate this!
-	with open('topic_to_names.json', 'w') as convert_file: 
-		convert_file.write(json.dumps(topics_to_names))
-
-	# Formatted as: "dc/topic/Demographics": "Total Population; Population Density; Rate of Population Growth"
-	# Keeping it since it's more human-readable.
-	with open("topic_to_names.txt", 'w') as f:
-		for key, value in topics_to_names.items():
-			f.write('%s:%s\n' % (key, value))
-
-
 def fetch_test_data():
 	"""Extract test data from sample data set. Use both the `Name` and `Chart Title` columns for classification.
 	Returns a dataframe with the selected data.
 	"""
-	return pd.read_csv("dc_sample_data.csv", usecols=["Name", "Chart Title", "StatVar"])
+	return pd.read_csv(FLAGS.test_data_set_path, usecols=["Name", "Chart Title", "StatVar"])
 
 def evaluate(model, vectorizer):
 	"""Evaluates a given model using test data. We first try based on the `Name` test data, and fall back to `Chart Title`
 	Outputs the prediction in a json file. 
 	"""
+	model, vectorizer = train_model()
+
 	test_df = fetch_test_data()
+
 	chart_title_samples = test_df['Chart Title'].values.astype('U')
+
 	X_test = vectorizer.transform(chart_title_samples)
+
 	title_prediction = model.predict(X_test)
 
 	name_samples = test_df['Name'].values.astype('U')
@@ -165,9 +176,13 @@ def evaluate(model, vectorizer):
 	with open("classified_test_data.txt", 'w') as f:
 		for key, value in predictions.items():
 			f.write('%s:%s\n' % (key, value))
-		
+
+def main():
+	if FLAGS.create_training_data_set:
+		fetch_training_data()
+	if FLAGS.evaluate_model:
+		evaluate_model()
 
 
 if __name__ == "__main__":
-    model, vectorizer = train_model()
-    evaluate(model, vectorizer)
+	main()
