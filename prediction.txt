@@ -1,0 +1,1649 @@
+Amount of Farm Inventory: Winter Wheat for Grain:dc/topic/Agriculture
+CO2 Emissions Per Capita:dc/topic/Emissions_NitrousOxide_EmissionsbySource
+Amount of Farm Inventory: Barley for Grain:dc/topic/Agriculture
+Amount of Farm Inventory: Corn for Silage or Greenchop:dc/topic/Agriculture
+Amount of Farm Inventory: Cotton:dc/topic/Agriculture
+Amount of Farm Inventory: Dry Edible Beans:dc/topic/Agriculture
+Amount of Farm Inventory: Durum Wheat for Grain:dc/topic/Agriculture
+Amount of Farm Inventory: Forage:dc/topic/Agriculture
+Amount of Farm Inventory: Oats for Grain:dc/topic/Agriculture
+Amount of Farm Inventory: Other Spring Wheat for Grain:dc/topic/Agriculture
+Amount of Farm Inventory: Peanuts for Nuts:dc/topic/Agriculture
+Amount of Farm Inventory: Pima Cotton:dc/topic/Agriculture
+Total rice production; Quantity of rice grown;:dc/topic/Agriculture
+Amount of Farm Inventory: Sorghum for Grain:dc/topic/Agriculture
+Amount of Farm Inventory: Sorghum for Silage or Greenchop:dc/topic/Agriculture
+Amount of Farm Inventory: Sugar Beets for Sugar:dc/topic/Agriculture
+Amount of Farm Inventory: Sunflower Seed:dc/topic/Agriculture
+Amount of Farm Inventory: Upland Cotton:dc/topic/Agriculture
+Amount of Farm Inventory: Wheat for Grain:dc/topic/Agriculture
+Amount of Farm Inventory: Corn for Grain:dc/topic/Agriculture
+Count of Criminal Activities: Aggravated Assault:dc/topic/CausesOfDeath
+Count of Criminal Activities: Arson:dc/topic/RentalHouses
+Count of Criminal Activities: Burglary:dc/topic/RentalHouses
+Count of Criminal Activities: Forcible Rape:dc/topic/RentalHouses
+Count of Criminal Activities: Larceny Theft:dc/topic/RentalHouses
+Count of Criminal Activities: Motor Vehicle Theft:dc/topic/RentalHouses
+Count of Criminal Activities: Murder And Non Negligent Manslaughter:dc/topic/RentalHouses
+Count of Criminal Activities: Murder And Non Negligent Manslaughter (Per Capita):dc/topic/RentalHouses
+Count of Criminal Activities: Murder And Non Negligent Manslaughter, Female (As Fraction of Count Person Female):dc/topic/StudentPopulationDemographics
+Count of Criminal Activities: Murder And Non Negligent Manslaughter, Male (As Fraction of Count Person Male):dc/topic/StudentPopulationDemographics
+Count of Criminal Activities: Property:dc/topic/RentalHouses
+Count of Criminal Activities: Robbery:dc/topic/RentalHouses
+Count of Criminal Activities: Violent:dc/topic/RentalHouses
+Count of Farm Inventory: Beef Cows:dc/topic/Agriculture
+Count of Farm Inventory: Broilers:dc/topic/RentalHouses
+Count of Farm Inventory: Cattle And Calves:dc/topic/Agriculture
+Count of Farm Inventory: Hogs And Pigs:dc/topic/Agriculture
+Count of Farm Inventory: Layers:dc/topic/RentalHouses
+Count of Farm Inventory: Milk Cows:dc/topic/Agriculture
+Count of Farm Inventory: Sheep And Lambs:dc/topic/Agriculture
+Count of Household:dc/topic/RentalHouses
+Count of Household: Family Household, below poverty line:dc/topic/MedianHouseholdIncomeByRace
+Count of Household: 100,000 - 149,999 Inflation Adjusted USD_Current Year, With Income:dc/topic/RentalHouses
+Count of Household: 10,000 Inflation Adjusted USD_Current Year or Less, With Income:dc/topic/RentalHouses
+Count of Household: 10,000 - 14,999 Inflation Adjusted USD_Current Year, With Income:dc/topic/RentalHouses
+Count of Household: 150,000 - 199,999 Inflation Adjusted USD_Current Year, With Income:dc/topic/RentalHouses
+Count of Household: 15,000 - 24,999 Inflation Adjusted USD_Current Year, With Income:dc/topic/RentalHouses
+Count of Household: 200,000 Inflation Adjusted USD_Current Year or More, With Income:dc/topic/RentalHouses
+Count of Household: 25,000 - 34,999 Inflation Adjusted USD_Current Year, With Income:dc/topic/RentalHouses
+Count of Household: 35,000 - 49,999 Inflation Adjusted USD_Current Year, With Income:dc/topic/RentalHouses
+Count of Household: 50,000 - 74,999 Inflation Adjusted USD_Current Year, With Income:dc/topic/RentalHouses
+Count of Household: 75,000 - 99,999 Inflation Adjusted USD_Current Year, With Income:dc/topic/RentalHouses
+Count of Household: Married Couple Family Household, below poverty line:dc/topic/HouseholdIncomeDistribution
+Count of Household: No Health Insurance:dc/topic/NoHealthInsuranceByRace
+Count of Household: No Health Insurance, 100,000 USD or More:dc/topic/RentalHouses
+Count of Household: No Health Insurance, 25,000 USD or Less:dc/topic/NoHealthInsuranceByIncome
+Count of Household: No Health Insurance, 25,000 - 49,999 USD:dc/topic/NoHealthInsuranceByIncome
+Count of Household: No Health Insurance, 75,000 - 99,999 USD:dc/topic/NoHealthInsuranceByIncome
+Count of Household: Single Mother Family Household, below poverty line:dc/topic/MedianHouseholdIncomeByRace
+Count of Household: With Food Stamps in The Past Year:dc/topic/Benefits
+Count of Household: With Food Stamps in The Past Year, Above poverty line:dc/topic/Benefits
+Count of Household: With Food Stamps in The Past Year, American Indian or Alaska Native Alone:dc/topic/Benefits
+Count of Household: With Food Stamps in The Past Year, Asian Alone:dc/topic/Benefits
+Count of Household: With Food Stamps in The Past Year, below poverty line:dc/topic/Benefits
+Count of Household: With Food Stamps in The Past Year, Black or African American Alone:dc/topic/Benefits
+Count of Household: With Food Stamps in The Past Year, Family Household:dc/topic/Benefits
+Count of Household: With Food Stamps in The Past Year, Hispanic or Latino:dc/topic/Benefits
+Count of Household: With Food Stamps in The Past Year, Married Couple Family Household:dc/topic/Benefits
+Count of Household: With Food Stamps in The Past Year, Native Hawaiian or Other Pacific Islander Alone:dc/topic/Benefits
+Count of Household: With Food Stamps in The Past Year, No Disability:dc/topic/Benefits
+Count of Household: With Food Stamps in The Past Year, Nonfamily Household:dc/topic/Benefits
+Count of Household: With Food Stamps in The Past Year, Other Family Household:dc/topic/Benefits
+Count of Household: With Food Stamps in The Past Year, Single Father Family Household:dc/topic/Benefits
+Count of Household: With Food Stamps in The Past Year, Single Mother Family Household:dc/topic/Benefits
+Count of Household: With Food Stamps in The Past Year, Some Other Race Alone:dc/topic/Benefits
+Count of Household: With Food Stamps in The Past Year, Two or More Races:dc/topic/Benefits
+Count of Household: With Food Stamps in The Past Year, White Alone:dc/topic/Benefits
+Count of Household: With Food Stamps in The Past Year, White Alone Not Hispanic or Latino:dc/topic/Benefits
+Count of Household: With Food Stamps in The Past Year, With Children Under 18:dc/topic/Benefits
+Count of Household: With Food Stamps in The Past Year, Married Couple Family Household, With Children Under 18:dc/topic/Benefits
+Count of Household: With Food Stamps in The Past Year, Nonfamily Household, With Children Under 18:dc/topic/Benefits
+Count of Household: With Food Stamps in The Past Year, Other Family Household, With Children Under 18:dc/topic/Benefits
+Count of Household: With Food Stamps in The Past Year, Single Father Family Household, With Children Under 18:dc/topic/Benefits
+Count of Household: With Food Stamps in The Past Year, Single Mother Family Household, With Children Under 18:dc/topic/Benefits
+Count of Household: With Food Stamps in The Past Year, With Disability:dc/topic/Benefits
+Count of Household: With Food Stamps in The Past Year, With Population Over 60:dc/topic/Benefits
+Count of Household: With Food Stamps in The Past Year, Without Children Under 18:dc/topic/Benefits
+Count of Household: With Food Stamps in The Past Year, Married Couple Family Household, Without Children Under 18:dc/topic/Benefits
+Count of Household: With Food Stamps in The Past Year, Nonfamily Household, Without Children Under 18:dc/topic/Benefits
+Count of Household: With Food Stamps in The Past Year, Other Family Household, Without Children Under 18:dc/topic/Benefits
+Count of Household: With Food Stamps in The Past Year, Single Father Family Household, Without Children Under 18:dc/topic/Benefits
+Count of Household: With Food Stamps in The Past Year, Single Mother Family Household, Without Children Under 18:dc/topic/Benefits
+Count of Household: With Food Stamps in The Past Year, Without Population Over 60:dc/topic/Benefits
+Count of Household: With SSIAnd or Cash Assistance in The Past Year, Family Household:dc/topic/Benefits
+Count of Household: With SSIAnd or Cash Assistance in The Past Year, Family Household, below poverty line:dc/topic/Benefits
+Count of Household: With SSIAnd or Cash Assistance in The Past Year, Married Couple Family Household:dc/topic/Benefits
+Count of Household: With SSIAnd or Cash Assistance in The Past Year, Married Couple Family Household, below poverty line:dc/topic/Benefits
+Count of Household: With SSIAnd or Cash Assistance in The Past Year, Single Mother Family Household:dc/topic/Benefits
+Count of Household: With SSIAnd or Cash Assistance in The Past Year, Single Mother Family Household, below poverty line:dc/topic/Benefits
+Count of Household: With Social Security Income in The Past Year, Family Household:dc/topic/Benefits
+Count of Household: With Social Security Income in The Past Year, Family Household, below poverty line:dc/topic/Benefits
+Count of Household: With Social Security Income in The Past Year, Foreign Born, Africa:dc/topic/Benefits
+Count of Household: With Social Security Income in The Past Year, Foreign Born, Asia:dc/topic/Benefits
+Count of Household: With Social Security Income in The Past Year, Foreign Born, Caribbean:dc/topic/Benefits
+Count of Household: With Social Security Income in The Past Year, Foreign Born, Central America Except Mexico:dc/topic/Benefits
+Count of Household: With Social Security Income in The Past Year, Foreign Born, Eastern Asia:dc/topic/Benefits
+Count of Household: With Social Security Income in The Past Year, Foreign Born, Europe:dc/topic/Benefits
+Count of Household: With Social Security Income in The Past Year, Foreign Born, Latin America:dc/topic/Benefits
+Count of Household: With Social Security Income in The Past Year, Foreign Born, Country/MEX:dc/topic/Benefits
+Count of Household: With Social Security Income in The Past Year, Foreign Born, Northamerica:dc/topic/Benefits
+Count of Household: With Social Security Income in The Past Year, Foreign Born, Northern Western Europe:dc/topic/Benefits
+Count of Household: With Social Security Income in The Past Year, Foreign Born, Oceania:dc/topic/Benefits
+Count of Household: With Social Security Income in The Past Year, Foreign Born, South Central Asia:dc/topic/Benefits
+Count of Household: With Social Security Income in The Past Year, Foreign Born, South Eastern Asia:dc/topic/Benefits
+Count of Household: With Social Security Income in The Past Year, Foreign Born, Southamerica:dc/topic/Benefits
+Count of Household: With Social Security Income in The Past Year, Foreign Born, Southern Eastern Europe:dc/topic/Benefits
+Count of Household: With Social Security Income in The Past Year, Foreign Born, Western Asia:dc/topic/Benefits
+Count of Household: With Social Security Income in The Past Year, Married Couple Family Household:dc/topic/Benefits
+Count of Household: With Social Security Income in The Past Year, Married Couple Family Household, below poverty line:dc/topic/Benefits
+Count of Household: With Social Security Income in The Past Year, Single Mother Family Household:dc/topic/Benefits
+Count of Household: With Social Security Income in The Past Year, Single Mother Family Household, below poverty line:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, Above poverty line:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, American Indian or Alaska Native Alone:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, Asian Alone:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, below poverty line:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, Black or African American Alone:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, Family Household:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, Family Household, No Workers in The Past Year:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, Family Household, One Worker in The Past Year:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, Family Household, Two or More Workers in The Past Year:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, Hispanic or Latino:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, Married Couple Family Household:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, Native Hawaiian or Other Pacific Islander Alone:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, No Disability:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, Nonfamily Household:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, Other Family Household:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, Single Father Family Household:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, Single Mother Family Household:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, Some Other Race Alone:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, Two or More Races:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, White Alone:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, White Alone Not Hispanic or Latino:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, With Children Under 18:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, Married Couple Family Household, With Children Under 18:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, Nonfamily Household, With Children Under 18:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, Other Family Household, With Children Under 18:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, Single Father Family Household, With Children Under 18:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, Single Mother Family Household, With Children Under 18:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, With Disability:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, With Population Over 60:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, Without Children Under 18:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, Married Couple Family Household, Without Children Under 18:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, Nonfamily Household, Without Children Under 18:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, Other Family Household, Without Children Under 18:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, Single Father Family Household, Without Children Under 18:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, Single Mother Family Household, Without Children Under 18:dc/topic/Benefits
+Count of Household: Without Food Stamps in The Past Year, Without Population Over 60:dc/topic/Benefits
+Count of Housing Unit:dc/topic/RentalHouses
+Population:dc/topic/Race
+Population: Above poverty line:dc/topic/Race
+Population: Above poverty line, American Indian or Alaska Native Alone:dc/topic/Race
+Population: Above poverty line, Asian Alone:dc/topic/Race
+Population: Above poverty line, Black or African American Alone:dc/topic/Race
+Population: Above poverty line, Hispanic or Latino:dc/topic/Race
+Population: Above poverty line, Native Hawaiian or Other Pacific Islander Alone:dc/topic/Race
+Population: Above poverty line, Some Other Race Alone:dc/topic/Race
+Population: Above poverty line, Two or More Races:dc/topic/PovertyByLanguageSpokenAtHome
+Population: Above poverty line, White Alone:dc/topic/Race
+Population: Above poverty line, White Alone Not Hispanic or Latino:dc/topic/Race
+Population: Ambulatory Difficulty:dc/topic/Race
+Population: American Indian or Alaska Native Alone:dc/topic/Race
+Population: American Indian And Alaska Native, Monoracial/Multiracial:dc/topic/Race
+Population: American Indian or Alaska Native Alone, Adult Correctional Facilities:dc/topic/Race
+Population: American Indian or Alaska Native Alone, College or University Student Housing:dc/topic/Race
+Population: American Indian or Alaska Native Alone, Group Quarters:dc/topic/Race
+Population: American Indian or Alaska Native Alone, Institutionalized Group Quarters:dc/topic/Race
+Population: American Indian or Alaska Native Alone, Juvenile Facilities:dc/topic/Race
+Population: American Indian or Alaska Native Alone, Military Quarters or Military Ships:dc/topic/Race
+Population: American Indian or Alaska Native Alone, Noninstitutionalized Group Quarters:dc/topic/Race
+Population: American Indian or Alaska Native Alone, Nursing Facilities:dc/topic/Race
+Population: Asian Alone:dc/topic/Race
+Population: Asian, Monoracial/Multiracial:dc/topic/Race
+Population: Asian Alone, Adult Correctional Facilities:dc/topic/Race
+Population: Asian Alone, College or University Student Housing:dc/topic/StudentsInCollege
+Population: Asian Alone, Group Quarters:dc/topic/Race
+Population: Asian Alone, Institutionalized Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: Asian Alone, Juvenile Facilities:dc/topic/Race
+Population: Asian Alone, Military Quarters or Military Ships:dc/topic/VeteransByGroupQuartersResidence
+Population: Asian Alone, Noninstitutionalized Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: Asian Alone, Nursing Facilities:dc/topic/Race
+Population: Asian or Pacific Islander:dc/topic/Race
+Population: below poverty line:dc/topic/Race
+Population: Below poverty line in The Past 12 Months (Per Capita):dc/topic/PovertyByLanguageSpokenAtHome
+Population: below poverty line, American Indian or Alaska Native Alone:dc/topic/Race
+Population: below poverty line, Asian Alone:dc/topic/Race
+Population: below poverty line, Black or African American Alone:dc/topic/Race
+Population: below poverty line, Hispanic or Latino:dc/topic/Race
+Population: below poverty line, Native Hawaiian or Other Pacific Islander Alone:dc/topic/Race
+Population: below poverty line, Some Other Race Alone:dc/topic/Race
+Population: below poverty line, Two or More Races:dc/topic/PovertyByLanguageSpokenAtHome
+Population: below poverty line, White Alone:dc/topic/Race
+Population: below poverty line, White Alone Not Hispanic or Latino:dc/topic/Race
+Population: Black or African American Alone:dc/topic/Race
+Population: Black or African American, Monoracial/Multiracial:dc/topic/Race
+Population: Black or African American Alone, Adult Correctional Facilities:dc/topic/Race
+Population: Black or African American Alone, College or University Student Housing:dc/topic/Race
+Population: Black or African American Alone, Group Quarters:dc/topic/Race
+Population: Black or African American Alone, Institutionalized Group Quarters:dc/topic/Race
+Population: Black or African American Alone, Juvenile Facilities:dc/topic/Race
+Population: Black or African American Alone, Military Quarters or Military Ships:dc/topic/Race
+Population: Black or African American Alone, Noninstitutionalized Group Quarters:dc/topic/Race
+Population: Black or African American Alone, Nursing Facilities:dc/topic/Race
+Population: Civilian, Female, Non Institutionalized:dc/topic/NoHealthInsuranceByIncome
+Population: Civilian, Male, Non Institutionalized:dc/topic/NoHealthInsuranceByIncome
+Population: Civilian, No Disability, Non Institutionalized:dc/topic/NoHealthInsuranceByIncome
+Population: Civilian, With Disability, Non Institutionalized:dc/topic/NoHealthInsuranceByIncome
+Population: Cognitive Difficulty:dc/topic/Race
+Population: Bachelors Degree or Higher, Female, Divorced in The Past Year:dc/topic/VeteransByGender
+Population: Bachelors Degree or Higher, Female, Married in The Past Year:dc/topic/NeverMarriedPopulationByDemographic
+Population: Bachelors Degree or Higher, Male, Divorced in The Past Year:dc/topic/VeteransByGender
+Population: Bachelors Degree or Higher, Male, Married in The Past Year:dc/topic/NeverMarriedPopulationByDemographic
+Population: 9th To 12th Grade No Diploma:dc/topic/Race
+Population: Less Than 9th Grade:dc/topic/Race
+Population: Less Than High School Diploma:dc/topic/StudentsInHighSchool
+Population: Some College No Degree:dc/topic/StudentsInCollege
+Population: Female:dc/topic/VeteransByGender
+Population: Female, Above poverty line:dc/topic/VeteransByGender
+Population: Female, Above poverty line, American Indian or Alaska Native Alone:dc/topic/Race
+Population: Female, Above poverty line, Asian Alone:dc/topic/Race
+Population: Female, Above poverty line, Black or African American Alone:dc/topic/Race
+Population: Female, Above poverty line, Hispanic or Latino:dc/topic/Race
+Population: Female, Above poverty line, Native Hawaiian or Other Pacific Islander Alone:dc/topic/Race
+Population: Female, Above poverty line, Some Other Race Alone:dc/topic/VeteransByGender
+Population: Female, Above poverty line, Two or More Races:dc/topic/VeteransByGender
+Population: Female, Above poverty line, White Alone:dc/topic/Race
+Population: Female, Above poverty line, White Alone Not Hispanic or Latino:dc/topic/Race
+Population: Female, American Indian And Alaska Native, Monoracial/Multiracial:dc/topic/Race
+Population: Female, American Indian or Alaska Native Alone:dc/topic/Race
+Population: Female, Asian Alone:dc/topic/Race
+Population: Female, Asian, Monoracial/Multiracial:dc/topic/Race
+Population: Female, Asian or Pacific Islander:dc/topic/Race
+Population: Female, below poverty line:dc/topic/VeteransByGender
+Population: Female, below poverty line, American Indian or Alaska Native Alone:dc/topic/Race
+Population: Female, below poverty line, Asian Alone:dc/topic/Race
+Population: Female, below poverty line, Black or African American Alone:dc/topic/Race
+Population: Female, below poverty line, Hispanic or Latino:dc/topic/Race
+Population: Female, below poverty line, Native Hawaiian or Other Pacific Islander Alone:dc/topic/Race
+Population: Female, below poverty line, Some Other Race Alone:dc/topic/VeteransByGender
+Population: Female, below poverty line, Two or More Races:dc/topic/VeteransByGender
+Population: Female, below poverty line, White Alone:dc/topic/Race
+Population: Female, below poverty line, White Alone Not Hispanic or Latino:dc/topic/Race
+Population: Female, Black or African American Alone:dc/topic/Race
+Population: Female, Black or African American, Monoracial/Multiracial:dc/topic/Race
+Population: Female, Divorced in The Past Year, below poverty line:dc/topic/PovertyByLanguageSpokenAtHome
+Population: Female, Divorced in The Past Year, Poverty Status Determined:dc/topic/PovertyByGender
+Population: Female, Divorced in The Past Year, Household:dc/topic/VeteransByGender
+Population: Female, Foreign Born:dc/topic/Immigration
+Population: Female, Foreign Born, Africa:dc/topic/Immigration
+Population: Female, Foreign Born, Asia:dc/topic/Immigration
+Population: Female, Foreign Born, Caribbean:dc/topic/Immigration
+Population: Female, Foreign Born, Central America Except Mexico:dc/topic/Immigration
+Population: Female, Foreign Born, Eastern Asia:dc/topic/Immigration
+Population: Female, Foreign Born, Europe:dc/topic/Immigration
+Population: Female, Foreign Born, Latin America:dc/topic/Immigration
+Population: Female, Foreign Born, Country/MEX:dc/topic/Immigration
+Population: Female, Foreign Born, Northamerica:dc/topic/Immigration
+Population: Female, Foreign Born, Northern Western Europe:dc/topic/Immigration
+Population: Female, Foreign Born, Oceania:dc/topic/Immigration
+Population: Female, Foreign Born, South Central Asia:dc/topic/Immigration
+Population: Female, Foreign Born, South Eastern Asia:dc/topic/Immigration
+Population: Female, Foreign Born, Southamerica:dc/topic/Immigration
+Population: Female, Foreign Born, Southern Eastern Europe:dc/topic/Immigration
+Population: Female, Foreign Born, Western Asia:dc/topic/Immigration
+Population: Female, Foreign Born, Adult Correctional Facilities:dc/topic/Immigration
+Population: Female, Foreign Born, College or University Student Housing:dc/topic/Immigration
+Population: Female, Foreign Born, Group Quarters:dc/topic/Immigration
+Population: Female, Foreign Born, Institutionalized Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: Female, Foreign Born, Juvenile Facilities:dc/topic/Immigration
+Population: Female, Foreign Born, Military Quarters or Military Ships:dc/topic/VeteransByGroupQuartersResidence
+Population: Female, Foreign Born, Noninstitutionalized Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: Female, Foreign Born, Nursing Facilities:dc/topic/Immigration
+Population: Female, Hispanic or Latino:dc/topic/Race
+Population: Female, Hispanic or Latino & American Indian And Alaska Native, Monoracial/Multiracial:dc/topic/Race
+Population: Female, Hispanic or Latino & American Indian or Alaska Native Alone:dc/topic/Race
+Population: Female, Hispanic or Latino & Asian Alone:dc/topic/Race
+Population: Female, Hispanic or Latino & Asian, Monoracial/Multiracial:dc/topic/Race
+Population: Female, Hispanic or Latino & Asian or Pacific Islander:dc/topic/Race
+Population: Female, Hispanic or Latino & Black or African American Alone:dc/topic/Race
+Population: Female, Hispanic or Latino & Black or African American, Monoracial/Multiracial:dc/topic/Race
+Population: Female, Hispanic or Latino & Native Hawaiian And Other Pacific Islander, Monoracial/Multiracial:dc/topic/Race
+Population: Female, Hispanic or Latino & Native Hawaiian or Other Pacific Islander Alone:dc/topic/Race
+Population: Female, Hispanic or Latino & Two or More Races:dc/topic/Race
+Population: Female, Hispanic or Latino & White Alone:dc/topic/Race
+Population: Female, Hispanic or Latino & White, Monoracial/Multiracial:dc/topic/Race
+Population: Female, Married in The Past Year, below poverty line:dc/topic/PovertyByLanguageSpokenAtHome
+Population: Female, Married in The Past Year, Poverty Status Determined:dc/topic/PovertyByGender
+Population: Female, Married in The Past Year, Household:dc/topic/Benefits
+Population: Female, Native Hawaiian or Other Pacific Islander Alone:dc/topic/Race
+Population: Female, Native Hawaiian And Other Pacific Islander, Monoracial/Multiracial:dc/topic/Race
+Population: Female, Non White:dc/topic/Race
+Population: Female, Not Hispanic or Latino:dc/topic/Race
+Population: Female, Not Hispanic or Latino & American Indian And Alaska Native, Monoracial/Multiracial:dc/topic/Race
+Population: Female, Not Hispanic or Latino & American Indian or Alaska Native Alone:dc/topic/Race
+Population: Female, Not Hispanic or Latino & Asian Alone:dc/topic/Race
+Population: Female, Not Hispanic or Latino & Asian, Monoracial/Multiracial:dc/topic/Race
+Population: Female, Not Hispanic or Latino & Asian or Pacific Islander:dc/topic/Race
+Population: Female, Not Hispanic or Latino & Black or African American Alone:dc/topic/Race
+Population: Female, Not Hispanic or Latino & Black or African American, Monoracial/Multiracial:dc/topic/Race
+Population: Female, Not Hispanic or Latino & Native Hawaiian And Other Pacific Islander, Monoracial/Multiracial:dc/topic/Race
+Population: Female, Not Hispanic or Latino & Native Hawaiian or Other Pacific Islander Alone:dc/topic/Race
+Population: Female, Not Hispanic or Latino & Two or More Races:dc/topic/Race
+Population: Female, Not Hispanic or Latino & White, Monoracial/Multiracial:dc/topic/Race
+Population: Female, Adult Correctional Facilities:dc/topic/VeteransByGroupQuartersResidence
+Population: Female, College or University Student Housing:dc/topic/StudentsInCollege
+Population: Female, Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: Female, Institutionalized Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: Female, Juvenile Facilities:dc/topic/VeteransByGender
+Population: Female, Military Quarters or Military Ships:dc/topic/VeteransByGroupQuartersResidence
+Population: Female, Noninstitutionalized Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: Female, Nursing Facilities:dc/topic/VeteransByGender
+Population: Female, Some Other Race Alone:dc/topic/VeteransByGender
+Population: Female, Two or More Races:dc/topic/VeteransByGender
+Population: Female, White Alone:dc/topic/Race
+Population: Female, White Alone Not Hispanic or Latino:dc/topic/Race
+Population: Female, White, Monoracial/Multiracial:dc/topic/Race
+Population: Female, With Earnings:dc/topic/VeteransByGender
+Population: Female, With Earnings, Adult Correctional Facilities:dc/topic/VeteransByGroupQuartersResidence
+Population: Female, With Earnings, College or University Student Housing:dc/topic/StudentsInCollege
+Population: Female, With Earnings, Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: Female, With Earnings, Institutionalized Group Quarters:dc/topic/NoHealthInsuranceByIncome
+Population: Female, With Earnings, Juvenile Facilities:dc/topic/VeteransByGender
+Population: Female, With Earnings, Military Quarters or Military Ships:dc/topic/VeteransByGroupQuartersResidence
+Population: Female, With Earnings, Noninstitutionalized Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: Female, With Earnings, Nursing Facilities:dc/topic/VeteransByGender
+Population: Hearing Difficulty:dc/topic/Race
+Population: Hispanic or Latino:dc/topic/Race
+Population: Hispanic or Latino & American Indian And Alaska Native, Monoracial/Multiracial:dc/topic/Race
+Population: Hispanic or Latino & American Indian or Alaska Native Alone:dc/topic/Race
+Population: Hispanic or Latino & Asian Alone:dc/topic/Race
+Population: Hispanic or Latino & Asian, Monoracial/Multiracial:dc/topic/Race
+Population: Hispanic or Latino & Asian or Pacific Islander:dc/topic/Race
+Population: Hispanic or Latino & Black or African American Alone:dc/topic/Race
+Population: Hispanic or Latino & Black or African American, Monoracial/Multiracial:dc/topic/Race
+Population: Hispanic or Latino & Native Hawaiian And Other Pacific Islander, Monoracial/Multiracial:dc/topic/Race
+Population: Hispanic or Latino & Native Hawaiian or Other Pacific Islander Alone:dc/topic/Race
+Population: Hispanic or Latino, Adult Correctional Facilities:dc/topic/Race
+Population: Hispanic or Latino, College or University Student Housing:dc/topic/StudentsInCollege
+Population: Hispanic or Latino, Group Quarters:dc/topic/Race
+Population: Hispanic or Latino, Institutionalized Group Quarters:dc/topic/Race
+Population: Hispanic or Latino, Juvenile Facilities:dc/topic/Race
+Population: Hispanic or Latino, Military Quarters or Military Ships:dc/topic/VeteransByGroupQuartersResidence
+Population: Hispanic or Latino, Noninstitutionalized Group Quarters:dc/topic/Race
+Population: Hispanic or Latino, Nursing Facilities:dc/topic/Race
+Population: Hispanic or Latino & Two or More Races:dc/topic/Race
+Population: Hispanic or Latino & White Alone:dc/topic/Race
+Population: Hispanic or Latino & White, Monoracial/Multiracial:dc/topic/Race
+Population: in Labor Force, Female, Divorced in The Past Year:dc/topic/CommuteMode
+Population: in Labor Force, Female, Married in The Past Year:dc/topic/CommuteMode
+Population: in Labor Force, Male, Divorced in The Past Year:dc/topic/CommuteMode
+Population: in Labor Force, Male, Married in The Past Year:dc/topic/CommuteMode
+Population: Independent Living Difficulty:dc/topic/Race
+Population: Male:dc/topic/VeteransByGender
+Population: Male, Above poverty line:dc/topic/VeteransByGender
+Population: Male, Above poverty line, American Indian or Alaska Native Alone:dc/topic/Race
+Population: Male, Above poverty line, Asian Alone:dc/topic/Race
+Population: Male, Above poverty line, Black or African American Alone:dc/topic/Race
+Population: Male, Above poverty line, Hispanic or Latino:dc/topic/Race
+Population: Male, Above poverty line, Native Hawaiian or Other Pacific Islander Alone:dc/topic/Race
+Population: Male, Above poverty line, Some Other Race Alone:dc/topic/VeteransByGender
+Population: Male, Above poverty line, Two or More Races:dc/topic/VeteransByGender
+Population: Male, Above poverty line, White Alone:dc/topic/Race
+Population: Male, Above poverty line, White Alone Not Hispanic or Latino:dc/topic/Race
+Population: Male, American Indian And Alaska Native, Monoracial/Multiracial:dc/topic/Race
+Population: Male, American Indian or Alaska Native Alone:dc/topic/Race
+Population: Male, Asian Alone:dc/topic/Race
+Population: Male, Asian, Monoracial/Multiracial:dc/topic/Race
+Population: Male, Asian or Pacific Islander:dc/topic/Race
+Population: Male, below poverty line:dc/topic/VeteransByGender
+Population: Male, below poverty line, American Indian or Alaska Native Alone:dc/topic/Race
+Population: Male, below poverty line, Asian Alone:dc/topic/Race
+Population: Male, below poverty line, Black or African American Alone:dc/topic/Race
+Population: Male, below poverty line, Hispanic or Latino:dc/topic/Race
+Population: Male, below poverty line, Native Hawaiian or Other Pacific Islander Alone:dc/topic/Race
+Population: Male, below poverty line, Some Other Race Alone:dc/topic/VeteransByGender
+Population: Male, below poverty line, Two or More Races:dc/topic/VeteransByGender
+Population: Male, below poverty line, White Alone:dc/topic/Race
+Population: Male, below poverty line, White Alone Not Hispanic or Latino:dc/topic/Race
+Population: Male, Black or African American Alone:dc/topic/Race
+Population: Male, Black or African American, Monoracial/Multiracial:dc/topic/Race
+Population: Male, Divorced in The Past Year, below poverty line:dc/topic/PovertyByLanguageSpokenAtHome
+Population: Male, Divorced in The Past Year, Poverty Status Determined:dc/topic/PovertyByGender
+Population: Male, Divorced in The Past Year, Household:dc/topic/VeteransByGender
+Population: Male, Foreign Born:dc/topic/Immigration
+Population: Male, Foreign Born, Africa:dc/topic/Immigration
+Population: Male, Foreign Born, Asia:dc/topic/Immigration
+Population: Male, Foreign Born, Caribbean:dc/topic/Immigration
+Population: Male, Foreign Born, Central America Except Mexico:dc/topic/Immigration
+Population: Male, Foreign Born, Eastern Asia:dc/topic/Immigration
+Population: Male, Foreign Born, Europe:dc/topic/Immigration
+Population: Male, Foreign Born, Latin America:dc/topic/Immigration
+Population: Male, Foreign Born, Country/MEX:dc/topic/Immigration
+Population: Male, Foreign Born, Northamerica:dc/topic/Immigration
+Population: Male, Foreign Born, Northern Western Europe:dc/topic/Immigration
+Population: Male, Foreign Born, Oceania:dc/topic/Immigration
+Population: Male, Foreign Born, South Central Asia:dc/topic/Immigration
+Population: Male, Foreign Born, South Eastern Asia:dc/topic/Immigration
+Population: Male, Foreign Born, Southamerica:dc/topic/Immigration
+Population: Male, Foreign Born, Southern Eastern Europe:dc/topic/Immigration
+Population: Male, Foreign Born, Western Asia:dc/topic/Immigration
+Population: Male, Foreign Born, Adult Correctional Facilities:dc/topic/Immigration
+Population: Male, Foreign Born, College or University Student Housing:dc/topic/Immigration
+Population: Male, Foreign Born, Group Quarters:dc/topic/Immigration
+Population: Male, Foreign Born, Institutionalized Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: Male, Foreign Born, Juvenile Facilities:dc/topic/Immigration
+Population: Male, Foreign Born, Military Quarters or Military Ships:dc/topic/VeteransByGroupQuartersResidence
+Population: Male, Foreign Born, Noninstitutionalized Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: Male, Foreign Born, Nursing Facilities:dc/topic/Immigration
+Population: Male, Hispanic or Latino:dc/topic/Race
+Population: Male, Hispanic or Latino & American Indian And Alaska Native, Monoracial/Multiracial:dc/topic/Race
+Population: Male, Hispanic or Latino & American Indian or Alaska Native Alone:dc/topic/Race
+Population: Male, Hispanic or Latino & Asian Alone:dc/topic/Race
+Population: Male, Hispanic or Latino & Asian, Monoracial/Multiracial:dc/topic/Race
+Population: Male, Hispanic or Latino & Asian or Pacific Islander:dc/topic/Race
+Population: Male, Hispanic or Latino & Black or African American Alone:dc/topic/Race
+Population: Male, Hispanic or Latino & Black or African American, Monoracial/Multiracial:dc/topic/Race
+Population: Male, Hispanic or Latino & Native Hawaiian And Other Pacific Islander, Monoracial/Multiracial:dc/topic/Race
+Population: Male, Hispanic or Latino & Native Hawaiian or Other Pacific Islander Alone:dc/topic/Race
+Population: Male, Hispanic or Latino & Two or More Races:dc/topic/Race
+Population: Male, Hispanic or Latino & White Alone:dc/topic/Race
+Population: Male, Hispanic or Latino & White, Monoracial/Multiracial:dc/topic/Race
+Population: Male, Married in The Past Year, below poverty line:dc/topic/PovertyByLanguageSpokenAtHome
+Population: Male, Married in The Past Year, Poverty Status Determined:dc/topic/PovertyByGender
+Population: Male, Married in The Past Year, Household:dc/topic/Benefits
+Population: Male, Native Hawaiian or Other Pacific Islander Alone:dc/topic/Race
+Population: Male, Native Hawaiian And Other Pacific Islander, Monoracial/Multiracial:dc/topic/Race
+Population: Male, Non White:dc/topic/Race
+Population: Male, Not Hispanic or Latino:dc/topic/Race
+Population: Male, Not Hispanic or Latino & American Indian And Alaska Native, Monoracial/Multiracial:dc/topic/Race
+Population: Male, Not Hispanic or Latino & American Indian or Alaska Native Alone:dc/topic/Race
+Population: Male, Not Hispanic or Latino & Asian Alone:dc/topic/Race
+Population: Male, Not Hispanic or Latino & Asian, Monoracial/Multiracial:dc/topic/Race
+Population: Male, Not Hispanic or Latino & Asian or Pacific Islander:dc/topic/Race
+Population: Male, Not Hispanic or Latino & Black or African American Alone:dc/topic/Race
+Population: Male, Not Hispanic or Latino & Black or African American, Monoracial/Multiracial:dc/topic/Race
+Population: Male, Not Hispanic or Latino & Native Hawaiian And Other Pacific Islander, Monoracial/Multiracial:dc/topic/Race
+Population: Male, Not Hispanic or Latino & Native Hawaiian or Other Pacific Islander Alone:dc/topic/Race
+Population: Male, Not Hispanic or Latino & Two or More Races:dc/topic/Race
+Population: Male, Not Hispanic or Latino & White, Monoracial/Multiracial:dc/topic/Race
+Population: Male, Adult Correctional Facilities:dc/topic/VeteransByGroupQuartersResidence
+Population: Male, College or University Student Housing:dc/topic/StudentsInCollege
+Population: Male, Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: Male, Institutionalized Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: Male, Juvenile Facilities:dc/topic/VeteransByGender
+Population: Male, Military Quarters or Military Ships:dc/topic/VeteransByGroupQuartersResidence
+Population: Male, Noninstitutionalized Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: Male, Nursing Facilities:dc/topic/VeteransByGender
+Population: Male, Some Other Race Alone:dc/topic/VeteransByGender
+Population: Male, Two or More Races:dc/topic/VeteransByGender
+Population: Male, White Alone:dc/topic/Race
+Population: Male, White Alone Not Hispanic or Latino:dc/topic/Race
+Population: Male, White, Monoracial/Multiracial:dc/topic/Race
+Population: Male, With Earnings:dc/topic/VeteransByGender
+Population: Male, With Earnings, Adult Correctional Facilities:dc/topic/VeteransByGroupQuartersResidence
+Population: Male, With Earnings, College or University Student Housing:dc/topic/StudentsInCollege
+Population: Male, With Earnings, Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: Male, With Earnings, Institutionalized Group Quarters:dc/topic/NoHealthInsuranceByIncome
+Population: Male, With Earnings, Juvenile Facilities:dc/topic/VeteransByGender
+Population: Male, With Earnings, Military Quarters or Military Ships:dc/topic/VeteransByGroupQuartersResidence
+Population: Male, With Earnings, Noninstitutionalized Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: Male, With Earnings, Nursing Facilities:dc/topic/VeteransByGender
+Population: Native Hawaiian or Other Pacific Islander Alone:dc/topic/Race
+Population: Native Hawaiian And Other Pacific Islander, Monoracial/Multiracial:dc/topic/Race
+Population: Native Hawaiian or Other Pacific Islander Alone, Adult Correctional Facilities:dc/topic/Race
+Population: Native Hawaiian or Other Pacific Islander Alone, College or University Student Housing:dc/topic/Race
+Population: Native Hawaiian or Other Pacific Islander Alone, Group Quarters:dc/topic/Race
+Population: Native Hawaiian or Other Pacific Islander Alone, Institutionalized Group Quarters:dc/topic/Race
+Population: Native Hawaiian or Other Pacific Islander Alone, Juvenile Facilities:dc/topic/Race
+Population: Native Hawaiian or Other Pacific Islander Alone, Military Quarters or Military Ships:dc/topic/Race
+Population: Native Hawaiian or Other Pacific Islander Alone, Noninstitutionalized Group Quarters:dc/topic/Race
+Population: Native Hawaiian or Other Pacific Islander Alone, Nursing Facilities:dc/topic/Race
+Population: No Disability:dc/topic/Race
+Population: No Disability, Adult Correctional Facilities:dc/topic/VeteransByGroupQuartersResidence
+Population: No Disability, College or University Student Housing:dc/topic/VeteransByGroupQuartersResidence
+Population: No Disability, Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: No Disability, Institutionalized Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: No Disability, Noninstitutionalized Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: No Disability, Nursing Facilities:dc/topic/VeteransByGroupQuartersResidence
+Population: No Health Insurance:dc/topic/NoHealthInsuranceByIncome
+Population: Non White:dc/topic/Race
+Population: Not Hispanic or Latino:dc/topic/Race
+Population: Not Hispanic or Latino & American Indian And Alaska Native, Monoracial/Multiracial:dc/topic/Race
+Population: Not Hispanic or Latino & American Indian or Alaska Native Alone:dc/topic/Race
+Population: Not Hispanic or Latino & Asian Alone:dc/topic/Race
+Population: Not Hispanic or Latino & Asian, Monoracial/Multiracial:dc/topic/Race
+Population: Not Hispanic or Latino & Asian or Pacific Islander:dc/topic/Race
+Population: Not Hispanic or Latino & Black or African American Alone:dc/topic/Race
+Population: Not Hispanic or Latino & Black or African American, Monoracial/Multiracial:dc/topic/Race
+Population: Not Hispanic or Latino & Native Hawaiian And Other Pacific Islander, Monoracial/Multiracial:dc/topic/Race
+Population: Not Hispanic or Latino & Native Hawaiian or Other Pacific Islander Alone:dc/topic/Race
+Population: Not Hispanic or Latino, Group Quarters:dc/topic/Race
+Population: Not Hispanic or Latino, Institutionalized Group Quarters:dc/topic/Race
+Population: Not Hispanic or Latino, Noninstitutionalized Group Quarters:dc/topic/Race
+Population: Not Hispanic or Latino & Two or More Races:dc/topic/Race
+Population: Not Hispanic or Latino & White, Monoracial/Multiracial:dc/topic/Race
+Population: Not in Labor Force, Female, Divorced in The Past Year:dc/topic/CommuteMode
+Population: Not in Labor Force, Female, Married in The Past Year:dc/topic/CommuteMode
+Population: Not in Labor Force, Male, Divorced in The Past Year:dc/topic/CommuteMode
+Population: Not in Labor Force, Male, Married in The Past Year:dc/topic/CommuteMode
+Population: One Race:dc/topic/Race
+Population: One Race, Adult Correctional Facilities:dc/topic/VeteransByGroupQuartersResidence
+Population: One Race, College or University Student Housing:dc/topic/StudentsInCollege
+Population: One Race, Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: One Race, Institutionalized Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: One Race, Juvenile Facilities:dc/topic/VeteransByGroupQuartersResidence
+Population: One Race, Military Quarters or Military Ships:dc/topic/VeteransByGroupQuartersResidence
+Population: One Race, Noninstitutionalized Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: One Race, Nursing Facilities:dc/topic/VeteransByGroupQuartersResidence
+Population Density:dc/topic/Race
+Population: Poverty Status Determined:dc/topic/PovertyByLanguageSpokenAtHome
+Population: Poverty Status Determined, Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: Poverty Status Determined, Noninstitutionalized Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: Producer, American Indian or Alaska Native Alone:dc/topic/Race
+Population: Producer, Asian Alone:dc/topic/Race
+Population: Producer, Black or African American Alone:dc/topic/Race
+Population: Producer, Hispanic or Latino:dc/topic/Race
+Population: Producer, Native Hawaiian or Other Pacific Islander Alone:dc/topic/Race
+Population: Producer, Two or More Races:dc/topic/Race
+Population: Producer, White Alone:dc/topic/Race
+Population: Self Care Difficulty:dc/topic/Race
+Population: Some Other Race Alone:dc/topic/Race
+Population: Some Other Race Alone, Adult Correctional Facilities:dc/topic/VeteransByGroupQuartersResidence
+Population: Some Other Race Alone, College or University Student Housing:dc/topic/StudentsInCollege
+Population: Some Other Race Alone, Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: Some Other Race Alone, Institutionalized Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: Some Other Race Alone, Juvenile Facilities:dc/topic/VeteransByGroupQuartersResidence
+Population: Some Other Race Alone, Military Quarters or Military Ships:dc/topic/VeteransByGroupQuartersResidence
+Population: Some Other Race Alone, Noninstitutionalized Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: Some Other Race Alone, Nursing Facilities:dc/topic/VeteransByGroupQuartersResidence
+Population: Two or More Races:dc/topic/Race
+Population: Two or More Races, Adult Correctional Facilities:dc/topic/VeteransByGroupQuartersResidence
+Population: Two or More Races, College or University Student Housing:dc/topic/StudentsInCollege
+Population: Two or More Races, Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: Two or More Races, Institutionalized Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: Two or More Races, Juvenile Facilities:dc/topic/VeteransByGroupQuartersResidence
+Population: Two or More Races, Military Quarters or Military Ships:dc/topic/VeteransByGroupQuartersResidence
+Population: Two or More Races, Noninstitutionalized Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: Two or More Races, Nursing Facilities:dc/topic/VeteransByGroupQuartersResidence
+Population: Vision Difficulty:dc/topic/Race
+Population: White Alone:dc/topic/Race
+Population: White Alone Not Hispanic or Latino:dc/topic/Race
+Population: White Alone Not Hispanic or Latino, Adult Correctional Facilities:dc/topic/Race
+Population: White Alone Not Hispanic or Latino, College or University Student Housing:dc/topic/StudentsInCollege
+Population: White Alone Not Hispanic or Latino, Group Quarters:dc/topic/Race
+Population: White Alone Not Hispanic or Latino, Institutionalized Group Quarters:dc/topic/Race
+Population: White Alone Not Hispanic or Latino, Juvenile Facilities:dc/topic/Race
+Population: White Alone Not Hispanic or Latino, Military Quarters or Military Ships:dc/topic/Race
+Population: White Alone Not Hispanic or Latino, Noninstitutionalized Group Quarters:dc/topic/Race
+Population: White Alone Not Hispanic or Latino, Nursing Facilities:dc/topic/Race
+Population: White, Monoracial/Multiracial:dc/topic/Race
+Population: White Alone, Adult Correctional Facilities:dc/topic/VeteransByGroupQuartersResidence
+Population: White Alone, College or University Student Housing:dc/topic/StudentsInCollege
+Population: White Alone, Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: White Alone, Institutionalized Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: White Alone, Juvenile Facilities:dc/topic/Race
+Population: White Alone, Military Quarters or Military Ships:dc/topic/VeteransByGroupQuartersResidence
+Population: White Alone, Noninstitutionalized Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: White Alone, Nursing Facilities:dc/topic/Race
+Population: With Direct Purchase Health Insurance:dc/topic/NoHealthInsuranceByIncome
+Population: With Direct Purchase Health Insurance Only:dc/topic/NoHealthInsuranceByIncome
+Population: With Disability:dc/topic/Race
+Population: With Disability, American Indian or Alaska Native Alone:dc/topic/Race
+Population: With Disability, Asian Alone:dc/topic/Race
+Population: With Disability, Black or African American Alone:dc/topic/Race
+Population: With Disability, Female:dc/topic/VeteransByGender
+Population: With Disability, Hispanic or Latino:dc/topic/Race
+Population: With Disability, Male:dc/topic/VeteransByGender
+Population: With Disability, Native Hawaiian or Other Pacific Islander Alone:dc/topic/Race
+Population: With Disability, One Race:dc/topic/Race
+Population: With Disability, Adult Correctional Facilities:dc/topic/VeteransByGroupQuartersResidence
+Population: With Disability, College or University Student Housing:dc/topic/VeteransByGroupQuartersResidence
+Population: With Disability, Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: With Disability, Institutionalized Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: With Disability, Juvenile Facilities:dc/topic/VeteransByGroupQuartersResidence
+Population: With Disability, Military Quarters or Military Ships:dc/topic/VeteransByGroupQuartersResidence
+Population: With Disability, Noninstitutionalized Group Quarters:dc/topic/VeteransByGroupQuartersResidence
+Population: With Disability, Nursing Facilities:dc/topic/VeteransByGroupQuartersResidence
+Population: With Disability, Some Other Race Alone:dc/topic/Race
+Population: With Disability, Two or More Races:dc/topic/Race
+Population: With Disability, White Alone:dc/topic/Race
+Population: With Disability, White Alone Not Hispanic or Latino:dc/topic/Race
+Population: With Employer Based Health Insurance:dc/topic/NoHealthInsuranceByIncome
+Population: With Employer Based Health Insurance Only:dc/topic/NoHealthInsuranceByIncome
+Population: With Food Stamps in The Past Year, Adult Correctional Facilities:dc/topic/Benefits
+Population: With Food Stamps in The Past Year, College or University Student Housing:dc/topic/Benefits
+Population: With Food Stamps in The Past Year, Group Quarters:dc/topic/Benefits
+Population: With Food Stamps in The Past Year, Institutionalized Group Quarters:dc/topic/Benefits
+Population: With Food Stamps in The Past Year, Juvenile Facilities:dc/topic/Benefits
+Population: With Food Stamps in The Past Year, Noninstitutionalized Group Quarters:dc/topic/Benefits
+Population: With Food Stamps in The Past Year, Nursing Facilities:dc/topic/Benefits
+Population: With Health Insurance:dc/topic/NoHealthInsuranceByIncome
+Population: With Medicaid or Means Tested Public Coverage:dc/topic/CommuteModeByOccupation
+Population: With Medicaid or Means Tested Public Coverage Only:dc/topic/CommuteModeByOccupation
+Population: With Medicare Coverage:dc/topic/Race
+Population: With Medicare Coverage Only:dc/topic/Race
+Population: With Private Health Insurance:dc/topic/HealthInsuranceType
+Population: With Private Health Insurance Only:dc/topic/HealthInsuranceType
+Population: With Public Health Insurance:dc/topic/HealthInsuranceType
+Population: With Public Health Insurance Only:dc/topic/HealthInsuranceType
+Population: With Tricare Military Health Coverage:dc/topic/CommuteModeByOccupation
+Population: With Tricare Military Health Coverage Only:dc/topic/CommuteModeByOccupation
+Population: With VAHealth Care:dc/topic/Race
+Population: With VAHealth Care Only:dc/topic/Race
+Fertility Rate:dc/topic/UnemploymentRate
+Population Growth Rate:dc/topic/Race
+Life Expectancy:dc/topic/LifeExpectancy
+Life expectancy at birth, female (years):dc/topic/VeteransByGender
+Life Expectancy: Male:dc/topic/LifeExpectancy
+Mean Earnings: Female, With Earnings:dc/topic/NoHealthInsuranceByIncome
+Mean Earnings: Female, With Earnings, Adult Correctional Facilities:dc/topic/NoHealthInsuranceByIncome
+Mean Earnings: Female, With Earnings, College or University Student Housing:dc/topic/NoHealthInsuranceByIncome
+Mean Earnings: Female, With Earnings, Group Quarters:dc/topic/NoHealthInsuranceByIncome
+Mean Earnings: Female, With Earnings, Institutionalized Group Quarters:dc/topic/NoHealthInsuranceByIncome
+Mean Earnings: Female, With Earnings, Juvenile Facilities:dc/topic/NoHealthInsuranceByIncome
+Mean Earnings: Female, With Earnings, Military Quarters or Military Ships:dc/topic/VeteransByGroupQuartersResidence
+Mean Earnings: Female, With Earnings, Noninstitutionalized Group Quarters:dc/topic/NoHealthInsuranceByIncome
+Mean Earnings: Female, With Earnings, Nursing Facilities:dc/topic/NoHealthInsuranceByIncome
+Mean Earnings: Male, With Earnings:dc/topic/NoHealthInsuranceByIncome
+Mean Earnings: Male, With Earnings, Adult Correctional Facilities:dc/topic/NoHealthInsuranceByIncome
+Mean Earnings: Male, With Earnings, College or University Student Housing:dc/topic/NoHealthInsuranceByIncome
+Mean Earnings: Male, With Earnings, Group Quarters:dc/topic/NoHealthInsuranceByIncome
+Mean Earnings: Male, With Earnings, Institutionalized Group Quarters:dc/topic/NoHealthInsuranceByIncome
+Mean Earnings: Male, With Earnings, Juvenile Facilities:dc/topic/NoHealthInsuranceByIncome
+Mean Earnings: Male, With Earnings, Military Quarters or Military Ships:dc/topic/VeteransByGroupQuartersResidence
+Mean Earnings: Male, With Earnings, Noninstitutionalized Group Quarters:dc/topic/NoHealthInsuranceByIncome
+Mean Earnings: Male, With Earnings, Nursing Facilities:dc/topic/NoHealthInsuranceByIncome
+Mean Income of Household: With Income:dc/topic/MedianHouseholdIncomeByRace
+Mean Income of Household: Family Household, With Income:dc/topic/MedianHouseholdIncomeByRace
+Mean Income of Household: Married Couple Family Household, With Income:dc/topic/MedianHouseholdIncomeByRace
+Mean Income of Household: Nonfamily Household, With Income:dc/topic/MedianHouseholdIncomeByRace
+Median Age:dc/topic/WHOMortalityCauses
+Median Age: American Indian or Alaska Native Alone:dc/topic/Race
+Median Age: Asian Alone:dc/topic/MedianHouseholdIncomeByRace
+Median Age: Black or African American Alone:dc/topic/MedianHouseholdIncomeByRace
+Median Age: Female:dc/topic/WHOMortalityCauses
+Median Age: Female, American Indian or Alaska Native Alone:dc/topic/Race
+Median Age: Female, Asian Alone:dc/topic/MedianHouseholdIncomeByRace
+Median Age: Female, Black or African American Alone:dc/topic/MedianHouseholdIncomeByRace
+Median Age: Female, Divorced in The Past Year:dc/topic/Benefits
+Median Age: Female, Foreign Born:dc/topic/Immigration
+Median Age: Female, Hispanic or Latino:dc/topic/MedianHouseholdIncomeByRace
+Median Age: Female, Married in The Past Year:dc/topic/Benefits
+Median Age: Female, Native:dc/topic/MedianHouseholdIncomeByRace
+Median Age: Female, Native Hawaiian or Other Pacific Islander Alone:dc/topic/Race
+Median Age: Female, Some Other Race Alone:dc/topic/MedianHouseholdIncomeByRace
+Median Age: Female, Two or More Races:dc/topic/MedianHouseholdIncomeByRace
+Median Age: Female, White Alone:dc/topic/MedianHouseholdIncomeByRace
+Median Age: Female, White Alone Not Hispanic or Latino:dc/topic/MedianHouseholdIncomeByRace
+Median Age: Hispanic or Latino:dc/topic/MedianHouseholdIncomeByRace
+Median Age: Male:dc/topic/WHOMortalityCauses
+Median Age: Male, American Indian or Alaska Native Alone:dc/topic/Race
+Median Age: Male, Asian Alone:dc/topic/MedianHouseholdIncomeByRace
+Median Age: Male, Black or African American Alone:dc/topic/MedianHouseholdIncomeByRace
+Median Age: Male, Divorced in The Past Year:dc/topic/Benefits
+Median Age: Male, Foreign Born:dc/topic/Immigration
+Median Age: Male, Hispanic or Latino:dc/topic/MedianHouseholdIncomeByRace
+Median Age: Male, Married in The Past Year:dc/topic/Benefits
+Median Age: Male, Native:dc/topic/MedianHouseholdIncomeByRace
+Median Age: Male, Native Hawaiian or Other Pacific Islander Alone:dc/topic/Race
+Median Age: Male, Some Other Race Alone:dc/topic/MedianHouseholdIncomeByRace
+Median Age: Male, Two or More Races:dc/topic/MedianHouseholdIncomeByRace
+Median Age: Male, White Alone:dc/topic/MedianHouseholdIncomeByRace
+Median Age: Male, White Alone Not Hispanic or Latino:dc/topic/MedianHouseholdIncomeByRace
+Median Age: Native Hawaiian or Other Pacific Islander Alone:dc/topic/Race
+Median Age: Civilian, No Health Insurance, Non Institutionalized:dc/topic/NoHealthInsuranceByIncome
+Median Age: Not A US Citizen, Female, Foreign Born:dc/topic/Immigration
+Median Age: Not A US Citizen, Male, Foreign Born:dc/topic/Immigration
+Median Age: Some Other Race Alone:dc/topic/MedianHouseholdIncomeByRace
+Median Age: Two or More Races:dc/topic/MedianHouseholdIncomeByRace
+Median Age: US Citizen by Naturalization, Female, Foreign Born:dc/topic/Immigration
+Median Age: US Citizen by Naturalization, Male, Foreign Born:dc/topic/Immigration
+Median Age: White Alone:dc/topic/MedianHouseholdIncomeByRace
+Median Age: White Alone Not Hispanic or Latino:dc/topic/MedianHouseholdIncomeByRace
+Median Earnings: With Earnings:dc/topic/NoHealthInsuranceByIncome
+Median Earnings: Female, With Earnings:dc/topic/NoHealthInsuranceByIncome
+Median Earnings: Female, With Earnings, Adult Correctional Facilities:dc/topic/NoHealthInsuranceByIncome
+Median Earnings: Female, With Earnings, College or University Student Housing:dc/topic/NoHealthInsuranceByIncome
+Median Earnings: Female, With Earnings, Group Quarters:dc/topic/NoHealthInsuranceByIncome
+Median Earnings: Female, With Earnings, Institutionalized Group Quarters:dc/topic/NoHealthInsuranceByIncome
+Median Earnings: Female, With Earnings, Juvenile Facilities:dc/topic/NoHealthInsuranceByIncome
+Median Earnings: Female, With Earnings, Military Quarters or Military Ships:dc/topic/VeteransByGroupQuartersResidence
+Median Earnings: Female, With Earnings, Noninstitutionalized Group Quarters:dc/topic/NoHealthInsuranceByIncome
+Median Earnings: Female, With Earnings, Nursing Facilities:dc/topic/NoHealthInsuranceByIncome
+Median Earnings: Male, With Earnings:dc/topic/NoHealthInsuranceByIncome
+Median Earnings: Male, With Earnings, Adult Correctional Facilities:dc/topic/NoHealthInsuranceByIncome
+Median Earnings: Male, With Earnings, College or University Student Housing:dc/topic/NoHealthInsuranceByIncome
+Median Earnings: Male, With Earnings, Group Quarters:dc/topic/NoHealthInsuranceByIncome
+Median Earnings: Male, With Earnings, Institutionalized Group Quarters:dc/topic/NoHealthInsuranceByIncome
+Median Earnings: Male, With Earnings, Juvenile Facilities:dc/topic/NoHealthInsuranceByIncome
+Median Earnings: Male, With Earnings, Military Quarters or Military Ships:dc/topic/VeteransByGroupQuartersResidence
+Median Earnings: Male, With Earnings, Noninstitutionalized Group Quarters:dc/topic/NoHealthInsuranceByIncome
+Median Earnings: Male, With Earnings, Nursing Facilities:dc/topic/NoHealthInsuranceByIncome
+Median Income of Household:dc/topic/MedianHouseholdIncomeByRace
+Median Income of Household: Family Household, With Income:dc/topic/MedianHouseholdIncomeByRace
+Median Income of Household: Married Couple Family Household, With Income:dc/topic/MedianHouseholdIncomeByRace
+Median Income of Household: No Health Insurance:dc/topic/MedianHouseholdIncomeByRace
+Median Income of Household: Nonfamily Household, With Income:dc/topic/MedianHouseholdIncomeByRace
+Median Income of Household: With Food Stamps in The Past Year:dc/topic/Benefits
+Median Income of Household: Without Food Stamps in The Past Year:dc/topic/Benefits
+Quantity Sold of Farm Inventory: Cattle And Calves:dc/topic/Agriculture
+Quantity Sold of Farm Inventory: Hogs And Pigs:dc/topic/Agriculture
+Unemployment Rate:dc/topic/UnemploymentRate
+Unemployment Rate: Female:dc/topic/UnemploymentRate
+Unemployment Rate: Male:dc/topic/UnemploymentRate
+Farm Inventory:dc/topic/Agriculture
+Area of Farm:dc/topic/Agriculture
+Count of Farm:dc/topic/RentalHouses
+Expenses of Farm:dc/topic/Agriculture
+Income of Farm:dc/topic/Agriculture
+Income of Farm (Net Measure):dc/topic/Agriculture
+Mean Area of Farm:dc/topic/Agriculture
+Mean Expenses of Farm:dc/topic/Agriculture
+Mean Income of Farm (Net Measure):dc/topic/Agriculture
+Median Area of Farm:dc/topic/Agriculture
+Count of Farm: Beef Cows:dc/topic/Agriculture
+Count of Farm: Broilers:dc/topic/RentalHouses
+Count of Farm: Layers:dc/topic/RentalHouses
+Count of Farm: Milk Cows:dc/topic/Agriculture
+Count of Farm: Sheep And Lambs:dc/topic/Agriculture
+Market Value of Farm: Crops:dc/topic/Agriculture
+Market Value of Farm: Livestock And Poultry:dc/topic/Agriculture
+Mean Market Value of Farm: Land And Buildings:dc/topic/Agriculture
+Farm With Farm Inventory Type = Agricultural Products:dc/topic/Agriculture
+Farm With Farm Inventory Type = Barley for Grain:dc/topic/Agriculture
+Farm With Farm Inventory Type = Cattle And Calves:dc/topic/Agriculture
+Farm With Farm Inventory Type = Corn for Grain:dc/topic/Agriculture
+Farm With Farm Inventory Type = Corn for Silage or Greenchop:dc/topic/Agriculture
+Farm With Farm Inventory Type = Cotton:dc/topic/Agriculture
+Farm With Farm Inventory Type = Dry Edible Beans:dc/topic/Agriculture
+Farm With Farm Inventory Type = Durum Wheat for Grain:dc/topic/Agriculture
+Farm With Farm Inventory Type = Forage:dc/topic/Agriculture
+Farm With Farm Inventory Type = Hogs And Pigs:dc/topic/Agriculture
+Farm With Farm Inventory Type = Oats for Grain:dc/topic/Agriculture
+Farm With Farm Inventory Type = Orchards:dc/topic/Agriculture
+Farm With Farm Inventory Type = Other Spring Wheat for Grain:dc/topic/Agriculture
+Farm With Farm Inventory Type = Peanuts for Nuts:dc/topic/Agriculture
+Farm With Farm Inventory Type = Pima Cotton:dc/topic/Agriculture
+Farm With Farm Inventory Type = Potatoes:dc/topic/Agriculture
+Farm With Farm Inventory Type = Rice:dc/topic/Agriculture
+Farm With Farm Inventory Type = Sorghum for Grain:dc/topic/Agriculture
+Farm With Farm Inventory Type = Sugar Beets for Sugar:dc/topic/Agriculture
+Farm With Farm Inventory Type = Sunflower Seed:dc/topic/Agriculture
+Farm With Farm Inventory Type = Sweet Potatoes:dc/topic/Agriculture
+Farm With Farm Inventory Type = Upland Cotton:dc/topic/Agriculture
+Farm With Farm Inventory Type = Vegetables Harvested for Sale:dc/topic/Agriculture
+Farm With Farm Inventory Type = Wheat for Grain:dc/topic/Agriculture
+Farm With Farm Inventory Type = Winter Wheat for Grain:dc/topic/Agriculture
+Count of Farm: 1 - 9.9 Acre:dc/topic/RentalHouses
+Count of Farm: 1,000 Acre or More:dc/topic/RentalHouses
+Count of Farm: 10 - 49.9 Acre:dc/topic/NumberOfBusinessesByOwnership
+Count of Farm: 180 - 499 Acre:dc/topic/RentalHouses
+Count of Farm: 50 - 179 Acre:dc/topic/RentalHouses
+Count of Farm: 500 - 999 Acre:dc/topic/RentalHouses
+Farm With Farm Type = Cropland:dc/topic/Agriculture
+Market Value of Farm: Agricultural Products:dc/topic/Agriculture
+Mean Market Value of Farm: Agricultural Products:dc/topic/Agriculture
+Area of Farm: Barley for Grain:dc/topic/Agriculture
+Count of Farm: Barley for Grain:dc/topic/Agriculture
+Count of Farm: Cattle And Calves:dc/topic/Agriculture
+Count of Farm: Inventory Sold, Cattle And Calves:dc/topic/Agriculture
+Area of Farm: Corn for Grain:dc/topic/Agriculture
+Count of Farm: Corn for Grain:dc/topic/Agriculture
+Area of Farm: Corn for Silage or Greenchop:dc/topic/Agriculture
+Count of Farm: Corn for Silage or Greenchop:dc/topic/Agriculture
+Area of Farm: Cotton:dc/topic/Agriculture
+Count of Farm: Cotton:dc/topic/Agriculture
+Area of Farm: Dry Edible Beans:dc/topic/Agriculture
+Count of Farm: Dry Edible Beans:dc/topic/Agriculture
+Area of Farm: Durum Wheat for Grain:dc/topic/Agriculture
+Count of Farm: Durum Wheat for Grain:dc/topic/Agriculture
+Count of Farm: Hogs And Pigs:dc/topic/Agriculture
+Count of Farm: Inventory Sold, Hogs And Pigs:dc/topic/Agriculture
+Market Value of Farm: Machinery And Equipment:dc/topic/Agriculture
+Mean Market Value of Farm: Machinery And Equipment:dc/topic/Agriculture
+Area of Farm: Oats for Grain:dc/topic/Agriculture
+Count of Farm: Oats for Grain:dc/topic/Agriculture
+Area of Farm: Orchards:dc/topic/Agriculture
+Count of Farm: Orchards:dc/topic/RentalHouses
+Area of Farm: Peanuts for Nuts:dc/topic/Agriculture
+Count of Farm: Peanuts for Nuts:dc/topic/Agriculture
+Area of Farm: Pima Cotton:dc/topic/Agriculture
+Count of Farm: Pima Cotton:dc/topic/Agriculture
+Area of Farm: Potatoes:dc/topic/Agriculture
+Count of Farm: Potatoes:dc/topic/RentalHouses
+Area of Farm: Rice:dc/topic/Agriculture
+Count of Farm: Rice:dc/topic/Agriculture
+Area of Farm: Sorghum for Grain:dc/topic/Agriculture
+Count of Farm: Sorghum for Grain:dc/topic/Agriculture
+Area of Farm: Sugar Beets for Sugar:dc/topic/Agriculture
+Count of Farm: Sugar Beets for Sugar:dc/topic/RentalHouses
+Area of Farm: Sunflower Seed:dc/topic/Agriculture
+Count of Farm: Sunflower Seed:dc/topic/RentalHouses
+Area of Farm: Sweet Potatoes:dc/topic/Agriculture
+Count of Farm: Sweet Potatoes:dc/topic/RentalHouses
+Area of Farm: Upland Cotton:dc/topic/Agriculture
+Count of Farm: Upland Cotton:dc/topic/Agriculture
+Area of Farm: Vegetables Harvested for Sale:dc/topic/Agriculture
+Count of Farm: Vegetables Harvested for Sale:dc/topic/RentalHouses
+Area of Farm: Wheat for Grain:dc/topic/Agriculture
+Count of Farm: Wheat for Grain:dc/topic/Agriculture
+Area of Farm: Winter Wheat for Grain:dc/topic/Agriculture
+Count of Farm: Winter Wheat for Grain:dc/topic/Agriculture
+Area of Farm: Cropland:dc/topic/Agriculture
+Count of Farm: Cropland:dc/topic/RentalHouses
+Area of Farm: Harvested Cropland:dc/topic/Agriculture
+Count of Farm: Harvested Cropland:dc/topic/RentalHouses
+Area of Farm: Irrigated Land:dc/topic/Agriculture
+Count of Farm: Irrigated Land:dc/topic/RentalHouses
+Count of Farm: Government Payment:dc/topic/NumberOfBusinessesByOwnership
+Monetary Value of Farm: Government Payment:dc/topic/Agriculture
+Farm With Ownership Status, Race = American Indian or Alaska Native Alone:dc/topic/Race
+Farm With Ownership Status, Race = Asian Alone:dc/topic/Race
+Farm With Ownership Status, Race = Black or African American Alone:dc/topic/Race
+Farm With Ownership Status, Race = Hispanic or Latino:dc/topic/DisabilitiesByRace
+Farm With Ownership Status, Race = Native Hawaiian or Other Pacific Islander Alone:dc/topic/Race
+Farm With Ownership Status, Race = Two or More Races:dc/topic/Agriculture
+Farm With Ownership Status, Race = White Alone:dc/topic/DisabilitiesByRace
+Person With Industry = Accommodation And Food Services (NAICS/72):dc/topic/GDPByIndustry
+Person With Industry = Administrative And Support And Waste Management Services (NAICS/56):dc/topic/GDPByIndustry
+Person With Industry = Agriculture, Forestry, Fishing And Hunting (NAICS/11):dc/topic/GDPByIndustry
+Person With Industry = Agriculture, Forestry, Fishing And Hunting, And Mining (NAICS/11_21):dc/topic/GDPByIndustry
+Person With Industry = Air Transportation (NAICS/481):dc/topic/GDPByIndustry
+Person With Industry = Apparel Manufacturing (NAICS/315):dc/topic/GDPByIndustry
+Person With Industry = Arts, Entertainment, And Recreation (NAICS/71):dc/topic/GDPByIndustry
+Person With Industry = Arts, Entertainment, And Recreation, And Accommodation And Food Services (NAICS/71-72):dc/topic/GDPByIndustry
+Person With Industry = Beverage And Tobacco Product Manufacturing (NAICS/312):dc/topic/GDPByIndustry
+Person With Industry = Chemical Manufacturing (NAICS/325):dc/topic/GDPByIndustry
+Person With Industry = Construction (NAICS/23):dc/topic/GreenJobs
+Person With Industry = Couriers And Messengers (NAICS/492):dc/topic/GDPByIndustry
+Person With Industry = Durable Goods Manufacturing (NAICS/JOLTS_320000):dc/topic/GDPByIndustry
+Person With Industry = Education And Health Services (NAICS/JOLTS_600000):dc/topic/GDPByIndustry
+Person With Industry = Educational Services (NAICS/61):dc/topic/GDPByIndustry
+Person With Industry = Educational Services, And Health Care And Social Assistance (NAICS/61-62):dc/topic/GDPByIndustry
+Person With Industry = Federal (NAICS/JOLTS_910000):dc/topic/GDPByIndustry
+Person With Industry = Finance And Insurance (NAICS/52):dc/topic/GDPByIndustry
+Person With Industry = Finance And Insurance, And Real Estate And Rental And Leasing (NAICS/52-53):dc/topic/GDPByIndustry
+Person With Industry = Financial Activities (NAICS/JOLTS_510099):dc/topic/GDPByIndustry
+Person With Industry = Food Manufacturing (NAICS/311):dc/topic/GDPByIndustry
+Person With Industry = General Merchandise Stores (NAICS/452):dc/topic/GDPByIndustry
+Person With Industry = Government (NAICS/JOLTS_900000):dc/topic/GDPByIndustry
+Person With Industry = Health Care And Social Assistance (NAICS/62):dc/topic/GDPByIndustry
+Person With Industry = Information (NAICS/51):dc/topic/GDPByIndustry
+Person With Industry = Leather And Allied Product Manufacturing (NAICS/316):dc/topic/GDPByIndustry
+Person With Industry = Leisure And Hospitality (NAICS/JOLTS_700000):dc/topic/GDPByIndustry
+Person With Industry = Management of Companies And Enterprises (NAICS/55):dc/topic/GDPByIndustry
+Person With Industry = Manufacturing (NAICS/33):dc/topic/GDPByIndustry
+Person With Industry = Manufacturing (NAICS/JOLTS_300000):dc/topic/GDPByIndustry
+Person With Industry = Mining And Logging (NAICS/JOLTS_110099):dc/topic/GDPByIndustry
+Person With Industry = Mining, Quarrying, And Oil And Gas Extraction (NAICS/21):dc/topic/GDPByIndustry
+Person With Industry = Miscellaneous Store Retailers (NAICS/453):dc/topic/GDPByIndustry
+Person With Industry = Nondurable Goods Manufacturing (NAICS/JOLTS_340000):dc/topic/GDPByIndustry
+Person With Industry = Nonmetallic Mineral Product Manufacturing (NAICS/327):dc/topic/GDPByIndustry
+Person With Industry = Nonstore Retailers (NAICS/454):dc/topic/GDPByIndustry
+Person With Industry = Other Services, Except Public Administration (NAICS/81):dc/topic/GDPByIndustry
+Person With Industry = Paper Manufacturing (NAICS/322):dc/topic/GDPByIndustry
+Person With Industry = Petroleum And Coal Products Manufacturing (NAICS/324):dc/topic/GDPByIndustry
+Person With Industry = Pipeline Transportation (NAICS/486):dc/topic/GDPByIndustry
+Person With Industry = Plastics And Rubber Products Manufacturing (NAICS/326):dc/topic/GDPByIndustry
+Person With Industry = Postal Service (NAICS/491):dc/topic/GDPByIndustry
+Person With Industry = Printing And Related Support Activities (NAICS/323):dc/topic/GDPByIndustry
+Person With Industry = Professional And Business Services (NAICS/JOLTS_540099):dc/topic/GDPByIndustry
+Person With Industry = Professional, Scientific, And Management, And Administrative And Waste Management Services (NAICS/54-56):dc/topic/GDPByIndustry
+Person With Industry = Professional, Scientific, And Technical Services (NAICS/54):dc/topic/GDPByIndustry
+Person With Industry = Public Administration (NAICS/92):dc/topic/GDPByIndustry
+Person With Industry = Rail Transportation (NAICS/482):dc/topic/GDPByIndustry
+Person With Industry = Real Estate And Rental And Leasing (NAICS/53):dc/topic/GDPByIndustry
+Person With Industry = Retail Trade (NAICS/44):dc/topic/GDPByIndustry
+Person With Industry = Scenic And Sightseeing Transportation (NAICS/487):dc/topic/GDPByIndustry
+Person With Industry = Sports, Hobby, Music Instrument, Book Stores (NAICS/451):dc/topic/GDPByIndustry
+Person With Industry = State And Local Government Education (NAICS/JOLTS_923000):dc/topic/NumberOfBusinessesByOwnership
+Person With Industry = State And Local Government Excluding Education (NAICS/JOLTS_929000):dc/topic/NumberOfBusinessesByOwnership
+Person With Industry = Support Activities for Transportation (NAICS/488):dc/topic/GDPByIndustry
+Person With Industry = Manufacturing (NAICS/31-33):dc/topic/GDPByIndustry
+Person With Industry = Textile Mills (NAICS/313):dc/topic/GDPByIndustry
+Person With Industry = Textile Product Mills (NAICS/314):dc/topic/GDPByIndustry
+Person With Industry = Total Nonfarm (NAICS/JOLTS_000000):dc/topic/GDPByIndustry
+Person With Industry = Total, All Industries (NAICS/10):dc/topic/NumberOfBusinessesByOwnership
+Person With Industry = Trade, Transportation, And Utilities (NAICS/JOLTS_400000):dc/topic/GDPByIndustry
+Person With Industry = Transit And Ground Passenger Transportation (NAICS/485):dc/topic/GDPByIndustry
+Person With Industry = Transportation And Warehousing (NAICS/48-49):dc/topic/GDPByIndustry
+Person With Industry = Transportation And Warehousing, And Utilities (NAICS/48-49_22):dc/topic/GDPByIndustry
+Person With Industry = Transportation Warehousing, And Utilities (NAICS/JOLTS_480099):dc/topic/GDPByIndustry
+Person With Industry = Truck Transportation (NAICS/484):dc/topic/CommuteModeByOccupation
+Person With Industry = Unclassified (NAICS/99):dc/topic/GDPByIndustry
+Person With Industry = Utilities (NAICS/22):dc/topic/GDPByIndustry
+Person With Industry = Warehousing And Storage (NAICS/493):dc/topic/GDPByIndustry
+Person With Industry = Water Transportation (NAICS/483):dc/topic/GDPByIndustry
+Person With Industry = Wholesale Trade (NAICS/42):dc/topic/GDPByIndustry
+Person With Industry = Wood Product Manufacturing (NAICS/321):dc/topic/GDPByIndustry
+Median Income (Real Individual Earnings Before Deductions): Accommodation And Food Services (NAICS/72):dc/topic/MedianHouseholdIncomeByRace
+Population of Person: Accommodation And Food Services (NAICS/72):dc/topic/GDPByIndustry
+Wages Total of Person: Accommodation And Food Services (NAICS/72):dc/topic/GreenJobs
+Median Income (Real Individual Earnings Before Deductions): Administrative And Support And Waste Management Services (NAICS/56):dc/topic/GDPByIndustry
+Population of Person: Administrative And Support And Waste Management Services (NAICS/56):dc/topic/GDPByIndustry
+Wages Total of Person: Administrative And Support And Waste Management Services (NAICS/56):dc/topic/GDPByIndustry
+Median Income (Real Individual Earnings Before Deductions): Agriculture, Forestry, Fishing And Hunting (NAICS/11):dc/topic/MedianHouseholdIncomeByRace
+Population of Person: Agriculture, Forestry, Fishing And Hunting (NAICS/11):dc/topic/Agriculture
+Wages Total of Person: Agriculture, Forestry, Fishing And Hunting (NAICS/11):dc/topic/Agriculture
+Wages Total of Person: Cattle Ranching And Farming (NAICS/1121):dc/topic/GreenJobs
+Population of Person: Air Transportation (NAICS/481):dc/topic/CommuteModeByOccupation
+Wages Total of Person: Air Transportation (NAICS/481):dc/topic/GreenJobs
+Population of Person: Apparel Manufacturing (NAICS/315):dc/topic/Race
+Wages Total of Person: Apparel Manufacturing (NAICS/315):dc/topic/GreenJobs
+Median Income (Real Individual Earnings Before Deductions): Arts, Entertainment, And Recreation (NAICS/71):dc/topic/MedianHouseholdIncomeByRace
+Population of Person: Arts, Entertainment, And Recreation (NAICS/71):dc/topic/CommuteModeByOccupation
+Wages Total of Person: Arts, Entertainment, And Recreation (NAICS/71):dc/topic/GreenJobs
+Population of Person: Beverage And Tobacco Product Manufacturing (NAICS/312):dc/topic/Race
+Wages Total of Person: Beverage And Tobacco Product Manufacturing (NAICS/312):dc/topic/GreenJobs
+Population of Person: Chemical Manufacturing (NAICS/325):dc/topic/Race
+Wages Total of Person: Chemical Manufacturing (NAICS/325):dc/topic/GreenJobs
+Median Income (Real Individual Earnings Before Deductions): Construction (NAICS/23):dc/topic/MedianHouseholdIncomeByRace
+Population of Person: Construction (NAICS/23):dc/topic/CommuteModeByOccupation
+Wages Total of Person: Construction (NAICS/23):dc/topic/GreenJobs
+Population of Person: Couriers And Messengers (NAICS/492):dc/topic/Race
+Wages Total of Person: Couriers And Messengers (NAICS/492):dc/topic/GreenJobs
+Median Income (Real Individual Earnings Before Deductions): Educational Services (NAICS/61):dc/topic/MedianHouseholdIncomeByRace
+Population of Person: Educational Services (NAICS/61):dc/topic/Race
+Wages Total of Person: Educational Services (NAICS/61):dc/topic/GreenJobs
+Median Income (Real Individual Earnings Before Deductions): Finance And Insurance (NAICS/52):dc/topic/MedianHouseholdIncomeByRace
+Population of Person: Finance And Insurance (NAICS/52):dc/topic/NoHealthInsuranceByRace
+Wages Total of Person: Finance And Insurance (NAICS/52):dc/topic/GreenJobs
+Population of Person: Food Manufacturing (NAICS/311):dc/topic/Race
+Wages Total of Person: Food Manufacturing (NAICS/311):dc/topic/GreenJobs
+Population of Person: General Merchandise Stores (NAICS/452):dc/topic/Race
+Wages Total of Person: General Merchandise Stores (NAICS/452):dc/topic/GreenJobs
+Median Income (Real Individual Earnings Before Deductions): Health Care And Social Assistance (NAICS/62):dc/topic/MedianHouseholdIncomeByRace
+Population of Person: Health Care And Social Assistance (NAICS/62):dc/topic/NoHealthInsuranceByRace
+Wages Total of Person: Health Care And Social Assistance (NAICS/62):dc/topic/GreenJobs
+Median Income (Real Individual Earnings Before Deductions): Information (NAICS/51):dc/topic/MedianHouseholdIncomeByRace
+Population of Person: Information (NAICS/51):dc/topic/Race
+Wages Total of Person: Information (NAICS/51):dc/topic/GreenJobs
+Population of Person: Leather And Allied Product Manufacturing (NAICS/316):dc/topic/Race
+Wages Total of Person: Leather And Allied Product Manufacturing (NAICS/316):dc/topic/GreenJobs
+Median Income (Real Individual Earnings Before Deductions): Management of Companies And Enterprises (NAICS/55):dc/topic/MedianHouseholdIncomeByRace
+Population of Person: Management of Companies And Enterprises (NAICS/55):dc/topic/CommuteModeByOccupation
+Wages Total of Person: Management of Companies And Enterprises (NAICS/55):dc/topic/GreenJobs
+Median Income (Real Individual Earnings Before Deductions): Mining, Quarrying, And Oil And Gas Extraction (NAICS/21):dc/topic/GDPByIndustry
+Population of Person: Mining, Quarrying, And Oil And Gas Extraction (NAICS/21):dc/topic/GDPByIndustry
+Wages Total of Person: Mining, Quarrying, And Oil And Gas Extraction (NAICS/21):dc/topic/GDPByIndustry
+Population of Person: Miscellaneous Store Retailers (NAICS/453):dc/topic/Race
+Wages Total of Person: Miscellaneous Store Retailers (NAICS/453):dc/topic/GreenJobs
+Population of Person: Nonmetallic Mineral Product Manufacturing (NAICS/327):dc/topic/Race
+Wages Total of Person: Nonmetallic Mineral Product Manufacturing (NAICS/327):dc/topic/GreenJobs
+Population of Person: Nonstore Retailers (NAICS/454):dc/topic/Race
+Wages Total of Person: Nonstore Retailers (NAICS/454):dc/topic/GreenJobs
+Median Income (Real Individual Earnings Before Deductions): Other Services, Except Public Administration (NAICS/81):dc/topic/MedianHouseholdIncomeByRace
+Population of Person: Other Services, Except Public Administration (NAICS/81):dc/topic/CommuteModeByOccupation
+Wages Total of Person: Other Services, Except Public Administration (NAICS/81):dc/topic/GreenJobs
+Population of Person: Paper Manufacturing (NAICS/322):dc/topic/Race
+Wages Total of Person: Paper Manufacturing (NAICS/322):dc/topic/GreenJobs
+Population of Person: Petroleum And Coal Products Manufacturing (NAICS/324):dc/topic/Race
+Wages Total of Person: Petroleum And Coal Products Manufacturing (NAICS/324):dc/topic/GreenJobs
+Population of Person: Pipeline Transportation (NAICS/486):dc/topic/CommuteModeByOccupation
+Wages Total of Person: Pipeline Transportation (NAICS/486):dc/topic/GreenJobs
+Population of Person: Plastics And Rubber Products Manufacturing (NAICS/326):dc/topic/Race
+Wages Total of Person: Plastics And Rubber Products Manufacturing (NAICS/326):dc/topic/GreenJobs
+Population of Person: Postal Service (NAICS/491):dc/topic/CommuteModeByOccupation
+Wages Total of Person: Postal Service (NAICS/491):dc/topic/GreenJobs
+Population of Person: Printing And Related Support Activities (NAICS/323):dc/topic/Race
+Wages Total of Person: Printing And Related Support Activities (NAICS/323):dc/topic/GreenJobs
+Median Income (Real Individual Earnings Before Deductions): Professional, Scientific, And Technical Services (NAICS/54):dc/topic/GDPByIndustry
+Population of Person: Professional, Scientific, And Technical Services (NAICS/54):dc/topic/GDPByIndustry
+Wages Total of Person: Professional, Scientific, And Technical Services (NAICS/54):dc/topic/GDPByIndustry
+Median Income (Real Individual Earnings Before Deductions): Public Administration (NAICS/92):dc/topic/MedianHouseholdIncomeByRace
+Population of Person: Public Administration (NAICS/92):dc/topic/CommuteModeByOccupation
+Wages Total of Person: Public Administration (NAICS/92):dc/topic/GreenJobs
+Population of Person: Rail Transportation (NAICS/482):dc/topic/CommuteModeByOccupation
+Wages Total of Person: Rail Transportation (NAICS/482):dc/topic/GreenJobs
+Median Income (Real Individual Earnings Before Deductions): Real Estate And Rental And Leasing (NAICS/53):dc/topic/MedianHouseholdIncomeByRace
+Population of Person: Real Estate And Rental And Leasing (NAICS/53):dc/topic/GDPByIndustry
+Wages Total of Person: Real Estate And Rental And Leasing (NAICS/53):dc/topic/GDPByIndustry
+Median Income (Real Individual Earnings Before Deductions): Retail Trade (NAICS/44-45):dc/topic/MedianHouseholdIncomeByRace
+Population of Person: Retail Trade (NAICS/44-45):dc/topic/AgeDistribution
+Wages Total of Person: Retail Trade (NAICS/44-45):dc/topic/GreenJobs
+Population of Person: Scenic And Sightseeing Transportation (NAICS/487):dc/topic/CommuteModeByOccupation
+Wages Total of Person: Scenic And Sightseeing Transportation (NAICS/487):dc/topic/GreenJobs
+Population of Person: Sports, Hobby, Music Instrument, Book Stores (NAICS/451):dc/topic/Race
+Wages Total of Person: Sports, Hobby, Music Instrument, Book Stores (NAICS/451):dc/topic/GreenJobs
+Population of Person: Support Activities for Transportation (NAICS/488):dc/topic/CommuteModeByOccupation
+Wages Total of Person: Support Activities for Transportation (NAICS/488):dc/topic/GreenJobs
+Median Income (Real Individual Earnings Before Deductions): Manufacturing (NAICS/31-33):dc/topic/MedianHouseholdIncomeByRace
+Population of Person: Manufacturing (NAICS/31-33):dc/topic/Race
+Population of Person: Textile And Fabric Finishing Mills (NAICS/3133):dc/topic/Race
+Wages Total of Person: Manufacturing (NAICS/31-33):dc/topic/GreenJobs
+Wages Total of Person: Textile And Fabric Finishing Mills (NAICS/3133):dc/topic/GreenJobs
+Population of Person: Textile Mills (NAICS/313):dc/topic/Race
+Wages Total of Person: Textile Mills (NAICS/313):dc/topic/GreenJobs
+Population of Person: Textile Product Mills (NAICS/314):dc/topic/Race
+Wages Total of Person: Textile Product Mills (NAICS/314):dc/topic/GreenJobs
+Population of Person: Total, All Industries (NAICS/10):dc/topic/NumberOfBusinessesByOwnership
+Wages Total of Person: Total, All Industries (NAICS/10):dc/topic/NumberOfBusinessesByOwnership
+Population of Person: Transit And Ground Passenger Transportation (NAICS/485):dc/topic/CommuteModeByOccupation
+Wages Total of Person: Transit And Ground Passenger Transportation (NAICS/485):dc/topic/GreenJobs
+Median Income (Real Individual Earnings Before Deductions): Transportation And Warehousing (NAICS/48-49):dc/topic/MedianHouseholdIncomeByRace
+Population of Person: Transportation And Warehousing (NAICS/48-49):dc/topic/CommuteModeByOccupation
+Wages Total of Person: Transportation And Warehousing (NAICS/48-49):dc/topic/GreenJobs
+Population of Person: Truck Transportation (NAICS/484):dc/topic/CommuteModeByOccupation
+Wages Total of Person: Truck Transportation (NAICS/484):dc/topic/CommuteModeByOccupation
+Population of Person: Unclassified (NAICS/99):dc/topic/Race
+Wages Total of Person: Unclassified (NAICS/99):dc/topic/GreenJobs
+Median Income (Real Individual Earnings Before Deductions): Utilities (NAICS/22):dc/topic/MedianHouseholdIncomeByRace
+Population of Person: Utilities (NAICS/22):dc/topic/Race
+Wages Total of Person: Utilities (NAICS/22):dc/topic/GreenJobs
+Population of Person: Warehousing And Storage (NAICS/493):dc/topic/Race
+Wages Total of Person: Warehousing And Storage (NAICS/493):dc/topic/GreenJobs
+Population of Person: Water Transportation (NAICS/483):dc/topic/CommuteModeByOccupation
+Wages Total of Person: Water Transportation (NAICS/483):dc/topic/GreenJobs
+Median Income (Real Individual Earnings Before Deductions): Wholesale Trade (NAICS/42):dc/topic/MedianHouseholdIncomeByRace
+Population of Person: Wholesale Trade (NAICS/42):dc/topic/Race
+Wages Total of Person: Wholesale Trade (NAICS/42):dc/topic/GreenJobs
+Population of Person: Wood Product Manufacturing (NAICS/321):dc/topic/Race
+Wages Total of Person: Wood Product Manufacturing (NAICS/321):dc/topic/GreenJobs
+Person With Medical Condition = All Teeth Loss:dc/topic/HeatIllnesses
+Person With Medical Condition = Arthritis:dc/topic/HeatIllnesses
+Person With Medical Condition = Asthma:dc/topic/HeatIllnesses
+Person With Medical Condition = Cancer Excluding Skin Cancer:dc/topic/HeatIllnesses
+Person With Medical Condition = Chronic Kidney Disease:dc/topic/HealthConditions
+Person With Medical Condition = Chronic Obstructive Pulmonary Disease:dc/topic/HealthConditions
+Person With Medical Condition = Coronary Heart Disease:dc/topic/HeatIllnesses
+Person With Medical Condition = Diabetes:dc/topic/HeatIllnesses
+Person With Medical Condition = High Blood Pressure:dc/topic/BloodPressure
+Person With Medical Condition = High Cholesterol:dc/topic/HeatIllnesses
+Person With Medical Condition = Mental Health Not Good:dc/topic/HeatIllnesses
+Person With Medical Condition = Physical Health Not Good:dc/topic/HeatIllnesses
+Person With Medical Condition = Severe Wasting:dc/topic/HeatIllnesses
+Person With Medical Condition = Stroke:dc/topic/HeatIllnesses
+Person With Medical Condition = Wasting:dc/topic/HeatIllnesses
+Prevalence: All Teeth Loss:dc/topic/WHOChildrenNonCommunicableDiseases
+Person With Age, Medical Condition = All Teeth Loss:dc/topic/HeatIllnesses
+Prevalence: Arthritis:dc/topic/WHOChildrenNonCommunicableDiseases
+Prevalence: Asthma:dc/topic/WHOChildrenNonCommunicableDiseases
+Prevalence: Cancer Excluding Skin Cancer:dc/topic/HealthConditions
+Prevalence: Chronic Kidney Disease:dc/topic/HealthConditions
+Prevalence: Chronic Obstructive Pulmonary Disease:dc/topic/HealthConditions
+Prevalence: Coronary Heart Disease:dc/topic/HealthConditions
+Prevalence: Diabetes:dc/topic/WHOChildrenNonCommunicableDiseases
+Prevalence: High Blood Pressure:dc/topic/BloodPressure
+Prevalence: High Cholesterol:dc/topic/Cholesterol
+Prevalence: Mental Health Not Good:dc/topic/WHOChildrenNonCommunicableDiseases
+Prevalence: Physical Health Not Good:dc/topic/WHOChildrenNonCommunicableDiseases
+Prevalence: Stroke:dc/topic/WHOChildrenNonCommunicableDiseases
+Person With Age = 65 Years or More, Medical Condition = All Teeth Loss:dc/topic/WHOChildrenNonCommunicableDiseases
+Prevalence: Asthma in Children:dc/topic/WHOChildrenNonCommunicableDiseases
+Prevalence: 20 Years or More, Diabetes:dc/topic/WHOChildrenNonCommunicableDiseases
+Prevalence: Female, Diabetes:dc/topic/WHOChildrenNonCommunicableDiseases
+Prevalence: Male, Diabetes:dc/topic/WHOChildrenNonCommunicableDiseases
+Person With Age = 18 Years or More, Medical Condition = High Blood Pressure, Preventive Health = Taking Blood Pressure Medication:dc/topic/BloodPressure
+Person With Medical Condition = High Blood Pressure, Preventive Health = Taking Blood Pressure Medication:dc/topic/BloodPressure
+Person With Age = 4 Years or Less, Medical Condition = Severe Wasting:dc/topic/WHOChildrenNonCommunicableDiseases
+Person With Age = 4 Years or Less, Medical Condition = Wasting:dc/topic/WHOChildrenNonCommunicableDiseases
+Prevalence of 65 Or More Years, All Teeth Loss:dc/topic/WHOChildrenNonCommunicableDiseases
+Prevalence: 18 Years or More, High Blood Pressure, Taking Blood Pressure Medication:dc/topic/BloodPressure
+Gender Income Inequality:dc/topic/MedianHouseholdIncomeByRace
+Median Income:dc/topic/MedianHouseholdIncomeByRace
+Population: Divorced:dc/topic/Race
+Population: Car Truck or Van Carpooled:dc/topic/CommuteModeByOccupation
+Population: Car Truck or Van Drove Alone:dc/topic/CommuteModeByOccupation
+Population: Public Transportation Excluding Taxicab:dc/topic/CommuteModeByOccupation
+Population: Walked:dc/topic/CommuteModeByOccupation
+Population: Worked At Home:dc/topic/CommuteModeByOccupation
+Mobile Subscriptions Per Capita:dc/topic/Electricity_Consumption
+Count of Mortality Event:dc/topic/CausesOfDeath
+Count of Mortality Event (Per Capita):dc/topic/CausesOfDeath
+Population: Enrolled in School:dc/topic/StudentsInCollege
+Population: Not Enrolled in School:dc/topic/StudentsInCollege
+Air Quality Index:dc/topic/Ozone
+Temperature:dc/topic/Temperatures
+Count of Medical Condition Incident: COVID-19, Patient in ICU:dc/topic/HeatIllnesses
+Cumulative Count of Vaccine: COVID-19, Vaccine Administered:dc/topic/RentalHouses
+Incremental Count of Vaccine: COVID-19, Vaccine Administered:dc/topic/RentalHouses
+Prevalence: Sleep Less Than 7 Hours:dc/topic/WHOChildrenNonCommunicableDiseases
+Prevalence: Obesity:dc/topic/WHOChildrenNonCommunicableDiseases
+Prevalence: Smoking:dc/topic/WHOChildrenNonCommunicableDiseases
+Prevalence: 18 - 64 Years, No Health Insurance:dc/topic/NoHealthInsuranceByIncome
+Prevalence: Annual Checkup:dc/topic/WHOChildrenNonCommunicableDiseases
+Count of Housing Unit: 300,000 - 399,999 USD:dc/topic/RentalHouses
+Count of Housing Unit: 400,000 - 499,999 USD:dc/topic/RentalHouses
+Count of Housing Unit: 750,000 - 999,999 USD:dc/topic/RentalHouses
+Count of Housing Unit: 500,000 - 749,999 USD:dc/topic/RentalHouses
+Count of Housing Unit: 1,000,000 USD or More:dc/topic/RentalHouses
+Count of Housing Unit: 2,000 USD or More:dc/topic/RentalHouses
+Count of Housing Unit: Vacant Housing Unit:dc/topic/RentalHouses
+Count of Household: Married Couple Family Household:dc/topic/MedianHouseholdIncomeByRace
+Count_Household_NonfamilyHousehold:dc/topic/AgeDistribution
+Gini Index of Economic Activity:dc/topic/EconomicEquity
+Population: 15 Years or More, No Income:dc/topic/StudentsInCollege
+Amount of Economic Activity: Expenditure Activity, Healthcare Expenditure (Per Capita):dc/topic/EconomicEquity
+Count of Criminal Activities:dc/topic/RentalHouses
+Count of Hate Crime Incidents:dc/topic/RentalHouses
+Withdrawal Rate of Water:dc/topic/UnemploymentRate
+Count of Coastal Flood Event:dc/topic/CausesOfDeath
+Count of Drought Event:dc/topic/CausesOfDeath
+Count of Heat Event:dc/topic/CausesOfDeath
+Count of Heavy Rain Event:dc/topic/CausesOfDeath
+Count of Heavy Snow Event:dc/topic/CausesOfDeath
+Count of Wildfire Event:dc/topic/CausesOfDeath
+Count of Earthquake Event:dc/topic/CausesOfDeath
+Count of Flood Event:dc/topic/CausesOfDeath
+Annual Expected Loss from Natural Hazard Impact:dc/topic/Avalanche
+Consecutive Dry Days:dc/topic/SmokePM2.5
+Count of Household: Internet Without Subscription:dc/topic/RentalHouses
+Count of Solar Installation:dc/topic/GreenJobs
+Annual Generation of Energy: Coal:dc/topic/GreenJobs
+customer accounts, all sectors, annual:dc/topic/Electricity_Consumption
+customer accounts, all sectors, monthly:dc/topic/HousesByOwnershipCost
+Annual Consumption of Electricity:dc/topic/Electricity_Consumption
+Net generation, all fuels, all sectors, annual:dc/topic/GreenJobs
+Annual Generation of Fuel: Nuclear:dc/topic/GreenJobs
+Annual Generation of Fuel: Crude Oil:dc/topic/GreenJobs
+Annual Generation of Fuel: Diesel Oil:dc/topic/GreenJobs
+Amount of Economic Activity (Real Value): Gross Domestic Production, Accommodation And Food Services (NAICS/72):dc/topic/GDPByIndustry
+Amount of Economic Activity (Real Value): Gross Domestic Production, Administrative And Support And Waste Management Services (NAICS/56):dc/topic/GDPByIndustry
+Amount of Economic Activity (Real Value): Gross Domestic Production, Agriculture, Forestry, Fishing And Hunting (NAICS/11):dc/topic/GDPByIndustry
+Amount of Economic Activity (Real Value): Gross Domestic Production, Arts, Entertainment, And Recreation (NAICS/71):dc/topic/GDPByIndustry
+Amount of Economic Activity (Real Value): Gross Domestic Production, Construction (NAICS/23):dc/topic/GDPByIndustry
+Amount of Economic Activity (Real Value): Gross Domestic Production, Educational Services (NAICS/61):dc/topic/GDPByIndustry
+Amount of Economic Activity (Real Value): Gross Domestic Production, Finance And Insurance (NAICS/52):dc/topic/GDPByIndustry
+Amount of Economic Activity (Real Value): Gross Domestic Production, Health Care And Social Assistance (NAICS/62):dc/topic/GDPByIndustry
+Amount of Economic Activity (Real Value): Gross Domestic Production, Information (NAICS/51):dc/topic/GDPByIndustry
+Amount of Economic Activity (Real Value): Gross Domestic Production, Management of Companies And Enterprises (NAICS/55):dc/topic/GDPByIndustry
+Amount of Economic Activity (Real Value): Gross Domestic Production, Mining, Quarrying, And Oil And Gas Extraction (NAICS/21):dc/topic/GDPByIndustry
+Amount of Economic Activity (Real Value): Gross Domestic Production, Other Services, Except Public Administration (NAICS/81):dc/topic/GDPByIndustry
+Amount of Economic Activity (Real Value): Gross Domestic Production, Professional, Scientific, And Technical Services (NAICS/54):dc/topic/GDPByIndustry
+Amount of Economic Activity (Real Value): Gross Domestic Production, Real Estate And Rental And Leasing (NAICS/53):dc/topic/GDPByIndustry
+Amount of Economic Activity (Real Value): Gross Domestic Production, Utilities (NAICS/22):dc/topic/GDPByIndustry
+Amount of Economic Activity (Real Value): Gross Domestic Production, Wholesale Trade (NAICS/42):dc/topic/GDPByIndustry
+Population of Person: Cattle Ranching And Farming:dc/topic/Race
+Max Temperature:dc/topic/Temperatures
+Max Temperature (Difference Relative To Base Date): Relative To 2006, Based on RCP 4.5:dc/topic/MaxTemperature95PercentLikelyAtLeastOncePerDecadeDifferenceToBaseline
+About: Mean Cohort Scale Achievement of Student:dc/topic/StudentPopulationDemographics
+Count of BLS Establishment: Gambling Industries:dc/topic/GreenJobs
+Population of Person: Gambling Industries:dc/topic/Race
+Population: Outside of Home:dc/topic/CommuteModeByOccupation
+Mean Monthly Wages:dc/topic/HousesByOwnershipCost
+Mean Monthly Income: 14 Years or More, Employed, All Jobs, Income Actually Received:dc/topic/MedianHouseholdIncomeByRace
+Number of conflict-related deaths:dc/topic/WHONonCommunicableDiseaseDeaths
+Number of conflict-related deaths [Age = 18 years old and over]:dc/topic/WHOChildrenNonCommunicableDiseases
+Number of conflict-related deaths [Age = under 18 years old]:dc/topic/WHOChildrenNonCommunicableDiseases
+Number of conflict-related deaths [Sex = Female]:dc/topic/WHONonCommunicableDiseaseDeaths
+Number of conflict-related deaths [Sex = Male]:dc/topic/WHONonCommunicableDiseaseDeaths
+Percentage of People Aged 15 Years or More Who Consume Alcohol:dc/topic/AgeDistribution
+Electricity Used Per Capita:dc/topic/Electricity_Consumption
+Energy Used Per Capita:dc/topic/Electricity_Consumption
+Percent of Total Government Expenditure Spent on Education:dc/topic/EducationExpenditure
+Percent of Nominal Gross Domestic Production (GDP) Spent on Education:dc/topic/EducationExpenditure
+Government Expenditure on Military Activities:dc/topic/EducationExpenditure
+Percent of Total Government Expenditure Spent on Military Activities:dc/topic/EducationExpenditure
+Nominal Gross Domestic Production (GDP) Per Capita:dc/topic/GDPByIndustry
+Gross National Income Based on Purchasing Power Parity:dc/topic/MedianHouseholdIncomeByRace
+Gross National Income Based on Purchasing Power Parity Per Capita:dc/topic/MedianHouseholdIncomeByRace
+Total Amount of Inward Remittances:dc/topic/NumberOfBusinessesByOwnership
+Inward Remittances as a Percentage of Nominal Gross Domestic Production:dc/topic/InflationAdjustedGDP
+Total Amount of Outward Remittances:dc/topic/NumberOfBusinessesByOwnership
+Total Stock Value:dc/topic/NumberOfBusinessesByOwnership
+Stock Value as a Percentage of Nominal Gross Domestic Production (GDP):dc/topic/GDPByIndustry
+Number of Cyclones:dc/topic/SmokePM2.5
+Infant Mortality Rate:dc/topic/InfantMortality
+Female Infant Mortality Rate:dc/topic/InfantMortality
+Male Infant Mortality Rate:dc/topic/InfantMortality
+Number of Deaths Due to Diseases of the Circulatory System:dc/topic/WHONonCommunicableDiseaseDeaths
+Number of Deaths Due to Diseases of the Nervous System:dc/topic/WHONonCommunicableDiseaseDeaths
+Number of Deaths Due to Diseases of the Respiratory System:dc/topic/WHONonCommunicableDiseaseDeaths
+Number of Deaths Due to External Causes:dc/topic/WHONonCommunicableDiseaseDeaths
+Number of Deaths Due to Neoplasms (Tumors or Abnormal Growths):dc/topic/CausesOfDeath
+Number of Households With an Income Between $100,000 and $124,999:dc/topic/WHOMortalityCauses
+Number of Households With an Income Between $10,000 and $14,999:dc/topic/MedianHouseholdIncomeByRace
+Number of Households With an Income Between $125,000 and $149,999:dc/topic/MedianHouseholdIncomeByRace
+Number of Households With an Income Between $150,000 and $199,999:dc/topic/MedianHouseholdIncomeByRace
+Number of Households With an Income of $200,000 or More:dc/topic/MedianHouseholdIncomeByRace
+Number of Households With an Income Between $20,000 and $24,999:dc/topic/NoHealthInsuranceByIncome
+Number of Households With an Income Between $40,000 and $44,999:dc/topic/MedianHouseholdIncomeByRace
+Number of Households With an Income Between $50,000 and $59,999:dc/topic/MedianHouseholdIncomeByRace
+Number of Households With an Income Between $60,000 and $74,999:dc/topic/NoHealthInsuranceByIncome
+Number of Households With an Income Between $75,000 and $99,999:dc/topic/NoHealthInsuranceByIncome
+Number of Households With an Income of $10,000 or Less:dc/topic/MedianHouseholdIncomeByRace
+Number of Housing Units Built Between 1940 and 1949:dc/topic/RentalHouses
+Number of Housing Units Built Between 1950 and 1959:dc/topic/RentalHouses
+Number of Housing Units Built Between 1960 and 1969:dc/topic/RentalHouses
+Number of Housing Units Built Between 1970 and 1979:dc/topic/RentalHouses
+Number of Housing Units Built Between 1980 and 1989:dc/topic/RentalHouses
+Number of Housing Units Built Between 1990 and 1999:dc/topic/RentalHouses
+Number of Housing Units Built Between 2000 and 2009:dc/topic/RentalHouses
+Number of Housing Units Built in 2010 or Later:dc/topic/RentalHouses
+Number of Housing Units Built Before 1939:dc/topic/RentalHouses
+Number of Homes Valued Between $1,000,000 and $1,499,999:dc/topic/RentalHouses
+Number of Homes Valued Between $100,000 and $124,999:dc/topic/WHOMortalityCauses
+Number of Homes Valued Between $10,000 and $14,999:dc/topic/NoHealthInsuranceByIncome
+Number of Homes Valued Between $125,000 and $149,999:dc/topic/RentalHouses
+Number of Homes Valued Between $1,500,000 and $1,999,999:dc/topic/RentalHouses
+Number of Homes Valued Between $150,000 and $174,999:dc/topic/RentalHouses
+Number of Homes Valued Between $15,000 to $19,999:dc/topic/NoHealthInsuranceByIncome
+Number of Homes Valued Between $175,000 to $199,999:dc/topic/RentalHouses
+Number of Homes Valued at $2,000,000 or More:dc/topic/WHOMortalityCauses
+Number of Homes Valued Between $200,000 to $249,999:dc/topic/RentalHouses
+Number of Homes Valued Between $20,000 to $24,999:dc/topic/NoHealthInsuranceByIncome
+Number of Homes Valued Between $250,000 to $299,999:dc/topic/RentalHouses
+Number of Homes Valued Between $25,000 to $29,999:dc/topic/NoHealthInsuranceByIncome
+Number of Homes Valued Between $30,000 to $34,999:dc/topic/NoHealthInsuranceByIncome
+Number of Homes Valued Between $35,000 to $39,999:dc/topic/NoHealthInsuranceByIncome
+Number of Homes Valued Between $40,000 to $49,999:dc/topic/NoHealthInsuranceByIncome
+Number of Homes Valued Between $50,000 to $59,999:dc/topic/NoHealthInsuranceByIncome
+Number of Homes Valued Between $60,000 to $69,999:dc/topic/NoHealthInsuranceByIncome
+Number of Homes Valued Between $70,000 to $79,999:dc/topic/NoHealthInsuranceByIncome
+Number of Homes Valued Between $80,000 to $89,999:dc/topic/NoHealthInsuranceByIncome
+Number of Homes Valued Between $90,000 to $99,999:dc/topic/NoHealthInsuranceByIncome
+Number of Homes Valued at $10,000 or Less:dc/topic/WHOMortalityCauses
+Number of Homes Where the Householder Identifies as American Indian or Alaska Native Alone:dc/topic/Race
+Number of Homes Where the Householder Identifies as Asian Alone:dc/topic/Race
+Number of Homes Where the Householder Identifies as Black or African American Alone:dc/topic/Race
+Number of Homes Where the Householder Identifies as Hispanic or Latino:dc/topic/Race
+Number of Homes Where the Householder Identifies as Native Hawaiian or Other Pacific Islander Alone:dc/topic/Race
+Number of Homes Where the Householder Identifies as Some Other Race Alone:dc/topic/SmokePM2.5
+Number of Homes Where the Householder Identifies as Two or More Races:dc/topic/SmokePM2.5
+Number of Homes Where the Householder Identifies as White Alone:dc/topic/SmokePM2.5
+Number of Owner-Occupied Homes:dc/topic/Housing
+Number of Renter-Occupied Homes:dc/topic/SmokePM2.5
+Number of People Aged 10 to 14 Years:dc/topic/AgeDistribution
+Number of People Aged 15 to 19 Years:dc/topic/AgeDistribution
+Number of People Aged 15 Years or Older:dc/topic/AgeDistribution
+Number of People Aged 16 Years or Older:dc/topic/NoHealthInsuranceByIncome
+Number of People Aged 18 to 24 Years:dc/topic/AgeDistribution
+Number of People Aged 20 to 24 Years:dc/topic/AgeDistribution
+Number of People Aged 25 Years or Older:dc/topic/AgeDistribution
+Number of People Aged 25 to 29 Years:dc/topic/AgeDistribution
+Number of People Aged 25 to 34 Years:dc/topic/AgeDistribution
+Number of 25 to 34 Year Old Women With an Associates Degree:dc/topic/WHOChildImmunizationsByGender
+Number of 25 to 34 Year Old Women With a Bachelor's Degree:dc/topic/Benefits
+Number of 25 to 34 Year Old Women With a Graduate or Professional Degree:dc/topic/HousesByHouseholderEducationalAttainment
+Number 25 to 34 Year Old Men With a Graduate or Professional Degree:dc/topic/HousesByHouseholderEducationalAttainment
+Women Aged 25 to 34:dc/topic/AgeDistribution
+Men Aged 25 to 34:dc/topic/AgeDistribution
+Population Aged 25 to 34:dc/topic/AgeDistribution
+Population Aged 35 to 39:dc/topic/AgeDistribution
+Population Aged 35 to 44:dc/topic/AgeDistribution
+Population Aged 3 and Up:dc/topic/AgeDistribution
+Population Aged 40 to 44:dc/topic/AgeDistribution
+Population Aged 45 to 49:dc/topic/AgeDistribution
+Population Aged 45 to 54:dc/topic/AgeDistribution
+Population Aged 50 to 54:dc/topic/AgeDistribution
+Population Aged 55 to 59:dc/topic/AgeDistribution
+Population Aged 5 to 9:dc/topic/AgeDistribution
+Population Aged 5 to 17:dc/topic/AgeDistribution
+Population Aged 60 to 61:dc/topic/AgeDistribution
+Population Aged 60 to 64:dc/topic/AgeDistribution
+Population Aged 62 to 64:dc/topic/AgeDistribution
+Population Aged 65 to 69:dc/topic/AgeDistribution
+Population Aged 65 to 74:dc/topic/AgeDistribution
+Population Aged 70 to 74:dc/topic/AgeDistribution
+Population Aged 75 and Up:dc/topic/AgeDistribution
+Population Aged 75 to 79:dc/topic/AgeDistribution
+Population Aged 80 and Up:dc/topic/AgeDistribution
+Population Aged Below 4:dc/topic/AgeDistribution
+Number of People With a Bachelor's Degree:dc/topic/SmokePM2.5
+Number of People With a Doctorate Degree:dc/topic/SmokePM2.5
+Number of People With a Master's Degree:dc/topic/SmokePM2.5
+Number of People Who Completed No Schooling:dc/topic/SmokePM2.5
+Number of People With a Regular High School Diploma:dc/topic/StudentsInHighSchool
+Population With Current Employment:dc/topic/Race
+Number of People in the Labor Force:dc/topic/CommuteMode
+Percent of Working Age People in the Labor Force:dc/topic/CommuteMode
+Number of People With an Income Between $10,000 and $14,999:dc/topic/NoHealthInsuranceByIncome
+Number of People With an Income Between $15,000 and $24,999:dc/topic/NoHealthInsuranceByIncome
+Number of People With an Income Between $25,000 and $34,999:dc/topic/NoHealthInsuranceByIncome
+Number of People With an Income Between $35,000 and $49,999:dc/topic/NoHealthInsuranceByIncome
+Number of People With an Income Between $50,000 and $64,999:dc/topic/NoHealthInsuranceByIncome
+Number of People With an Income Between $65,000 and $74,999:dc/topic/NoHealthInsuranceByIncome
+Number of People With an Income of $75,000 or More:dc/topic/WHOMortalityCauses
+Number of People With an Income of Up to $9,999:dc/topic/MedianHouseholdIncomeByRace
+Number of Married People Who Are Not Separated:dc/topic/MarriedPopulationByDemographic
+Number of People Who Have Never Been Married:dc/topic/NeverMarriedPopulationByDemographic
+Number of People Who Are Not US Citizens:dc/topic/SmokePM2.5
+Number of People Living in Rural Areas:dc/topic/SmokePM2.5
+Number of People Who Are Married but Separated:dc/topic/MarriedPopulationByDemographic
+Number of US Citizens Born in the United States:dc/topic/CitizenshipStatus
+Number of US Citizens Born Abroad to American Parents:dc/topic/CitizenshipStatus
+Number of US Citizens by Naturalization:dc/topic/CitizenshipStatus
+Percent of Children Younger Than 4 With Severe Cachexia (Wasting Syndrome):dc/topic/WHOChildrenNonCommunicableDiseases
+Percent of Children Younger Than 4 With Cachexia (Wasting Syndrome):dc/topic/WHOChildrenNonCommunicableDiseases
+Population Living in Urban Areas:dc/topic/Race
+Widowed Population:dc/topic/WidowedPopulationByDemographic
+Number of State Unemployment Insurance Claims:dc/topic/NoHealthInsuranceByRace
+Cumulative Count of COVID-19 Cases:dc/topic/RentalHouses
+Cumulative Count of COVID-19 Deaths:dc/topic/CausesOfDeath
+Growth Rate of Gross Domestic Production (GDP):dc/topic/GDPByIndustry
+Median Income of Households Identifying as American Indian or Alaska Native:dc/topic/MedianHouseholdIncomeByRace
+Median Income of Households Identifying as Asian:dc/topic/MedianHouseholdIncomeByRace
+Median Income of Households Identifying as Black or African American:dc/topic/MedianHouseholdIncomeByRace
+Median Income of Households Identifying as Hispanic or Latino:dc/topic/MedianHouseholdIncomeByRace
+Median Income of Households Identifying as Native Hawaiian or Other Pacific Islander:dc/topic/Race
+Median Income of Households Identifying as White:dc/topic/MedianHouseholdIncomeByRace
+Median Income of Women (15 Years or Older) With Income:dc/topic/MedianHouseholdIncomeByRace
+Median Income of Men (15 Years or Older) With Income:dc/topic/MedianHouseholdIncomeByRace
+Percentage of Women (18 to 64 Years Old) Without Health Insurance:dc/topic/NoHealthInsuranceByIncome
+Percentage of Men (18 to 64 Years Old) Without Health Insurance:dc/topic/NoHealthInsuranceByIncome
+Percentage of Black or African American Population (18 to 64 Years Old) Without Health Insurance:dc/topic/NoHealthInsuranceByRace
+Percentage of Hispanic or Latino Population (18 to 64 Years Old) Without Health Insurance:dc/topic/NoHealthInsuranceByIncome
+Percentage of White Population (18 to 64 Years Old) Without Health Insurance:dc/topic/NoHealthInsuranceByIncome
+Percentage of Population Who Engage in Binge Drinking:dc/topic/HealthConditions
+Percentage of Population Who Are Physically Inactive:dc/topic/HealthBehavior
+Amount of Amphetamine Distributed Through Retail Drug Channels:dc/topic/AgeDistribution
+Amount of Codeine Distributed Through Retail Drug Channels:dc/topic/AgeDistribution
+Amount of Hydrocodone Distributed Through Retail Drug Channels:dc/topic/AgeDistribution
+Amount of Morphine Distributed Through Retail Drug Channels:dc/topic/AgeDistribution
+Amount of Oxycodone Distributed Through Retail Drug Channels:dc/topic/AgeDistribution
+Amount of Oxymorphone Distributed Through Retail Drug Channels:dc/topic/AgeDistribution
+Difference in Maximum Temperature Relative to the Base Date 2006 for RCP 2.6 Scenario:dc/topic/Temperatures
+Maximum Temperature projections compared to 2006 for the RCP 4.5 Climate Model:dc/topic/Temperatures
+Difference in Maximum Temperature Relative to the Base Date 2006 for RCP 6.0 Scenario:dc/topic/Temperatures
+Difference in Maximum Temperature Relative to the Base Date 2006 for RCP 8.5 Scenario:dc/topic/Temperatures
+Mean Concentration of PM2.5 Air Pollutant:dc/topic/SmokePM2.5
+Palmer Drought Severity Index for the Atmosphere:dc/topic/EconomicEquity
+Annual Emissions of Non Biogenic Greenhouse Gases:dc/topic/Emissions_FlourinatedGases
+Cancer Risk From Air Pollutants:dc/topic/Ozone
+Annual Average Retail Price of Electricity:dc/topic/Electricity_Consumption
+Annual Emissions of Non Biogenic Methane:dc/topic/Emissions_FlourinatedGases
+Mean Concentration of Ozone Air Pollutant:dc/topic/Ozone
+Annual Emissions of Non Biogenic Nitrous Oxide:dc/topic/Emissions_NitrousOxide_EmissionsbySource
+Annual Emissions of Non Biogenic Carbon Dioxide:dc/topic/Emissions_FlourinatedGases
+Mean Concentration of Diesel PM Air Pollutant:dc/topic/Ozone
+Number of Hate Crimes Motivated by Gender:dc/topic/SmokePM2.5
+Number of Hate Crimes Motivated by Race:dc/topic/SmokePM2.5
+Number of Hate Crimes Motivated by Religion:dc/topic/SmokePM2.5
+Number of Hate Crimes Motivated by Ethnicity:dc/topic/SmokePM2.5
+Number of Hate Crimes Motivated by Sexual Orientation:dc/topic/SmokePM2.5
+Number of Hate Crimes Motivated by Disability Status:dc/topic/SmokePM2.5
+Nominal Gross Domestic Production (GDP):dc/topic/GDPByIndustry
+Economic Activity by Industry:dc/topic/GDPByIndustry
+Agricultural Output by Product:dc/topic/AgeDistribution
+Economy:dc/topic/AgeDistribution
+Agriculture:dc/topic/Electricity_Consumption
+Agricultural Output:dc/topic/AgeDistribution
+Foreign-born pre-1990:dc/topic/Immigration
+Foreign-born 1990-1999:dc/topic/Immigration
+Foreign-born 2000-2009:dc/topic/Immigration
+Foreign-born after-2010:dc/topic/Immigration
+Divorced Women:dc/topic/MaritalStatusBreakdown
+Divorced Men:dc/topic/MaritalStatusBreakdown
+Divorced Asian Men:dc/topic/Race
+Divorced Hispanic Men:dc/topic/Race
+Non-English Speakers:dc/topic/Race
+Poor English Speakers:dc/topic/PovertyByLanguageSpokenAtHome
+English Speakers:dc/topic/PovertyByLanguageSpokenAtHome
+Non-Separated Married Women:dc/topic/MarriedPopulationByDemographic
+Non-Separated Married Men:dc/topic/MarriedPopulationByDemographic
+Never-Married Asian Adults:dc/topic/NeverMarriedPopulationByDemographic
+Never-Married Hispanic/Latino Adults:dc/topic/NeverMarriedPopulationByDemographic
+Never-Married Women:dc/topic/NeverMarriedPopulationByDemographic
+Never-Married Men:dc/topic/NeverMarriedPopulationByDemographic
+Foreign-born African origin:dc/topic/Immigration
+Foreign-born Caribbean origin:dc/topic/Immigration
+Foreign-born Central American origin (except Mexico):dc/topic/Immigration
+Foreign-born, Mexican origin:dc/topic/Immigration
+Women over 85:dc/topic/AgeDistribution
+Men over 85:dc/topic/AgeDistribution
+Girls (4 and under):dc/topic/AgeDistribution
+Boys (4 and under):dc/topic/AgeDistribution
+Widows:dc/topic/AgeDistribution
+Widowed Men:dc/topic/WidowedPopulationByDemographic
+Widowed Asians:dc/topic/WidowedPopulationByDemographic
+Widowed Hispanic/Latino:dc/topic/WidowedPopulationByDemographic
+Establishments in Construction industry:dc/topic/GDPByIndustry
+Establishments in Finance And Insurance:dc/topic/NoHealthInsuranceByRace
+Establishments in Information industry:dc/topic/GDPByIndustry
+Establishments in Other Services, Except Public Administration:dc/topic/GDPByIndustry
+Establishments in Utilities:dc/topic/GDPByIndustry
+Establishments in Agriculture, Forestry, Fishing And Hunting:dc/topic/Agriculture
+Establishments in Manufacturing industry:dc/topic/GDPByIndustry
+Establishments in Retail Trade industry:dc/topic/GDPByIndustry
+Establishments in Wholesale Trade:dc/topic/GDPByIndustry
+Establishments in Management of Companies And Enterprises:dc/topic/GDPByIndustry
+Establishments in Mining, Quarrying, And Oil And Gas Extraction:dc/topic/GDPByIndustry
+Establishments in Arts, Entertainment, And Recreation:dc/topic/GDPByIndustry
+Establishments in Educational Services:dc/topic/GDPByIndustry
+Establishment in Professional, Scientific, And Technical Services:dc/topic/GDPByIndustry
+Establishment in Health Care And Social Assistance:dc/topic/GDPByIndustry
+Establishments in Accommodation And Food Services:dc/topic/GDPByIndustry
+Establishments in Transportation And Warehousing:dc/topic/CommuteModeByOccupation
+Establishments in Federal Government Owned, Total, All Industries:dc/topic/NumberOfBusinessesByOwnership
+Establishments in Local Government Owned, Total, All Industries:dc/topic/NumberOfBusinessesByOwnership
+Establishments in Privately Owned, Total, All Industries:dc/topic/NumberOfBusinessesByOwnership
+Establishments in State Government Owned, Total, All Industries:dc/topic/NumberOfBusinessesByOwnership
+5 Years or More, Language Other Than English, Below poverty line in Past 12 Months:dc/topic/PovertyByLanguageSpokenAtHome
+5 Years or More, Only English, Below poverty line in Past 12 Months:dc/topic/PovertyByLanguageSpokenAtHome
+5 Years or More, Spanish or Spanish Creole, Below poverty line in Past 12 Months:dc/topic/PovertyByLanguageSpokenAtHome
+5 Years or More, Spanish, Below poverty line in Past 12 Months:dc/topic/PovertyByLanguageSpokenAtHome
+Rural residents, Below poverty line in The Past 12 Months:dc/topic/PovertyByLanguageSpokenAtHome
+Urban residents, Below poverty line in The Past 12 Months:dc/topic/PovertyByLanguageSpokenAtHome
+BA Qualified in Arts Humanities And Other Major:dc/topic/BachelorsMajor
+Bachelors Qualified in Business Major:dc/topic/BachelorsMajor
+Bachelors Qualified in Education Major:dc/topic/BachelorsMajor
+Bachelors Qualified in Science And Engineering Major:dc/topic/BachelorsMajor
+Bachelors Qualified in Science And Engineering Related Major:dc/topic/BachelorsMajor
+Bachelors Qualified in Associates Degree, Female:dc/topic/HousesByHouseholderEducationalAttainment
+Bachelors Qualified in Associates Degree, Male:dc/topic/HousesByHouseholderEducationalAttainment
+Bachelors Degree, Women Over 25:dc/topic/HousesByHouseholderEducationalAttainment
+Bachelors Degree, Men Over 25:dc/topic/HousesByHouseholderEducationalAttainment
+Doctorate Degree, Women Over 25:dc/topic/HousesByHouseholderEducationalAttainment
+Doctorate Degree, Men Over 25:dc/topic/HousesByHouseholderEducationalAttainment
+Elementary Teachers:dc/topic/SupportServicesStaffInSchools
+Secondary Teachers:dc/topic/SupportServicesStaffInSchools
+Ungraded Teachers:dc/topic/AgeDistribution
+Black or African Americans Aged 15-19, Private School:dc/topic/StudentsInHighSchool
+Hispanic or Latino Americans Aged 15 - 19 Years, Private School:dc/topic/StudentsInHighSchool
+White (Not Hispanic or Latino) 15 - 19 Years, Private School:dc/topic/StudentsInHighSchool
+Black or African Americans Aged 15 - 19 Years, Public School:dc/topic/NeverMarriedPopulationByDemographic
+Hispanic or Latino 15 - 19 Years, Public School:dc/topic/StudentsInHighSchool
+White (Not Hispanic or Latino) Aged 15 - 19 Years, Public School:dc/topic/StudentsInHighSchool
+Students in High School:dc/topic/StudentsInHighSchool
+Students in Kindergarten:dc/topic/AgeDistribution
+Students in Middle School:dc/topic/StudentsInMiddleSchool
+Students in Pre Kindergarten, Pre Kindergarten:dc/topic/AgeDistribution
+Students in Primary School:dc/topic/StudentsInHighSchool
+Students in 1 - 8 School Grade:dc/topic/StudentsInHighSchool
+Students in 9 - 12 School Grade:dc/topic/StudentsInHighSchool
+Students, Female:dc/topic/VeteransByGender
+Students, Male:dc/topic/VeteransByGender
+Students, Asian:dc/topic/Race
+Students, Black:dc/topic/Race
+Students, Hawaiian Native or Pacific Islander:dc/topic/Race
+Students, Hispanic or Latino:dc/topic/Race
+Students, Two or More Races:dc/topic/StudentPopulationDemographics
+Students, White:dc/topic/Race
+Elementary School Counselors:dc/topic/SupportServicesStaffInSchools
+LEAAdministrative Support Staff:dc/topic/SupportServicesStaffInSchools
+LEAAdministrators:dc/topic/AgeDistribution
+Para Professionals Aides or Instructional Aides:dc/topic/SupportServicesStaffInSchools
+School Administrators:dc/topic/StudentsInHighSchool
+School Other Guidance Counselors:dc/topic/SupportServicesStaffInSchools
+School Psychologists:dc/topic/StudentsInHighSchool
+Secondary School Counselors:dc/topic/SupportServicesStaffInSchools
+Total Guidance Counselors:dc/topic/SupportServicesStaffInSchools
+Air Quality Index: Carbon Monoxide:dc/topic/Ozone
+Air Quality Index: Nitrogen Dioxide:dc/topic/Ozone
+Air Quality Index: Ozone:dc/topic/Ozone
+Air Quality Index: PM 10:dc/topic/Ozone
+Air Quality Index: PM 2.5:dc/topic/Ozone
+Air Quality Index: Sulfur Dioxide:dc/topic/Ozone
+Max Concentration: Carbon Monoxide:dc/topic/SmokePM2.5
+Mean Concentration: Carbon Monoxide:dc/topic/SmokePM2.5
+Median Concentration: Carbon Monoxide:dc/topic/MedianHouseholdIncomeByRace
+Min Concentration: Carbon Monoxide:dc/topic/SmokePM2.5
+% Bare Sparse Vegetation Covered Area:dc/topic/LandCover
+% Built-up Area:dc/topic/LandCover
+% Crop Covered Area:dc/topic/LandCover
+% Forest Covered Area:dc/topic/LandCover
+% Grass Covered Area:dc/topic/LandCover
+% Moss and Lichen Covered Area:dc/topic/LandCover
+% Permanent Water Covered Area:dc/topic/LandCover
+% Seasonal Water Covered Area:dc/topic/LandCover
+% Shrub Covered Area:dc/topic/LandCover
+% Snow Covered Area:dc/topic/LandCover
+Max Concentration: Nitrogen Dioxide:dc/topic/SmokePM2.5
+Mean Concentration: Nitrogen Dioxide:dc/topic/SmokePM2.5
+Median Concentration: Nitrogen Dioxide:dc/topic/MedianHouseholdIncomeByRace
+Min Concentration: Nitrogen Dioxide:dc/topic/SmokePM2.5
+Max Concentration: PM 10:dc/topic/PM10
+Mean Concentration: PM 10:dc/topic/PM10
+Median Concentration: PM 10:dc/topic/PM10
+Min Concentration: PM 10:dc/topic/PM10
+Max PM2.5 Concentration:dc/topic/SmokePM2.5
+Median PM2.5 Concentration:dc/topic/SmokePM2.5
+Min Concentration: PM 2.5:dc/topic/PM10
+Days With Smoke PM2.5 exceeded 12 ppm:dc/topic/SmokePM2.5
+Days With Smoke PM2.5 exceeded 150 ppm:dc/topic/SmokePM2.5
+Days With Smoke PM2.5 exceeded 250 ppm:dc/topic/SmokePM2.5
+Days With Smoke PM2.5 exceeded 35 ppm:dc/topic/SmokePM2.5
+Days With Smoke PM2.5 exceeded 55 ppm:dc/topic/SmokePM2.5
+Max Concentration: Sulfur Dioxide:dc/topic/SmokePM2.5
+Mean Concentration: Sulfur Dioxide:dc/topic/SmokePM2.5
+Median Concentration: Sulfur Dioxide:dc/topic/MedianHouseholdIncomeByRace
+Min Concentration: Sulfur Dioxide:dc/topic/SmokePM2.5
+Deaths Due To 15 - 24 Years (Neoplasms):dc/topic/NoHealthInsuranceByIncome
+Deaths Due To 1 - 4 Years (Neoplasms):dc/topic/InfantMortality
+Deaths Due To 25 - 34 Years (Neoplasms):dc/topic/VeteransByGender
+Deaths Due To 35 - 44 Years (Neoplasms):dc/topic/VeteransByGender
+Deaths Due To 45 - 54 Years (Neoplasms):dc/topic/VeteransByGender
+Deaths Due To 55 - 64 Years (Neoplasms):dc/topic/VeteransByGender
+Deaths Due To 5 - 14 Years (Neoplasms):dc/topic/InfantMortality
+Deaths Due To 65 - 74 Years (Neoplasms):dc/topic/VeteransByGender
+Deaths Due To 75 - 84 Years (Neoplasms):dc/topic/VeteransByGender
+Deaths Due To Years 85 (Neoplasms):dc/topic/InfantMortality
+Deaths Due To 1 Years or Less (Neoplasms):dc/topic/InfantMortality
+Women 21 - 65 Years Who Received Cervical Cancer Screening:dc/topic/VeteransByGender
+Women 50 - 74 Years, Who Received Mammography:dc/topic/VeteransByGender
+Patients 50 - 75 Years Who Received Colorectal Cancer Screening:dc/topic/VeteransByGender
+Deaths Due To Symptoms, Signs And Abnormal Clinical And Laboratory Findings, Not Elsewhere Classified, Female:dc/topic/CausesOfDeath
+Deaths Due To Certain Conditions Originating in The Perinatal Period, Female:dc/topic/CausesOfDeath
+Deaths Due To Certain Infectious And Parasitic Diseases, Female:dc/topic/CausesOfDeath
+Deaths Due To Congenital Malformations, Deformations And Chromosomal Abnormalities, Female:dc/topic/CausesOfDeath
+Deaths Due To Diseases of The Blood And Blood-forming Organs And Certain Disorders Involving The Immune Mechanism, Female:dc/topic/CausesOfDeath
+Deaths Due To Diseases of The Circulatory System, Female:dc/topic/CausesOfDeath
+Deaths Due To Diseases of The Digestive System, Female:dc/topic/CausesOfDeath
+Deaths Due To Diseases of The Genitourinary System, Female:dc/topic/CausesOfDeath
+Deaths Due To Diseases of The Musculoskeletal System And Connective Tissue, Female:dc/topic/CausesOfDeath
+Deaths Due To Diseases of The Nervous System, Female:dc/topic/CausesOfDeath
+Deaths Due To Diseases of The Respiratory System, Female:dc/topic/CausesOfDeath
+Deaths Due To Diseases of The Skin And Subcutaneous Tissue, Female:dc/topic/CausesOfDeath
+Deaths Due To Endocrine, Nutritional And Metabolic Diseases, Female:dc/topic/CausesOfDeath
+Deaths Due To External Causes of Morbidity And Mortality, Female:dc/topic/CausesOfDeath
+Deaths Due To Mental And Behavioural Disorders, Female:dc/topic/CausesOfDeath
+Deaths Due To Neoplasms, Female:dc/topic/WHONonCommunicableDiseaseDeaths
+Deaths Due To Pregnancy, Childbirth And The Puerperium, Female:dc/topic/CausesOfDeath
+Deaths Due To Codes for Special Purposes, Female:dc/topic/CausesOfDeath
+Mortality Events (1 Years or Less): Symptoms, Signs And Abnormal Clinical And Laboratory Findings, Not Elsewhere Classified):dc/topic/InfantMortality
+Mortality Events (1 Years or Less): Certain Conditions Originating in The Perinatal Period):dc/topic/InfantMortality
+Mortality Events (1 Years or Less): Certain Infectious And Parasitic Diseases):dc/topic/InfantMortality
+Mortality Events (1 Years or Less): Q00-Q99 ( Congenital Malformations, Deformations And Chromosomal Abnormalities):dc/topic/InfantMortality
+Mortality Events (1 Years or Less): Diseases of The Circulatory System:dc/topic/InfantMortality
+Mortality Events (1 Years or Less): Diseases of The Digestive System:dc/topic/InfantMortality
+Mortality Events (1 Years or Less): Diseases of The Genitourinary System:dc/topic/InfantMortality
+Mortality Events (1 Years or Less): Diseases of The Nervous System:dc/topic/InfantMortality
+Mortality Events (1 Years or Less): Diseases of The Respiratory System:dc/topic/InfantMortality
+Mortality Events (1 Years or Less): Endocrine, Nutritional And Metabolic Diseases:dc/topic/InfantMortality
+Mortality Events (1 Years or Less): External Causes of Morbidity And Mortality:dc/topic/InfantMortality
+Mortality Events (15 - 24 Years): Mental And Behavioural Disorders:dc/topic/InfantMortality
+Mortality Events (25 - 34 Years): Mental And Behavioural Disorders:dc/topic/InfantMortality
+Mortality Events (35 - 44 Years): Mental And Behavioural Disorders:dc/topic/InfantMortality
+Mortality Events (45 - 54 Years): Mental And Behavioural Disorders:dc/topic/InfantMortality
+Mortality Events (55 - 64 Years): Mental And Behavioural Disorders:dc/topic/InfantMortality
+Mortality Events (65 - 74 Years): Mental And Behavioural Disorders:dc/topic/InfantMortality
+Mortality Events (75 - 84 Years): Mental And Behavioural Disorders:dc/topic/InfantMortality
+Mortality Events (Years 85): Mental And Behavioural Disorders:dc/topic/InfantMortality
+Mortality Events (Measured Based on Jurisdiction): NPSOther Cause of Death, Incarcerated:dc/topic/JusticeSystemEquity
+Mortality Events (Measured Based on Jurisdiction): Illness or Natural Cause, Incarcerated:dc/topic/JusticeSystemEquity
+Mortality Events (Measured Based on Jurisdiction): Accidents(Unintentional Injuries), Incarcerated:dc/topic/JusticeSystemEquity
+Mortality Events (Measured Based on Jurisdiction): Intentional Self-Harm(Suicide), Incarcerated:dc/topic/JusticeSystemEquity
+Mortality Events (Measured Based on Jurisdiction): Assault(Homicide), Incarcerated:dc/topic/JusticeSystemEquity
+Mortality Events (Measured Based on Jurisdiction): Death Due To Another Person, Incarcerated:dc/topic/JusticeSystemEquity
+Mortality Events (Measured Based on Jurisdiction): AIDS, Incarcerated:dc/topic/JusticeSystemEquity
+Mortality Events (Measured Based on Jurisdiction): Judicial Execution, Incarcerated:dc/topic/JusticeSystemEquity
+Women With No Health Insurance:dc/topic/NoHealthInsuranceByIncome
+Men With No Health Insurance:dc/topic/NoHealthInsuranceByIncome
+Non-Institutionalized Civilian Adults With No Health Insurance, Earnings 15,000 - 24,999 USD:dc/topic/NoHealthInsuranceByIncome
+Non-Institutionalized Civilian Adults With No Health Insurance, Earnings 25,000 - 34,999 USD:dc/topic/NoHealthInsuranceByIncome
+Non-Institutionalized Civilian Adults With No Health Insurance, Earnings 4,999 USD or Less:dc/topic/NoHealthInsuranceByIncome
+Non-Institutionalized Civilian Adults With No Health Insurance, Earnings 50,000 - 74,999 USD:dc/topic/NoHealthInsuranceByIncome
+Non-Institutionalized Civilian Adults With No Health Insurance, Earnings 5,000 - 14,999 USD:dc/topic/NoHealthInsuranceByIncome
+Non-Institutionalized Civilian Adults With No Health Insurance, Earnings 75,000 USD or More:dc/topic/NoHealthInsuranceByIncome
+American Indian or Alaska Native With No Health Insurance:dc/topic/NoHealthInsuranceByRace
+Asian With No Health Insurance:dc/topic/NoHealthInsuranceByRace
+Black or African American With No Health Insurance:dc/topic/NoHealthInsuranceByRace
+Hispanic or Latino With No Health Insurance:dc/topic/NoHealthInsuranceByRace
+Native Hawaiian or Other Pacific Islander With No Health Insurance:dc/topic/Race
+White With No Health Insurance:dc/topic/NoHealthInsuranceByRace
+% Bcg Immunization, Female One-Year-Old:dc/topic/WHOChildImmunizationsByGender
+% Dtp3 Immunization, Female One-Year-Olds:dc/topic/WHOChildImmunizationsByGender
+% Full Immunization Coverage, Female One-Year-Olds:dc/topic/WHOChildImmunizationsByGender
+% Measles Immunization Coverage, Female One-Year-Olds:dc/topic/WHOChildImmunizationsByGender
+% Polio Immunization Coverage, Female One-Year-Olds:dc/topic/WHOChildImmunizationsByGender
+% Bcg Immunization Coverage, Male One-Year-Olds:dc/topic/WHOChildImmunizationsByGender
+% Dtp3 Immunization Coverage, Male One-Year-Olds:dc/topic/WHOChildImmunizationsByGender
+% Full Immunization Coverage, Male One-Year-Olds:dc/topic/WHOChildImmunizationsByGender
+% Measles Immunization Coverage, Male One-Year-Olds:dc/topic/WHOChildImmunizationsByGender
+% Polio Immunization Coverage, Male One-Year-Olds:dc/topic/WHOChildImmunizationsByGender
+% Bcg Immunization Coverage, Rural One-Year-Olds:dc/topic/WHOChildImmunizationsByGender
+% Dtp3 Immunization Coverage, Rural One-Year-Olds:dc/topic/WHOChildImmunizationsByGender
+% Full Immunization Coverage, Rural One-Year-Olds:dc/topic/WHOChildImmunizationsByGender
+% Measles Immunization Coverage, Rural One-Year-Olds:dc/topic/WHOChildImmunizationsByGender
+% Polio Immunization Coverage, Rural One-Year-Olds:dc/topic/WHOChildImmunizationsByGender
+% Bcg Immunization Coverage, Urban One-Year-Olds:dc/topic/WHOChildImmunizationsByGender
+% Dtp3 Immunization Coverage, Urban One-Year-Olds:dc/topic/WHOChildImmunizationsByGender
+% Full Immunization Coverage, Urban One-Year-Olds:dc/topic/WHOChildImmunizationsByGender
+% Measles Immunization Coverage, Urban One-Year-Olds:dc/topic/WHOChildImmunizationsByGender
+% Polio Immunization Coverage, Urban One-Year-Olds:dc/topic/WHOChildImmunizationsByGender
+Number Of Under-Five Deaths:dc/topic/WHONonCommunicableDiseaseDeaths
+Number Of Infant Deaths:dc/topic/WHONonCommunicableDiseaseDeaths
+Number Of Neonatal Deaths:dc/topic/WHONonCommunicableDiseaseDeaths
+% Low Birth Weight:dc/topic/WHOChildrenNonCommunicableDiseases
+% Overweight, Children Under 5 Years:dc/topic/WHOChildrenNonCommunicableDiseases
+% Anaemia, Children Aged 6-59 Months:dc/topic/WHOChildrenNonCommunicableDiseases
+% Underweight, Children Under 5 Years:dc/topic/WHOChildrenNonCommunicableDiseases
+% Wasted, Children Under 5 Years:dc/topic/WHOChildrenNonCommunicableDiseases
+% Severely Wasted, Children Under 5 Years:dc/topic/WHOChildrenNonCommunicableDiseases
+% Stunting,  Children Under 5 Years:dc/topic/WHOChildrenNonCommunicableDiseases
+Alcohol Use Disorders, Per 100,000:dc/topic/WHOMortalityCauses
+Breast Cancer, Per 100,000:dc/topic/WHOMortalityCauses
+Colon And Rectum Cancers, Per 100,000:dc/topic/WHOMortalityCauses
+Diabetes Mellitus, Per 100,000:dc/topic/WHOMortalityCauses
+Drownings, Per 100,000:dc/topic/WHOMortalityCauses
+Falls, Per 100,000:dc/topic/WHOMortalityCauses
+Fires, Per 100,000:dc/topic/WHOMortalityCauses
+Ischaemic Heart Disease, Per 100,000:dc/topic/WHOMortalityCauses
+Liver Cancer, Per 100,000:dc/topic/WHOMortalityCauses
+Liver Cirrhosis, Per 100,000:dc/topic/WHOMortalityCauses
+Mouth And Oropharynx Cancer, Per 100,000:dc/topic/WHOMortalityCauses
+Oesophagus Cancer, Per 100,000:dc/topic/WHOMortalityCauses
+Poisoning, Per 100,000:dc/topic/WHOMortalityCauses
+Prematurity And Low Birth Rate, Per 100,000:dc/topic/WHOMortalityCauses
+Road Traffic Accidents, Per 100,000:dc/topic/WHOMortalityCauses
+Self-Inflicted Injury, Per 100,000:dc/topic/WHOMortalityCauses
+Other Unintentional Injuries, Per 100,000:dc/topic/WHOMortalityCauses
+Violence, Per 100,000:dc/topic/WHOMortalityCauses
+Cerebrovascular Disease, Per 100,000:dc/topic/WHOMortalityCauses
+% Daily Tobacco Use Among Adults:dc/topic/WHOMortalityCauses
+% Daily Tobacco Smokers (Estimate):dc/topic/AgeDistribution
+% Underweight Among Adults, BMI < 18:dc/topic/VeteransByGroupQuartersResidence
+% Obesity Among Adults, BMI >= 30:dc/topic/AgeDistribution
+% Insufficient Physical Activity Among Adults Aged 18+ Years (Crude Estimate):dc/topic/AgeDistribution
+Age-Standardized Death Rates, Alcohol Use Disorders, Per 100,000:dc/topic/WHOMortalityCauses
+Age-Standardized Death Rates, Breast Cancer, Per 100,000:dc/topic/WHOMortalityCauses
+Age-Standardized Death Rates, Colon And Rectum Cancers, Per 100,000:dc/topic/WHOMortalityCauses
+Age-Standardized Death Rates, Diabetes Mellitus, Per 100,000:dc/topic/WHOMortalityCauses
+Age-Standardized Death Rates, Drownings, Per 100,000:dc/topic/WHOMortalityCauses
+Age-Standardized Death Rates, Falls, Per 100,000:dc/topic/WHOMortalityCauses
+Age-Standardized Death Rates, Fires, Per 100,000:dc/topic/WHOMortalityCauses
+Age-Standardized Death Rates, Ischaemic Heart Disease, Per 100,000:dc/topic/WHOMortalityCauses
+Age-Standardized Death Rates, Liver Cancer, Per 100,000:dc/topic/WHOMortalityCauses
+Age-Standardized Death Rates, Liver Cirrhosis, Per 100,000:dc/topic/WHOMortalityCauses
+Age-Standardized Death Rates, Mouth And Oropharynx Cancer, Per 100,000:dc/topic/WHOMortalityCauses
+Age-Standardized Death Rates, Oesophagus Cancer, Per 100,000:dc/topic/WHOMortalityCauses
+Age-Standardized Death Rates, Poisoning, Per 100,000:dc/topic/WHOMortalityCauses
+Age-Standardized Death Rates, Prematurity And Low Birth Rate, Per 100,000:dc/topic/WHOMortalityCauses
+Age-Standardized Death Rates, Road Traffic Accidents, Per 100,000:dc/topic/WHOMortalityCauses
+Age-Standardized Death Rates, Self-Inflicted Injury, Per 100,000:dc/topic/WHOMortalityCauses
+Age-Standardized Death Rates, Other Unintentional Injuries, Per 100,000:dc/topic/WHOMortalityCauses
+Age-Standardized Death Rates, Violence, Per 100,000:dc/topic/WHOMortalityCauses
+Age-Standardized Death Rates (15+ Years), Alcoholic Liver Disease, Per 100,000:dc/topic/WHOMortalityCauses
+Age-Standardized Death Rates (15+ Years), Poisoning, Per 100,000:dc/topic/WHOMortalityCauses
+Age-Standardized Death Rates (15+ Years), Violence, Per 100,000:dc/topic/WHOMortalityCauses
+Age-Standardized Death Rates, Cerebrovascular Disease, Per 100,000:dc/topic/WHOMortalityCauses
+New Cases Of Buruli Ulcer:dc/topic/AgeDistribution
+New Cases Of Human African Trypanosomiasis:dc/topic/Race
+Cases Of Cutaneous Leishmaniasis:dc/topic/AgeDistribution
+Cases Of Visceral Leishmaniasis:dc/topic/AgeDistribution
+New G2D Leprosy Cases:dc/topic/AgeDistribution
+Cases Of Yaws Reported:dc/topic/AgeDistribution
+Estimated Population-Based Prevalence Of Depression:dc/topic/JusticeSystemEquity
+Non-Communicable Disease Deaths, By Disease & Sex, Chronic Respiratory Diseases:dc/topic/WHONonCommunicableDiseaseDeaths
+Non-Communicable Disease Deaths, By Disease & Sex, Diabetes Mellitus:dc/topic/WHONonCommunicableDiseaseDeaths
+Non-Communicable Diseases Deaths, By Disease & Sex, Major Cardiovascular Diseases:dc/topic/WHONonCommunicableDiseaseDeaths
+Non-Communicable Diseases Deaths, By Disease & Sex, Malignant Neoplasms:dc/topic/WHONonCommunicableDiseaseDeaths
+Women With Health Insurance:dc/topic/NoHealthInsuranceByIncome
+Men With Health Insurance:dc/topic/NoHealthInsuranceByIncome
+American Indian or Alaska Native Population With Health Insurance:dc/topic/Race
+Asian Population With Health Insurance:dc/topic/NoHealthInsuranceByRace
+Black or African American Alone Population With Health Insurance:dc/topic/NoHealthInsuranceByRace
+Hispanic or Latino Population With Health Insurance:dc/topic/NoHealthInsuranceByRace
+Native Hawaiian or Other Pacific Islander Population With Health Insurance:dc/topic/Race
+White Population With Health Insurance:dc/topic/NoHealthInsuranceByRace

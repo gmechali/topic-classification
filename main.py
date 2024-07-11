@@ -5,14 +5,20 @@ import pandas as pd
 import numpy as np
 import datacommons_pandas as dc
 from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.metrics import accuracy_score
+from sklearn.model_selection import train_test_split
 from sklearn.naive_bayes import MultinomialNB
+import sys
 from absl import flags
 
 FLAGS = flags.FLAGS
 flags.DEFINE_boolean('create_training_data_set', False, 'Outputs a training data set')
 flags.DEFINE_string('training_data_set_filename', 'topic_to_names', 'Filename to use for training data.')
 flags.DEFINE_boolean('evaluate_model', False, 'Outputs predictions for test data')
+flags.DEFINE_boolean('test_accuracy', False, 'Whether to test accuracy with test_train_split.')
 flags.DEFINE_string('test_data_set_path', 'dc_sample_data.csv', 'Path to the csv file to use for training data.')
+flags.DEFINE_string('prediction_filename', 'prediction.txt', 'Filename for the prediction')
+FLAGS(sys.argv) 
 
 def filter_topics(variable):
 	if variable.startswith("dc/topic"):
@@ -102,12 +108,12 @@ def fetch_training_data():
 
 	# Write the final output of Topics to list of names for associated variable into a file, so we don't have to always
 	# regenerate this!
-	with open(training_data_set_filename+'.json', 'w') as convert_file: 
+	with open(FLAGS.training_data_set_filename+'.json', 'w') as convert_file: 
 		convert_file.write(json.dumps(topics_to_names))
 
 	# Formatted as: "dc/topic/Demographics": "Total Population; Population Density; Rate of Population Growth"
 	# Keeping it since it's more human-readable.
-	with open(training_data_set_filename + '.txt', 'w') as f:
+	with open(FLAGS.training_data_set_filename + '.txt', 'w') as f:
 		for key, value in topics_to_names.items():
 			f.write('%s:%s\n' % (key, value))
 
@@ -116,7 +122,7 @@ def train_model():
 	"""Train the model using json output.
 	Returns the model and the CountVectorizer. 
 	"""
-	f = open('topic_to_names.json')
+	f = open(FLAGS.training_data_set_filename+'.json')
 	data = json.load(f)
 
 	X_train = []
@@ -125,6 +131,8 @@ def train_model():
 		y_train.append(topic)
 		X_train.append(data[topic])
 
+	X_train, X_test, y_train, y_test = train_test_split(X_train, y_train, test_size=0.5)
+
 	vectorizer = CountVectorizer(stop_words="english", analyzer="word")
 
 	X_train = vectorizer.fit_transform(X_train)
@@ -132,34 +140,37 @@ def train_model():
 	# MNB CLASSIFICATION
 	mnb = MultinomialNB()
 	mnb.fit(X_train,y_train)
+
+	if FLAGS.test_accuracy:
+		print(X_test)
+		X_test = vectorizer.transform(X_test)
+		test_prediction = mnb.predict(X_test)
+		print(y_test)
+		print(test_prediction)
+		print("Accuracy score: ", accuracy_score(y_test, test_prediction))
+
 	return mnb, vectorizer
 
-
-def fetch_test_data():
-	"""Extract test data from sample data set. Use both the `Name` and `Chart Title` columns for classification.
-	Returns a dataframe with the selected data.
-	"""
-	return pd.read_csv(FLAGS.test_data_set_path, usecols=["Name", "Chart Title", "StatVar"])
-
-def evaluate(model, vectorizer):
+def evaluate():
 	"""Evaluates a given model using test data. We first try based on the `Name` test data, and fall back to `Chart Title`
 	Outputs the prediction in a json file. 
 	"""
 	model, vectorizer = train_model()
 
-	test_df = fetch_test_data()
+	test_df = pd.read_csv(FLAGS.test_data_set_path, usecols=["Name", "Chart Title", "StatVar"])
 
-	chart_title_samples = test_df['Chart Title'].values.astype('U')
-
-	X_test = vectorizer.transform(chart_title_samples)
-
-	title_prediction = model.predict(X_test)
-
+	# Classify based on Name.
 	name_samples = test_df['Name'].values.astype('U')
 	X_test = vectorizer.transform(name_samples)
 	name_prediction = model.predict(X_test)
 
-	index=0
+	# Classify based on Chart Title.
+	chart_title_samples = test_df['Chart Title'].values.astype('U')
+	X_test = vectorizer.transform(chart_title_samples)
+	title_prediction = model.predict(X_test)
+
+	# Store the predictions in dictionary. Keep the Names prediction when available. Fall back to Chart Title.
+	index = 0
 	fail = 0
 	predictions = {}
 	for pr in name_prediction:
@@ -169,11 +180,12 @@ def evaluate(model, vectorizer):
 
 	index = 0
 	for pr in title_prediction:
-		if chart_title_samples[index] != "nan":
+		if chart_title_samples[index] != "nan" and name_samples[index] == "nan":
 			predictions[chart_title_samples[index]] = pr
 		index += 1
 
-	with open("classified_test_data.txt", 'w') as f:
+	# Output the prediction in txt file.
+	with open(FLAGS.prediction_filename, 'w') as f:
 		for key, value in predictions.items():
 			f.write('%s:%s\n' % (key, value))
 
@@ -181,7 +193,7 @@ def main():
 	if FLAGS.create_training_data_set:
 		fetch_training_data()
 	if FLAGS.evaluate_model:
-		evaluate_model()
+		evaluate()
 
 
 if __name__ == "__main__":
