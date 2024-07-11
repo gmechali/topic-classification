@@ -43,14 +43,14 @@ Count of Household: Family Household, below poverty line:dc/topic/Agriculture
 Count of Household: 100,000 - 149,999 Inflation Adjusted USD_Current Year, With Income:dc/topic/IndividualIncomeDistribution
 Count of Household: 10,000 Inflation Adjusted USD_Current Year or Less, With Income:dc/topic/IndividualIncomeDistribution
 Count of Household: 10,000 - 14,999 Inflation Adjusted USD_Current Year, With Income:dc/topic/IndividualIncomeDistribution
-Count of Household: 150,000 - 199,999 Inflation Adjusted USD_Current Year, With Income:dc/topic/HousesByHomeValue
+Count of Household: 150,000 - 199,999 Inflation Adjusted USD_Current Year, With Income:dc/topic/IndividualIncomeDistribution
 Count of Household: 15,000 - 24,999 Inflation Adjusted USD_Current Year, With Income:dc/topic/IndividualIncomeDistribution
-Count of Household: 200,000 Inflation Adjusted USD_Current Year or More, With Income:dc/topic/MedianHouseholdIncomeByRace
+Count of Household: 200,000 Inflation Adjusted USD_Current Year or More, With Income:dc/topic/IndividualIncomeDistribution
 Count of Household: 25,000 - 34,999 Inflation Adjusted USD_Current Year, With Income:dc/topic/IndividualIncomeDistribution
 Count of Household: 35,000 - 49,999 Inflation Adjusted USD_Current Year, With Income:dc/topic/IndividualIncomeDistribution
 Count of Household: 50,000 - 74,999 Inflation Adjusted USD_Current Year, With Income:dc/topic/IndividualIncomeDistribution
-Count of Household: 75,000 - 99,999 Inflation Adjusted USD_Current Year, With Income:dc/topic/HousesByHomeValue
-Count of Household: Married Couple Family Household, below poverty line:dc/topic/NeverMarriedPopulationByDemographic
+Count of Household: 75,000 - 99,999 Inflation Adjusted USD_Current Year, With Income:dc/topic/IndividualIncomeDistribution
+Count of Household: Married Couple Family Household, below poverty line:dc/topic/Agriculture
 Count of Household: No Health Insurance:dc/topic/HealthInsuranceType
 Count of Household: No Health Insurance, 100,000 USD or More:dc/topic/RentalHouses
 Count of Household: No Health Insurance, 25,000 USD or Less:dc/topic/RentalHouses
@@ -92,13 +92,13 @@ Count of Household: With Food Stamps in The Past Year, Single Father Family Hous
 Count of Household: With Food Stamps in The Past Year, Single Mother Family Household, Without Children Under 18:dc/topic/Benefits
 Count of Household: With Food Stamps in The Past Year, Without Population Over 60:dc/topic/Benefits
 Count of Household: With SSIAnd or Cash Assistance in The Past Year, Family Household:dc/topic/Agriculture
-Count of Household: With SSIAnd or Cash Assistance in The Past Year, Family Household, below poverty line:dc/topic/StudentPopulationDemographics
+Count of Household: With SSIAnd or Cash Assistance in The Past Year, Family Household, below poverty line:dc/topic/Snowfall
 Count of Household: With SSIAnd or Cash Assistance in The Past Year, Married Couple Family Household:dc/topic/NeverMarriedPopulationByDemographic
 Count of Household: With SSIAnd or Cash Assistance in The Past Year, Married Couple Family Household, below poverty line:dc/topic/NeverMarriedPopulationByDemographic
 Count of Household: With SSIAnd or Cash Assistance in The Past Year, Single Mother Family Household:dc/topic/Agriculture
-Count of Household: With SSIAnd or Cash Assistance in The Past Year, Single Mother Family Household, below poverty line:dc/topic/StudentPopulationDemographics
-Count of Household: With Social Security Income in The Past Year, Family Household:dc/topic/MedianHouseholdIncomeByRace
-Count of Household: With Social Security Income in The Past Year, Family Household, below poverty line:dc/topic/MedianHouseholdIncomeByRace
+Count of Household: With SSIAnd or Cash Assistance in The Past Year, Single Mother Family Household, below poverty line:dc/topic/Snowfall
+Count of Household: With Social Security Income in The Past Year, Family Household:dc/topic/Agriculture
+Count of Household: With Social Security Income in The Past Year, Family Household, below poverty line:dc/topic/Agriculture
 Count of Household: With Social Security Income in The Past Year, Foreign Born, Africa:dc/topic/PlaceOfBirth
 Count of Household: With Social Security Income in The Past Year, Foreign Born, Asia:dc/topic/PlaceOfBirth
 Count of Household: With Social Security Income in The Past Year, Foreign Born, Caribbean:dc/topic/PlaceOfBirth
@@ -117,8 +117,8 @@ Count of Household: With Social Security Income in The Past Year, Foreign Born, 
 Count of Household: With Social Security Income in The Past Year, Foreign Born, Western Asia:dc/topic/Immigration
 Count of Household: With Social Security Income in The Past Year, Married Couple Family Household:dc/topic/HouseholdIncomeDistribution
 Count of Household: With Social Security Income in The Past Year, Married Couple Family Household, below poverty line:dc/topic/HouseholdIncomeDistribution
-Count of Household: With Social Security Income in The Past Year, Single Mother Family Household:dc/topic/MedianHouseholdIncomeByRace
-Count of Household: With Social Security Income in The Past Year, Single Mother Family Household, below poverty line:dc/topic/MedianHouseholdIncomeByRace
+Count of Household: With Social Security Income in The Past Year, Single Mother Family Household:dc/topic/Agriculture
+Count of Household: With Social Security Income in The Past Year, Single Mother Family Household, below poverty line:dc/topic/Agriculture
 Count of Household: Without Food Stamps in The Past Year:dc/topic/Benefits
 Count of Household: Without Food Stamps in The Past Year, Above poverty line:dc/topic/Benefits
 Count of Household: Without Food Stamps in The Past Year, American Indian or Alaska Native Alone:dc/topic/Benefits
@@ -162,7 +162,7 @@ Population: Above poverty line:dc/topic/NonEnglishLanguageAtHome
 Population: Above poverty line, American Indian or Alaska Native Alone:dc/topic/Race
 Population: Above poverty line, Asian Alone:dc/topic/NonEnglishLanguageAtHome
 Population: Above poverty line, Black or African American Alone:dc/topic/Race
-Population: Above poverty line, Hispanic or Latino:dc/topic/NonEnglishLanguageAtHome
+Population: Above poverty line, Hispanic or Latino:dc/topic/Race
 Population: Above poverty line, Native Hawaiian or Other Pacific Islander Alone:dc/topic/Race
 Population: Above poverty line, Some Other Race Alone:dc/topic/NonEnglishLanguageAtHome
 Population: Above poverty line, Two or More Races:dc/topic/NonEnglishLanguageAtHome
@@ -191,11 +191,11 @@ Population: Asian Alone, Noninstitutionalized Group Quarters:dc/topic/Race
 Population: Asian Alone, Nursing Facilities:dc/topic/Race
 Population: Asian or Pacific Islander:dc/topic/Race
 Population: below poverty line:dc/topic/NonEnglishLanguageAtHome
-Population: Below poverty line in The Past 12 Months (Per Capita):dc/topic/NonEnglishLanguageAtHome
+Population: Below poverty line in The Past 12 Months (Per Capita):dc/topic/Poverty
 Population: below poverty line, American Indian or Alaska Native Alone:dc/topic/Race
 Population: below poverty line, Asian Alone:dc/topic/NonEnglishLanguageAtHome
 Population: below poverty line, Black or African American Alone:dc/topic/Race
-Population: below poverty line, Hispanic or Latino:dc/topic/NonEnglishLanguageAtHome
+Population: below poverty line, Hispanic or Latino:dc/topic/Race
 Population: below poverty line, Native Hawaiian or Other Pacific Islander Alone:dc/topic/Race
 Population: below poverty line, Some Other Race Alone:dc/topic/NonEnglishLanguageAtHome
 Population: below poverty line, Two or More Races:dc/topic/NonEnglishLanguageAtHome
@@ -203,16 +203,16 @@ Population: below poverty line, White Alone:dc/topic/NonEnglishLanguageAtHome
 Population: below poverty line, White Alone Not Hispanic or Latino:dc/topic/Race
 Population: Black or African American Alone:dc/topic/NonEnglishLanguageAtHome
 Population: Black or African American, Monoracial/Multiracial:dc/topic/Race
-Population: Black or African American Alone, Adult Correctional Facilities:dc/topic/NonEnglishLanguageAtHome
+Population: Black or African American Alone, Adult Correctional Facilities:dc/topic/Race
 Population: Black or African American Alone, College or University Student Housing:dc/topic/Race
-Population: Black or African American Alone, Group Quarters:dc/topic/NonEnglishLanguageAtHome
-Population: Black or African American Alone, Institutionalized Group Quarters:dc/topic/NonEnglishLanguageAtHome
-Population: Black or African American Alone, Juvenile Facilities:dc/topic/NonEnglishLanguageAtHome
+Population: Black or African American Alone, Group Quarters:dc/topic/Race
+Population: Black or African American Alone, Institutionalized Group Quarters:dc/topic/Race
+Population: Black or African American Alone, Juvenile Facilities:dc/topic/Race
 Population: Black or African American Alone, Military Quarters or Military Ships:dc/topic/Race
-Population: Black or African American Alone, Noninstitutionalized Group Quarters:dc/topic/NonEnglishLanguageAtHome
-Population: Black or African American Alone, Nursing Facilities:dc/topic/NonEnglishLanguageAtHome
+Population: Black or African American Alone, Noninstitutionalized Group Quarters:dc/topic/Race
+Population: Black or African American Alone, Nursing Facilities:dc/topic/Race
 Population: Civilian, Female, Non Institutionalized:dc/topic/VeteransByGender
-Population: Civilian, Male, Non Institutionalized:dc/topic/VeteransByGender
+Population: Civilian, Male, Non Institutionalized:dc/topic/NonEnglishLanguageAtHome
 Population: Civilian, No Disability, Non Institutionalized:dc/topic/NonEnglishLanguageAtHome
 Population: Civilian, With Disability, Non Institutionalized:dc/topic/NonEnglishLanguageAtHome
 Population: Cognitive Difficulty:dc/topic/NonEnglishLanguageAtHome
@@ -223,7 +223,7 @@ Population: Bachelors Degree or Higher, Male, Married in The Past Year:dc/topic/
 Population: 9th To 12th Grade No Diploma:dc/topic/LevelOfEducationalAttainment
 Population: Less Than 9th Grade:dc/topic/LevelOfEducationalAttainment
 Population: Less Than High School Diploma:dc/topic/StudentsInHighSchool
-Population: Some College No Degree:dc/topic/NonEnglishLanguageAtHome
+Population: Some College No Degree:dc/topic/LevelOfEducationalAttainment
 Population: Female:dc/topic/NonEnglishLanguageAtHome
 Population: Female, Above poverty line:dc/topic/NonEnglishLanguageAtHome
 Population: Female, Above poverty line, American Indian or Alaska Native Alone:dc/topic/Race
@@ -291,11 +291,11 @@ Population: Female, Hispanic or Latino & Black or African American, Monoracial/M
 Population: Female, Hispanic or Latino & Native Hawaiian And Other Pacific Islander, Monoracial/Multiracial:dc/topic/Race
 Population: Female, Hispanic or Latino & Native Hawaiian or Other Pacific Islander Alone:dc/topic/Race
 Population: Female, Hispanic or Latino & Two or More Races:dc/topic/Race
-Population: Female, Hispanic or Latino & White Alone:dc/topic/DisabilitiesByRace
+Population: Female, Hispanic or Latino & White Alone:dc/topic/Race
 Population: Female, Hispanic or Latino & White, Monoracial/Multiracial:dc/topic/Race
-Population: Female, Married in The Past Year, below poverty line:dc/topic/NeverMarriedPopulationByDemographic
-Population: Female, Married in The Past Year, Poverty Status Determined:dc/topic/NeverMarriedPopulationByDemographic
-Population: Female, Married in The Past Year, Household:dc/topic/NeverMarriedPopulationByDemographic
+Population: Female, Married in The Past Year, below poverty line:dc/topic/MarriedPopulationByDemographic
+Population: Female, Married in The Past Year, Poverty Status Determined:dc/topic/MarriedPopulationByDemographic
+Population: Female, Married in The Past Year, Household:dc/topic/MarriedPopulationByDemographic
 Population: Female, Native Hawaiian or Other Pacific Islander Alone:dc/topic/Race
 Population: Female, Native Hawaiian And Other Pacific Islander, Monoracial/Multiracial:dc/topic/Race
 Population: Female, Non White:dc/topic/NonEnglishLanguageAtHome
@@ -334,7 +334,7 @@ Population: Female, With Earnings, Military Quarters or Military Ships:dc/topic/
 Population: Female, With Earnings, Noninstitutionalized Group Quarters:dc/topic/NonEnglishLanguageAtHome
 Population: Female, With Earnings, Nursing Facilities:dc/topic/NonEnglishLanguageAtHome
 Population: Hearing Difficulty:dc/topic/NonEnglishLanguageAtHome
-Population: Hispanic or Latino:dc/topic/NonEnglishLanguageAtHome
+Population: Hispanic or Latino:dc/topic/Race
 Population: Hispanic or Latino & American Indian And Alaska Native, Monoracial/Multiracial:dc/topic/Race
 Population: Hispanic or Latino & American Indian or Alaska Native Alone:dc/topic/Race
 Population: Hispanic or Latino & Asian Alone:dc/topic/Race
@@ -344,21 +344,21 @@ Population: Hispanic or Latino & Black or African American Alone:dc/topic/Race
 Population: Hispanic or Latino & Black or African American, Monoracial/Multiracial:dc/topic/Race
 Population: Hispanic or Latino & Native Hawaiian And Other Pacific Islander, Monoracial/Multiracial:dc/topic/Race
 Population: Hispanic or Latino & Native Hawaiian or Other Pacific Islander Alone:dc/topic/Race
-Population: Hispanic or Latino, Adult Correctional Facilities:dc/topic/NonEnglishLanguageAtHome
-Population: Hispanic or Latino, College or University Student Housing:dc/topic/NonEnglishLanguageAtHome
-Population: Hispanic or Latino, Group Quarters:dc/topic/NonEnglishLanguageAtHome
-Population: Hispanic or Latino, Institutionalized Group Quarters:dc/topic/NonEnglishLanguageAtHome
-Population: Hispanic or Latino, Juvenile Facilities:dc/topic/NonEnglishLanguageAtHome
-Population: Hispanic or Latino, Military Quarters or Military Ships:dc/topic/NonEnglishLanguageAtHome
-Population: Hispanic or Latino, Noninstitutionalized Group Quarters:dc/topic/NonEnglishLanguageAtHome
-Population: Hispanic or Latino, Nursing Facilities:dc/topic/NonEnglishLanguageAtHome
-Population: Hispanic or Latino & Two or More Races:dc/topic/NonEnglishLanguageAtHome
+Population: Hispanic or Latino, Adult Correctional Facilities:dc/topic/Race
+Population: Hispanic or Latino, College or University Student Housing:dc/topic/Race
+Population: Hispanic or Latino, Group Quarters:dc/topic/Race
+Population: Hispanic or Latino, Institutionalized Group Quarters:dc/topic/Race
+Population: Hispanic or Latino, Juvenile Facilities:dc/topic/Race
+Population: Hispanic or Latino, Military Quarters or Military Ships:dc/topic/Race
+Population: Hispanic or Latino, Noninstitutionalized Group Quarters:dc/topic/Race
+Population: Hispanic or Latino, Nursing Facilities:dc/topic/Race
+Population: Hispanic or Latino & Two or More Races:dc/topic/Race
 Population: Hispanic or Latino & White Alone:dc/topic/Race
 Population: Hispanic or Latino & White, Monoracial/Multiracial:dc/topic/Race
-Population: in Labor Force, Female, Divorced in The Past Year:dc/topic/EmploymentEquity
-Population: in Labor Force, Female, Married in The Past Year:dc/topic/EmploymentEquity
-Population: in Labor Force, Male, Divorced in The Past Year:dc/topic/EmploymentEquity
-Population: in Labor Force, Male, Married in The Past Year:dc/topic/EmploymentEquity
+Population: in Labor Force, Female, Divorced in The Past Year:dc/topic/DivorcedPopulationByDemographic
+Population: in Labor Force, Female, Married in The Past Year:dc/topic/NonEnglishLanguageAtHome
+Population: in Labor Force, Male, Divorced in The Past Year:dc/topic/DivorcedPopulationByDemographic
+Population: in Labor Force, Male, Married in The Past Year:dc/topic/NeverMarriedPopulationByDemographic
 Population: Independent Living Difficulty:dc/topic/NonEnglishLanguageAtHome
 Population: Male:dc/topic/NonEnglishLanguageAtHome
 Population: Male, Above poverty line:dc/topic/NonEnglishLanguageAtHome
@@ -488,7 +488,7 @@ Population: No Disability, Noninstitutionalized Group Quarters:dc/topic/NonEngli
 Population: No Disability, Nursing Facilities:dc/topic/NonEnglishLanguageAtHome
 Population: No Health Insurance:dc/topic/WithHealthInsuranceByRace
 Population: Non White:dc/topic/NonEnglishLanguageAtHome
-Population: Not Hispanic or Latino:dc/topic/NonEnglishLanguageAtHome
+Population: Not Hispanic or Latino:dc/topic/Race
 Population: Not Hispanic or Latino & American Indian And Alaska Native, Monoracial/Multiracial:dc/topic/Race
 Population: Not Hispanic or Latino & American Indian or Alaska Native Alone:dc/topic/Race
 Population: Not Hispanic or Latino & Asian Alone:dc/topic/Race
@@ -498,15 +498,15 @@ Population: Not Hispanic or Latino & Black or African American Alone:dc/topic/Ra
 Population: Not Hispanic or Latino & Black or African American, Monoracial/Multiracial:dc/topic/Race
 Population: Not Hispanic or Latino & Native Hawaiian And Other Pacific Islander, Monoracial/Multiracial:dc/topic/Race
 Population: Not Hispanic or Latino & Native Hawaiian or Other Pacific Islander Alone:dc/topic/Race
-Population: Not Hispanic or Latino, Group Quarters:dc/topic/NonEnglishLanguageAtHome
-Population: Not Hispanic or Latino, Institutionalized Group Quarters:dc/topic/NonEnglishLanguageAtHome
-Population: Not Hispanic or Latino, Noninstitutionalized Group Quarters:dc/topic/NonEnglishLanguageAtHome
-Population: Not Hispanic or Latino & Two or More Races:dc/topic/NonEnglishLanguageAtHome
+Population: Not Hispanic or Latino, Group Quarters:dc/topic/Race
+Population: Not Hispanic or Latino, Institutionalized Group Quarters:dc/topic/Race
+Population: Not Hispanic or Latino, Noninstitutionalized Group Quarters:dc/topic/Race
+Population: Not Hispanic or Latino & Two or More Races:dc/topic/Race
 Population: Not Hispanic or Latino & White, Monoracial/Multiracial:dc/topic/Race
-Population: Not in Labor Force, Female, Divorced in The Past Year:dc/topic/EmploymentEquity
-Population: Not in Labor Force, Female, Married in The Past Year:dc/topic/EmploymentEquity
-Population: Not in Labor Force, Male, Divorced in The Past Year:dc/topic/EmploymentEquity
-Population: Not in Labor Force, Male, Married in The Past Year:dc/topic/EmploymentEquity
+Population: Not in Labor Force, Female, Divorced in The Past Year:dc/topic/DivorcedPopulationByDemographic
+Population: Not in Labor Force, Female, Married in The Past Year:dc/topic/NonEnglishLanguageAtHome
+Population: Not in Labor Force, Male, Divorced in The Past Year:dc/topic/DivorcedPopulationByDemographic
+Population: Not in Labor Force, Male, Married in The Past Year:dc/topic/NeverMarriedPopulationByDemographic
 Population: One Race:dc/topic/NonEnglishLanguageAtHome
 Population: One Race, Adult Correctional Facilities:dc/topic/NonEnglishLanguageAtHome
 Population: One Race, College or University Student Housing:dc/topic/NonEnglishLanguageAtHome
@@ -523,7 +523,7 @@ Population: Poverty Status Determined, Noninstitutionalized Group Quarters:dc/to
 Population: Producer, American Indian or Alaska Native Alone:dc/topic/Race
 Population: Producer, Asian Alone:dc/topic/NonEnglishLanguageAtHome
 Population: Producer, Black or African American Alone:dc/topic/NonEnglishLanguageAtHome
-Population: Producer, Hispanic or Latino:dc/topic/NonEnglishLanguageAtHome
+Population: Producer, Hispanic or Latino:dc/topic/Race
 Population: Producer, Native Hawaiian or Other Pacific Islander Alone:dc/topic/Race
 Population: Producer, Two or More Races:dc/topic/NonEnglishLanguageAtHome
 Population: Producer, White Alone:dc/topic/NonEnglishLanguageAtHome
@@ -573,7 +573,7 @@ Population: With Disability, American Indian or Alaska Native Alone:dc/topic/Rac
 Population: With Disability, Asian Alone:dc/topic/NonEnglishLanguageAtHome
 Population: With Disability, Black or African American Alone:dc/topic/NonEnglishLanguageAtHome
 Population: With Disability, Female:dc/topic/NonEnglishLanguageAtHome
-Population: With Disability, Hispanic or Latino:dc/topic/NonEnglishLanguageAtHome
+Population: With Disability, Hispanic or Latino:dc/topic/Race
 Population: With Disability, Male:dc/topic/NonEnglishLanguageAtHome
 Population: With Disability, Native Hawaiian or Other Pacific Islander Alone:dc/topic/Race
 Population: With Disability, One Race:dc/topic/NonEnglishLanguageAtHome
@@ -634,24 +634,24 @@ Mean Earnings: Male, With Earnings, Juvenile Facilities:dc/topic/MedianHousehold
 Mean Earnings: Male, With Earnings, Military Quarters or Military Ships:dc/topic/MedianHouseholdIncomeByGender
 Mean Earnings: Male, With Earnings, Noninstitutionalized Group Quarters:dc/topic/MedianHouseholdIncomeByGender
 Mean Earnings: Male, With Earnings, Nursing Facilities:dc/topic/MedianHouseholdIncomeByGender
-Mean Income of Household: With Income:dc/topic/MedianHouseholdIncomeByRace
+Mean Income of Household: With Income:dc/topic/Income
 Mean Income of Household: Family Household, With Income:dc/topic/MedianHouseholdIncomeByRace
 Mean Income of Household: Married Couple Family Household, With Income:dc/topic/MedianHouseholdIncomeByRace
 Mean Income of Household: Nonfamily Household, With Income:dc/topic/MedianHouseholdIncomeByRace
 Median Age:dc/topic/AgeMedians
-Median Age: American Indian or Alaska Native Alone:dc/topic/Race
+Median Age: American Indian or Alaska Native Alone:dc/topic/AgeMedians
 Median Age: Asian Alone:dc/topic/AgeMedians
 Median Age: Black or African American Alone:dc/topic/AgeMedians
 Median Age: Female:dc/topic/AgeMedians
-Median Age: Female, American Indian or Alaska Native Alone:dc/topic/Race
+Median Age: Female, American Indian or Alaska Native Alone:dc/topic/AgeMedians
 Median Age: Female, Asian Alone:dc/topic/AgeMedians
 Median Age: Female, Black or African American Alone:dc/topic/AgeMedians
-Median Age: Female, Divorced in The Past Year:dc/topic/DivorcedPopulationByDemographic
-Median Age: Female, Foreign Born:dc/topic/Immigration
+Median Age: Female, Divorced in The Past Year:dc/topic/AgeMedians
+Median Age: Female, Foreign Born:dc/topic/AgeMedians
 Median Age: Female, Hispanic or Latino:dc/topic/AgeMedians
-Median Age: Female, Married in The Past Year:dc/topic/NeverMarriedPopulationByDemographic
+Median Age: Female, Married in The Past Year:dc/topic/AgeMedians
 Median Age: Female, Native:dc/topic/AgeMedians
-Median Age: Female, Native Hawaiian or Other Pacific Islander Alone:dc/topic/Race
+Median Age: Female, Native Hawaiian or Other Pacific Islander Alone:dc/topic/AgeMedians
 Median Age: Female, Some Other Race Alone:dc/topic/AgeMedians
 Median Age: Female, Two or More Races:dc/topic/AgeMedians
 Median Age: Female, White Alone:dc/topic/AgeMedians
@@ -673,12 +673,12 @@ Median Age: Male, White Alone:dc/topic/AgeMedians
 Median Age: Male, White Alone Not Hispanic or Latino:dc/topic/AgeMedians
 Median Age: Native Hawaiian or Other Pacific Islander Alone:dc/topic/Race
 Median Age: Civilian, No Health Insurance, Non Institutionalized:dc/topic/AgeMedians
-Median Age: Not A US Citizen, Female, Foreign Born:dc/topic/Immigration
-Median Age: Not A US Citizen, Male, Foreign Born:dc/topic/Immigration
+Median Age: Not A US Citizen, Female, Foreign Born:dc/topic/AgeMedians
+Median Age: Not A US Citizen, Male, Foreign Born:dc/topic/AgeMedians
 Median Age: Some Other Race Alone:dc/topic/AgeMedians
 Median Age: Two or More Races:dc/topic/AgeMedians
-Median Age: US Citizen by Naturalization, Female, Foreign Born:dc/topic/Immigration
-Median Age: US Citizen by Naturalization, Male, Foreign Born:dc/topic/Immigration
+Median Age: US Citizen by Naturalization, Female, Foreign Born:dc/topic/AgeMedians
+Median Age: US Citizen by Naturalization, Male, Foreign Born:dc/topic/AgeMedians
 Median Age: White Alone:dc/topic/AgeMedians
 Median Age: White Alone Not Hispanic or Latino:dc/topic/AgeMedians
 Median Earnings: With Earnings:dc/topic/MedianHouseholdIncomeByGender
@@ -825,99 +825,99 @@ Farm With Ownership Status, Race = Hispanic or Latino:dc/topic/Agriculture
 Farm With Ownership Status, Race = Native Hawaiian or Other Pacific Islander Alone:dc/topic/Agriculture
 Farm With Ownership Status, Race = Two or More Races:dc/topic/Agriculture
 Farm With Ownership Status, Race = White Alone:dc/topic/Agriculture
-Person With Industry = Accommodation And Food Services (NAICS/72):dc/topic/Jobs
-Person With Industry = Administrative And Support And Waste Management Services (NAICS/56):dc/topic/Jobs
-Person With Industry = Agriculture, Forestry, Fishing And Hunting (NAICS/11):dc/topic/Jobs
-Person With Industry = Agriculture, Forestry, Fishing And Hunting, And Mining (NAICS/11_21):dc/topic/Jobs
-Person With Industry = Air Transportation (NAICS/481):dc/topic/Jobs
-Person With Industry = Apparel Manufacturing (NAICS/315):dc/topic/Jobs
-Person With Industry = Arts, Entertainment, And Recreation (NAICS/71):dc/topic/Jobs
-Person With Industry = Arts, Entertainment, And Recreation, And Accommodation And Food Services (NAICS/71-72):dc/topic/Jobs
-Person With Industry = Beverage And Tobacco Product Manufacturing (NAICS/312):dc/topic/Jobs
-Person With Industry = Chemical Manufacturing (NAICS/325):dc/topic/Jobs
-Person With Industry = Construction (NAICS/23):dc/topic/Jobs
-Person With Industry = Couriers And Messengers (NAICS/492):dc/topic/Jobs
-Person With Industry = Durable Goods Manufacturing (NAICS/JOLTS_320000):dc/topic/Jobs
-Person With Industry = Education And Health Services (NAICS/JOLTS_600000):dc/topic/Jobs
+Person With Industry = Accommodation And Food Services (NAICS/72):dc/topic/GDPByIndustry
+Person With Industry = Administrative And Support And Waste Management Services (NAICS/56):dc/topic/GDPByIndustry
+Person With Industry = Agriculture, Forestry, Fishing And Hunting (NAICS/11):dc/topic/GDPByIndustry
+Person With Industry = Agriculture, Forestry, Fishing And Hunting, And Mining (NAICS/11_21):dc/topic/GDPByIndustry
+Person With Industry = Air Transportation (NAICS/481):dc/topic/GDPByIndustry
+Person With Industry = Apparel Manufacturing (NAICS/315):dc/topic/GDPByIndustry
+Person With Industry = Arts, Entertainment, And Recreation (NAICS/71):dc/topic/GDPByIndustry
+Person With Industry = Arts, Entertainment, And Recreation, And Accommodation And Food Services (NAICS/71-72):dc/topic/GDPByIndustry
+Person With Industry = Beverage And Tobacco Product Manufacturing (NAICS/312):dc/topic/GDPByIndustry
+Person With Industry = Chemical Manufacturing (NAICS/325):dc/topic/GDPByIndustry
+Person With Industry = Construction (NAICS/23):dc/topic/GDPByIndustry
+Person With Industry = Couriers And Messengers (NAICS/492):dc/topic/GDPByIndustry
+Person With Industry = Durable Goods Manufacturing (NAICS/JOLTS_320000):dc/topic/GDPByIndustry
+Person With Industry = Education And Health Services (NAICS/JOLTS_600000):dc/topic/GDPByIndustry
 Person With Industry = Educational Services (NAICS/61):dc/topic/GDPByIndustry
 Person With Industry = Educational Services, And Health Care And Social Assistance (NAICS/61-62):dc/topic/GDPByIndustry
-Person With Industry = Federal (NAICS/JOLTS_910000):dc/topic/Jobs
+Person With Industry = Federal (NAICS/JOLTS_910000):dc/topic/GDPByIndustry
 Person With Industry = Finance And Insurance (NAICS/52):dc/topic/Jobs
 Person With Industry = Finance And Insurance, And Real Estate And Rental And Leasing (NAICS/52-53):dc/topic/Jobs
-Person With Industry = Financial Activities (NAICS/JOLTS_510099):dc/topic/Jobs
-Person With Industry = Food Manufacturing (NAICS/311):dc/topic/Jobs
-Person With Industry = General Merchandise Stores (NAICS/452):dc/topic/Jobs
-Person With Industry = Government (NAICS/JOLTS_900000):dc/topic/Jobs
+Person With Industry = Financial Activities (NAICS/JOLTS_510099):dc/topic/GDPByIndustry
+Person With Industry = Food Manufacturing (NAICS/311):dc/topic/GDPByIndustry
+Person With Industry = General Merchandise Stores (NAICS/452):dc/topic/GDPByIndustry
+Person With Industry = Government (NAICS/JOLTS_900000):dc/topic/GDPByIndustry
 Person With Industry = Health Care And Social Assistance (NAICS/62):dc/topic/GDPByIndustry
-Person With Industry = Information (NAICS/51):dc/topic/Jobs
-Person With Industry = Leather And Allied Product Manufacturing (NAICS/316):dc/topic/Jobs
-Person With Industry = Leisure And Hospitality (NAICS/JOLTS_700000):dc/topic/Jobs
+Person With Industry = Information (NAICS/51):dc/topic/GDPByIndustry
+Person With Industry = Leather And Allied Product Manufacturing (NAICS/316):dc/topic/GDPByIndustry
+Person With Industry = Leisure And Hospitality (NAICS/JOLTS_700000):dc/topic/GDPByIndustry
 Person With Industry = Management of Companies And Enterprises (NAICS/55):dc/topic/Jobs
 Person With Industry = Manufacturing (NAICS/33):dc/topic/Jobs
-Person With Industry = Manufacturing (NAICS/JOLTS_300000):dc/topic/Jobs
-Person With Industry = Mining And Logging (NAICS/JOLTS_110099):dc/topic/Jobs
-Person With Industry = Mining, Quarrying, And Oil And Gas Extraction (NAICS/21):dc/topic/Jobs
-Person With Industry = Miscellaneous Store Retailers (NAICS/453):dc/topic/Jobs
-Person With Industry = Nondurable Goods Manufacturing (NAICS/JOLTS_340000):dc/topic/Jobs
-Person With Industry = Nonmetallic Mineral Product Manufacturing (NAICS/327):dc/topic/Jobs
-Person With Industry = Nonstore Retailers (NAICS/454):dc/topic/Jobs
+Person With Industry = Manufacturing (NAICS/JOLTS_300000):dc/topic/GDPByIndustry
+Person With Industry = Mining And Logging (NAICS/JOLTS_110099):dc/topic/GDPByIndustry
+Person With Industry = Mining, Quarrying, And Oil And Gas Extraction (NAICS/21):dc/topic/GDPByIndustry
+Person With Industry = Miscellaneous Store Retailers (NAICS/453):dc/topic/GDPByIndustry
+Person With Industry = Nondurable Goods Manufacturing (NAICS/JOLTS_340000):dc/topic/GDPByIndustry
+Person With Industry = Nonmetallic Mineral Product Manufacturing (NAICS/327):dc/topic/GDPByIndustry
+Person With Industry = Nonstore Retailers (NAICS/454):dc/topic/GDPByIndustry
 Person With Industry = Other Services, Except Public Administration (NAICS/81):dc/topic/Jobs
-Person With Industry = Paper Manufacturing (NAICS/322):dc/topic/Jobs
-Person With Industry = Petroleum And Coal Products Manufacturing (NAICS/324):dc/topic/Jobs
-Person With Industry = Pipeline Transportation (NAICS/486):dc/topic/Jobs
-Person With Industry = Plastics And Rubber Products Manufacturing (NAICS/326):dc/topic/Jobs
-Person With Industry = Postal Service (NAICS/491):dc/topic/Jobs
-Person With Industry = Printing And Related Support Activities (NAICS/323):dc/topic/Jobs
-Person With Industry = Professional And Business Services (NAICS/JOLTS_540099):dc/topic/Jobs
+Person With Industry = Paper Manufacturing (NAICS/322):dc/topic/GDPByIndustry
+Person With Industry = Petroleum And Coal Products Manufacturing (NAICS/324):dc/topic/GDPByIndustry
+Person With Industry = Pipeline Transportation (NAICS/486):dc/topic/GDPByIndustry
+Person With Industry = Plastics And Rubber Products Manufacturing (NAICS/326):dc/topic/GDPByIndustry
+Person With Industry = Postal Service (NAICS/491):dc/topic/GDPByIndustry
+Person With Industry = Printing And Related Support Activities (NAICS/323):dc/topic/GDPByIndustry
+Person With Industry = Professional And Business Services (NAICS/JOLTS_540099):dc/topic/GDPByIndustry
 Person With Industry = Professional, Scientific, And Management, And Administrative And Waste Management Services (NAICS/54-56):dc/topic/Jobs
 Person With Industry = Professional, Scientific, And Technical Services (NAICS/54):dc/topic/Jobs
 Person With Industry = Public Administration (NAICS/92):dc/topic/Jobs
-Person With Industry = Rail Transportation (NAICS/482):dc/topic/Jobs
+Person With Industry = Rail Transportation (NAICS/482):dc/topic/GDPByIndustry
 Person With Industry = Real Estate And Rental And Leasing (NAICS/53):dc/topic/Jobs
-Person With Industry = Retail Trade (NAICS/44):dc/topic/Jobs
-Person With Industry = Scenic And Sightseeing Transportation (NAICS/487):dc/topic/Jobs
-Person With Industry = Sports, Hobby, Music Instrument, Book Stores (NAICS/451):dc/topic/Jobs
-Person With Industry = State And Local Government Education (NAICS/JOLTS_923000):dc/topic/Jobs
-Person With Industry = State And Local Government Excluding Education (NAICS/JOLTS_929000):dc/topic/Jobs
-Person With Industry = Support Activities for Transportation (NAICS/488):dc/topic/Jobs
+Person With Industry = Retail Trade (NAICS/44):dc/topic/GDPByIndustry
+Person With Industry = Scenic And Sightseeing Transportation (NAICS/487):dc/topic/GDPByIndustry
+Person With Industry = Sports, Hobby, Music Instrument, Book Stores (NAICS/451):dc/topic/GDPByIndustry
+Person With Industry = State And Local Government Education (NAICS/JOLTS_923000):dc/topic/GDPByIndustry
+Person With Industry = State And Local Government Excluding Education (NAICS/JOLTS_929000):dc/topic/GDPByIndustry
+Person With Industry = Support Activities for Transportation (NAICS/488):dc/topic/GDPByIndustry
 Person With Industry = Manufacturing (NAICS/31-33):dc/topic/Jobs
-Person With Industry = Textile Mills (NAICS/313):dc/topic/Jobs
-Person With Industry = Textile Product Mills (NAICS/314):dc/topic/Jobs
-Person With Industry = Total Nonfarm (NAICS/JOLTS_000000):dc/topic/Jobs
-Person With Industry = Total, All Industries (NAICS/10):dc/topic/Jobs
+Person With Industry = Textile Mills (NAICS/313):dc/topic/GDPByIndustry
+Person With Industry = Textile Product Mills (NAICS/314):dc/topic/GDPByIndustry
+Person With Industry = Total Nonfarm (NAICS/JOLTS_000000):dc/topic/GDPByIndustry
+Person With Industry = Total, All Industries (NAICS/10):dc/topic/NumberOfBusinessesByOwnership
 Person With Industry = Trade, Transportation, And Utilities (NAICS/JOLTS_400000):dc/topic/Jobs
-Person With Industry = Transit And Ground Passenger Transportation (NAICS/485):dc/topic/Jobs
-Person With Industry = Transportation And Warehousing (NAICS/48-49):dc/topic/Jobs
-Person With Industry = Transportation And Warehousing, And Utilities (NAICS/48-49_22):dc/topic/Jobs
-Person With Industry = Transportation Warehousing, And Utilities (NAICS/JOLTS_480099):dc/topic/Jobs
-Person With Industry = Truck Transportation (NAICS/484):dc/topic/Jobs
+Person With Industry = Transit And Ground Passenger Transportation (NAICS/485):dc/topic/GDPByIndustry
+Person With Industry = Transportation And Warehousing (NAICS/48-49):dc/topic/GDPByIndustry
+Person With Industry = Transportation And Warehousing, And Utilities (NAICS/48-49_22):dc/topic/GDPByIndustry
+Person With Industry = Transportation Warehousing, And Utilities (NAICS/JOLTS_480099):dc/topic/GDPByIndustry
+Person With Industry = Truck Transportation (NAICS/484):dc/topic/GDPByIndustry
 Person With Industry = Unclassified (NAICS/99):dc/topic/Jobs
 Person With Industry = Utilities (NAICS/22):dc/topic/Jobs
-Person With Industry = Warehousing And Storage (NAICS/493):dc/topic/Jobs
-Person With Industry = Water Transportation (NAICS/483):dc/topic/Jobs
+Person With Industry = Warehousing And Storage (NAICS/493):dc/topic/GDPByIndustry
+Person With Industry = Water Transportation (NAICS/483):dc/topic/GDPByIndustry
 Person With Industry = Wholesale Trade (NAICS/42):dc/topic/Jobs
-Person With Industry = Wood Product Manufacturing (NAICS/321):dc/topic/Jobs
+Person With Industry = Wood Product Manufacturing (NAICS/321):dc/topic/GDPByIndustry
 Median Income (Real Individual Earnings Before Deductions): Accommodation And Food Services (NAICS/72):dc/topic/IndividualIncomeByIndustry
-Population of Person: Accommodation And Food Services (NAICS/72):dc/topic/Jobs
-Wages Total of Person: Accommodation And Food Services (NAICS/72):dc/topic/Jobs
+Population of Person: Accommodation And Food Services (NAICS/72):dc/topic/NonEnglishLanguageAtHome
+Wages Total of Person: Accommodation And Food Services (NAICS/72):dc/topic/IndustriesByRevenue
 Median Income (Real Individual Earnings Before Deductions): Administrative And Support And Waste Management Services (NAICS/56):dc/topic/IndividualIncomeByIndustry
 Population of Person: Administrative And Support And Waste Management Services (NAICS/56):dc/topic/Jobs
 Wages Total of Person: Administrative And Support And Waste Management Services (NAICS/56):dc/topic/Jobs
 Median Income (Real Individual Earnings Before Deductions): Agriculture, Forestry, Fishing And Hunting (NAICS/11):dc/topic/IndividualIncomeByIndustry
-Population of Person: Agriculture, Forestry, Fishing And Hunting (NAICS/11):dc/topic/Jobs
+Population of Person: Agriculture, Forestry, Fishing And Hunting (NAICS/11):dc/topic/NonEnglishLanguageAtHome
 Wages Total of Person: Agriculture, Forestry, Fishing And Hunting (NAICS/11):dc/topic/Jobs
 Wages Total of Person: Cattle Ranching And Farming (NAICS/1121):dc/topic/Agriculture
 Population of Person: Air Transportation (NAICS/481):dc/topic/NonEnglishLanguageAtHome
-Wages Total of Person: Air Transportation (NAICS/481):dc/topic/Jobs
+Wages Total of Person: Air Transportation (NAICS/481):dc/topic/Agriculture
 Population of Person: Apparel Manufacturing (NAICS/315):dc/topic/NonEnglishLanguageAtHome
-Wages Total of Person: Apparel Manufacturing (NAICS/315):dc/topic/Jobs
+Wages Total of Person: Apparel Manufacturing (NAICS/315):dc/topic/Agriculture
 Median Income (Real Individual Earnings Before Deductions): Arts, Entertainment, And Recreation (NAICS/71):dc/topic/IndividualIncomeByIndustry
-Population of Person: Arts, Entertainment, And Recreation (NAICS/71):dc/topic/Jobs
-Wages Total of Person: Arts, Entertainment, And Recreation (NAICS/71):dc/topic/Jobs
+Population of Person: Arts, Entertainment, And Recreation (NAICS/71):dc/topic/NonEnglishLanguageAtHome
+Wages Total of Person: Arts, Entertainment, And Recreation (NAICS/71):dc/topic/Agriculture
 Population of Person: Beverage And Tobacco Product Manufacturing (NAICS/312):dc/topic/NonEnglishLanguageAtHome
-Wages Total of Person: Beverage And Tobacco Product Manufacturing (NAICS/312):dc/topic/Jobs
+Wages Total of Person: Beverage And Tobacco Product Manufacturing (NAICS/312):dc/topic/Agriculture
 Population of Person: Chemical Manufacturing (NAICS/325):dc/topic/NonEnglishLanguageAtHome
-Wages Total of Person: Chemical Manufacturing (NAICS/325):dc/topic/Jobs
+Wages Total of Person: Chemical Manufacturing (NAICS/325):dc/topic/Agriculture
 Median Income (Real Individual Earnings Before Deductions): Construction (NAICS/23):dc/topic/IndividualIncomeByIndustry
 Population of Person: Construction (NAICS/23):dc/topic/NonEnglishLanguageAtHome
 Wages Total of Person: Construction (NAICS/23):dc/topic/Agriculture
@@ -925,45 +925,45 @@ Population of Person: Couriers And Messengers (NAICS/492):dc/topic/NonEnglishLan
 Wages Total of Person: Couriers And Messengers (NAICS/492):dc/topic/Agriculture
 Median Income (Real Individual Earnings Before Deductions): Educational Services (NAICS/61):dc/topic/IndividualIncomeByIndustry
 Population of Person: Educational Services (NAICS/61):dc/topic/NonEnglishLanguageAtHome
-Wages Total of Person: Educational Services (NAICS/61):dc/topic/Jobs
+Wages Total of Person: Educational Services (NAICS/61):dc/topic/Agriculture
 Median Income (Real Individual Earnings Before Deductions): Finance And Insurance (NAICS/52):dc/topic/IndividualIncomeByIndustry
-Population of Person: Finance And Insurance (NAICS/52):dc/topic/Jobs
-Wages Total of Person: Finance And Insurance (NAICS/52):dc/topic/Jobs
-Population of Person: Food Manufacturing (NAICS/311):dc/topic/Jobs
-Wages Total of Person: Food Manufacturing (NAICS/311):dc/topic/Jobs
+Population of Person: Finance And Insurance (NAICS/52):dc/topic/NonEnglishLanguageAtHome
+Wages Total of Person: Finance And Insurance (NAICS/52):dc/topic/Agriculture
+Population of Person: Food Manufacturing (NAICS/311):dc/topic/NonEnglishLanguageAtHome
+Wages Total of Person: Food Manufacturing (NAICS/311):dc/topic/Agriculture
 Population of Person: General Merchandise Stores (NAICS/452):dc/topic/NonEnglishLanguageAtHome
-Wages Total of Person: General Merchandise Stores (NAICS/452):dc/topic/IndustriesByRevenue
+Wages Total of Person: General Merchandise Stores (NAICS/452):dc/topic/Agriculture
 Median Income (Real Individual Earnings Before Deductions): Health Care And Social Assistance (NAICS/62):dc/topic/IndividualIncomeByIndustry
 Population of Person: Health Care And Social Assistance (NAICS/62):dc/topic/NonEnglishLanguageAtHome
-Wages Total of Person: Health Care And Social Assistance (NAICS/62):dc/topic/NumberOfBusinessesByIndustry
+Wages Total of Person: Health Care And Social Assistance (NAICS/62):dc/topic/Agriculture
 Median Income (Real Individual Earnings Before Deductions): Information (NAICS/51):dc/topic/IndividualIncomeByIndustry
 Population of Person: Information (NAICS/51):dc/topic/NonEnglishLanguageAtHome
 Wages Total of Person: Information (NAICS/51):dc/topic/Agriculture
 Population of Person: Leather And Allied Product Manufacturing (NAICS/316):dc/topic/NonEnglishLanguageAtHome
-Wages Total of Person: Leather And Allied Product Manufacturing (NAICS/316):dc/topic/Jobs
+Wages Total of Person: Leather And Allied Product Manufacturing (NAICS/316):dc/topic/Agriculture
 Median Income (Real Individual Earnings Before Deductions): Management of Companies And Enterprises (NAICS/55):dc/topic/IndividualIncomeByIndustry
-Population of Person: Management of Companies And Enterprises (NAICS/55):dc/topic/Jobs
-Wages Total of Person: Management of Companies And Enterprises (NAICS/55):dc/topic/Jobs
+Population of Person: Management of Companies And Enterprises (NAICS/55):dc/topic/NonEnglishLanguageAtHome
+Wages Total of Person: Management of Companies And Enterprises (NAICS/55):dc/topic/Agriculture
 Median Income (Real Individual Earnings Before Deductions): Mining, Quarrying, And Oil And Gas Extraction (NAICS/21):dc/topic/IndividualIncomeByIndustry
-Population of Person: Mining, Quarrying, And Oil And Gas Extraction (NAICS/21):dc/topic/Jobs
+Population of Person: Mining, Quarrying, And Oil And Gas Extraction (NAICS/21):dc/topic/NonEnglishLanguageAtHome
 Wages Total of Person: Mining, Quarrying, And Oil And Gas Extraction (NAICS/21):dc/topic/Jobs
 Population of Person: Miscellaneous Store Retailers (NAICS/453):dc/topic/NonEnglishLanguageAtHome
-Wages Total of Person: Miscellaneous Store Retailers (NAICS/453):dc/topic/IndustriesByRevenue
+Wages Total of Person: Miscellaneous Store Retailers (NAICS/453):dc/topic/Agriculture
 Population of Person: Nonmetallic Mineral Product Manufacturing (NAICS/327):dc/topic/NonEnglishLanguageAtHome
 Wages Total of Person: Nonmetallic Mineral Product Manufacturing (NAICS/327):dc/topic/IndustriesByRevenue
 Population of Person: Nonstore Retailers (NAICS/454):dc/topic/NonEnglishLanguageAtHome
-Wages Total of Person: Nonstore Retailers (NAICS/454):dc/topic/IndustriesByRevenue
+Wages Total of Person: Nonstore Retailers (NAICS/454):dc/topic/Agriculture
 Median Income (Real Individual Earnings Before Deductions): Other Services, Except Public Administration (NAICS/81):dc/topic/IndividualIncomeByIndustry
 Population of Person: Other Services, Except Public Administration (NAICS/81):dc/topic/Jobs
 Wages Total of Person: Other Services, Except Public Administration (NAICS/81):dc/topic/Jobs
 Population of Person: Paper Manufacturing (NAICS/322):dc/topic/NonEnglishLanguageAtHome
-Wages Total of Person: Paper Manufacturing (NAICS/322):dc/topic/Jobs
+Wages Total of Person: Paper Manufacturing (NAICS/322):dc/topic/Agriculture
 Population of Person: Petroleum And Coal Products Manufacturing (NAICS/324):dc/topic/NonEnglishLanguageAtHome
-Wages Total of Person: Petroleum And Coal Products Manufacturing (NAICS/324):dc/topic/Jobs
+Wages Total of Person: Petroleum And Coal Products Manufacturing (NAICS/324):dc/topic/IndustriesByRevenue
 Population of Person: Pipeline Transportation (NAICS/486):dc/topic/NonEnglishLanguageAtHome
 Wages Total of Person: Pipeline Transportation (NAICS/486):dc/topic/Agriculture
 Population of Person: Plastics And Rubber Products Manufacturing (NAICS/326):dc/topic/NonEnglishLanguageAtHome
-Wages Total of Person: Plastics And Rubber Products Manufacturing (NAICS/326):dc/topic/Jobs
+Wages Total of Person: Plastics And Rubber Products Manufacturing (NAICS/326):dc/topic/IndustriesByRevenue
 Population of Person: Postal Service (NAICS/491):dc/topic/NonEnglishLanguageAtHome
 Wages Total of Person: Postal Service (NAICS/491):dc/topic/Agriculture
 Population of Person: Printing And Related Support Activities (NAICS/323):dc/topic/NonEnglishLanguageAtHome
@@ -972,7 +972,7 @@ Median Income (Real Individual Earnings Before Deductions): Professional, Scient
 Population of Person: Professional, Scientific, And Technical Services (NAICS/54):dc/topic/Jobs
 Wages Total of Person: Professional, Scientific, And Technical Services (NAICS/54):dc/topic/Jobs
 Median Income (Real Individual Earnings Before Deductions): Public Administration (NAICS/92):dc/topic/IndividualIncomeByIndustry
-Population of Person: Public Administration (NAICS/92):dc/topic/Jobs
+Population of Person: Public Administration (NAICS/92):dc/topic/NonEnglishLanguageAtHome
 Wages Total of Person: Public Administration (NAICS/92):dc/topic/Jobs
 Population of Person: Rail Transportation (NAICS/482):dc/topic/NonEnglishLanguageAtHome
 Wages Total of Person: Rail Transportation (NAICS/482):dc/topic/Agriculture
@@ -980,14 +980,14 @@ Median Income (Real Individual Earnings Before Deductions): Real Estate And Rent
 Population of Person: Real Estate And Rental And Leasing (NAICS/53):dc/topic/Jobs
 Wages Total of Person: Real Estate And Rental And Leasing (NAICS/53):dc/topic/Jobs
 Median Income (Real Individual Earnings Before Deductions): Retail Trade (NAICS/44-45):dc/topic/IndividualIncomeByIndustry
-Population of Person: Retail Trade (NAICS/44-45):dc/topic/Jobs
-Wages Total of Person: Retail Trade (NAICS/44-45):dc/topic/Jobs
+Population of Person: Retail Trade (NAICS/44-45):dc/topic/NonEnglishLanguageAtHome
+Wages Total of Person: Retail Trade (NAICS/44-45):dc/topic/IndustriesByRevenue
 Population of Person: Scenic And Sightseeing Transportation (NAICS/487):dc/topic/NonEnglishLanguageAtHome
 Wages Total of Person: Scenic And Sightseeing Transportation (NAICS/487):dc/topic/Agriculture
 Population of Person: Sports, Hobby, Music Instrument, Book Stores (NAICS/451):dc/topic/NonEnglishLanguageAtHome
 Wages Total of Person: Sports, Hobby, Music Instrument, Book Stores (NAICS/451):dc/topic/IndustriesByRevenue
 Population of Person: Support Activities for Transportation (NAICS/488):dc/topic/NonEnglishLanguageAtHome
-Wages Total of Person: Support Activities for Transportation (NAICS/488):dc/topic/Jobs
+Wages Total of Person: Support Activities for Transportation (NAICS/488):dc/topic/Agriculture
 Median Income (Real Individual Earnings Before Deductions): Manufacturing (NAICS/31-33):dc/topic/IndividualIncomeByIndustry
 Population of Person: Manufacturing (NAICS/31-33):dc/topic/Jobs
 Population of Person: Textile And Fabric Finishing Mills (NAICS/3133):dc/topic/NonEnglishLanguageAtHome
@@ -1002,12 +1002,12 @@ Wages Total of Person: Total, All Industries (NAICS/10):dc/topic/NumberOfBusines
 Population of Person: Transit And Ground Passenger Transportation (NAICS/485):dc/topic/NonEnglishLanguageAtHome
 Wages Total of Person: Transit And Ground Passenger Transportation (NAICS/485):dc/topic/Agriculture
 Median Income (Real Individual Earnings Before Deductions): Transportation And Warehousing (NAICS/48-49):dc/topic/IndividualIncomeByIndustry
-Population of Person: Transportation And Warehousing (NAICS/48-49):dc/topic/Jobs
-Wages Total of Person: Transportation And Warehousing (NAICS/48-49):dc/topic/Jobs
+Population of Person: Transportation And Warehousing (NAICS/48-49):dc/topic/NonEnglishLanguageAtHome
+Wages Total of Person: Transportation And Warehousing (NAICS/48-49):dc/topic/Agriculture
 Population of Person: Truck Transportation (NAICS/484):dc/topic/NonEnglishLanguageAtHome
 Wages Total of Person: Truck Transportation (NAICS/484):dc/topic/Agriculture
-Population of Person: Unclassified (NAICS/99):dc/topic/Jobs
-Wages Total of Person: Unclassified (NAICS/99):dc/topic/Jobs
+Population of Person: Unclassified (NAICS/99):dc/topic/NonEnglishLanguageAtHome
+Wages Total of Person: Unclassified (NAICS/99):dc/topic/Agriculture
 Median Income (Real Individual Earnings Before Deductions): Utilities (NAICS/22):dc/topic/IndividualIncomeByIndustry
 Population of Person: Utilities (NAICS/22):dc/topic/NonEnglishLanguageAtHome
 Wages Total of Person: Utilities (NAICS/22):dc/topic/Agriculture
@@ -1016,10 +1016,10 @@ Wages Total of Person: Warehousing And Storage (NAICS/493):dc/topic/Agriculture
 Population of Person: Water Transportation (NAICS/483):dc/topic/NonEnglishLanguageAtHome
 Wages Total of Person: Water Transportation (NAICS/483):dc/topic/Agriculture
 Median Income (Real Individual Earnings Before Deductions): Wholesale Trade (NAICS/42):dc/topic/IndividualIncomeByIndustry
-Population of Person: Wholesale Trade (NAICS/42):dc/topic/Jobs
+Population of Person: Wholesale Trade (NAICS/42):dc/topic/NonEnglishLanguageAtHome
 Wages Total of Person: Wholesale Trade (NAICS/42):dc/topic/Jobs
 Population of Person: Wood Product Manufacturing (NAICS/321):dc/topic/NonEnglishLanguageAtHome
-Wages Total of Person: Wood Product Manufacturing (NAICS/321):dc/topic/Jobs
+Wages Total of Person: Wood Product Manufacturing (NAICS/321):dc/topic/IndustriesByRevenue
 Person With Medical Condition = All Teeth Loss:dc/topic/Agriculture
 Person With Medical Condition = Arthritis:dc/topic/Agriculture
 Person With Medical Condition = Asthma:dc/topic/Agriculture
@@ -1044,7 +1044,7 @@ Prevalence: Chronic Kidney Disease:dc/topic/Agriculture
 Prevalence: Chronic Obstructive Pulmonary Disease:dc/topic/HeartDisease
 Prevalence: Coronary Heart Disease:dc/topic/HeartDisease
 Prevalence: Diabetes:dc/topic/Agriculture
-Prevalence: High Blood Pressure:dc/topic/Agriculture
+Prevalence: High Blood Pressure:dc/topic/BloodPressure
 Prevalence: High Cholesterol:dc/topic/PreventativeHealth
 Prevalence: Mental Health Not Good:dc/topic/Agriculture
 Prevalence: Physical Health Not Good:dc/topic/Agriculture
@@ -1065,7 +1065,7 @@ Median Income:dc/topic/MedianHouseholdIncomeByRace
 Population: Divorced:dc/topic/NonEnglishLanguageAtHome
 Population: Car Truck or Van Carpooled:dc/topic/CommuteModeByOccupation
 Population: Car Truck or Van Drove Alone:dc/topic/CommuteModeByOccupation
-Population: Public Transportation Excluding Taxicab:dc/topic/NonEnglishLanguageAtHome
+Population: Public Transportation Excluding Taxicab:dc/topic/CommuteModeByOccupation
 Population: Walked:dc/topic/NonEnglishLanguageAtHome
 Population: Worked At Home:dc/topic/NonEnglishLanguageAtHome
 Mobile Subscriptions Per Capita:dc/topic/Agriculture
@@ -1074,8 +1074,8 @@ Count of Mortality Event (Per Capita):dc/topic/CausesOfDeath
 Population: Enrolled in School:dc/topic/StudentEnrollmentLevels
 Population: Not Enrolled in School:dc/topic/StudentEnrollmentLevels
 Air Quality Index:dc/topic/AirQualityIndex
-Temperature:dc/topic/Temperatures
-Count of Medical Condition Incident: COVID-19, Patient in ICU:dc/topic/HeatIllnesses
+Temperature:dc/topic/Agriculture
+Count of Medical Condition Incident: COVID-19, Patient in ICU:dc/topic/Agriculture
 Cumulative Count of Vaccine: COVID-19, Vaccine Administered:dc/topic/Agriculture
 Incremental Count of Vaccine: COVID-19, Vaccine Administered:dc/topic/Agriculture
 Prevalence: Sleep Less Than 7 Hours:dc/topic/Agriculture
@@ -1090,53 +1090,53 @@ Count of Housing Unit: 500,000 - 749,999 USD:dc/topic/RentalHouses
 Count of Housing Unit: 1,000,000 USD or More:dc/topic/RentalHouses
 Count of Housing Unit: 2,000 USD or More:dc/topic/RentalHouses
 Count of Housing Unit: Vacant Housing Unit:dc/topic/RentalHouses
-Count of Household: Married Couple Family Household:dc/topic/NeverMarriedPopulationByDemographic
+Count of Household: Married Couple Family Household:dc/topic/Agriculture
 Count_Household_NonfamilyHousehold:dc/topic/Agriculture
-Gini Index of Economic Activity:dc/topic/Agriculture
+Gini Index of Economic Activity:dc/topic/EconomicEquity
 Population: 15 Years or More, No Income:dc/topic/NonEnglishLanguageAtHome
 Amount of Economic Activity: Expenditure Activity, Healthcare Expenditure (Per Capita):dc/topic/HealthcareExpenditure
 Count of Criminal Activities:dc/topic/Agriculture
 Count of Hate Crime Incidents:dc/topic/Agriculture
 Withdrawal Rate of Water:dc/topic/Agriculture
-Count of Coastal Flood Event:dc/topic/Snowfall
-Count of Drought Event:dc/topic/Snowfall
+Count of Coastal Flood Event:dc/topic/Flood
+Count of Drought Event:dc/topic/Drought
 Count of Heat Event:dc/topic/HeatWave
 Count of Heavy Rain Event:dc/topic/Snowfall
 Count of Heavy Snow Event:dc/topic/Snowfall
 Count of Wildfire Event:dc/topic/Fire
 Count of Earthquake Event:dc/topic/Earthquake
-Count of Flood Event:dc/topic/Snowfall
+Count of Flood Event:dc/topic/Flood
 Annual Expected Loss from Natural Hazard Impact:dc/topic/Drought
 Consecutive Dry Days:dc/topic/Drought
 Count of Household: Internet Without Subscription:dc/topic/Agriculture
 Count of Solar Installation:dc/topic/Agriculture
-Annual Generation of Energy: Coal:dc/topic/Energy_Generation_FossilFuels
+Annual Generation of Energy: Coal:dc/topic/Energy_Generation_NonFossilFuel
 customer accounts, all sectors, annual:dc/topic/Agriculture
 customer accounts, all sectors, monthly:dc/topic/Agriculture
 Annual Consumption of Electricity:dc/topic/Electricity_Consumption
-Net generation, all fuels, all sectors, annual:dc/topic/Energy_Generation_FossilFuels
-Annual Generation of Fuel: Nuclear:dc/topic/Energy_Generation_FossilFuels
+Net generation, all fuels, all sectors, annual:dc/topic/Energy_Generation_NonFossilFuel
+Annual Generation of Fuel: Nuclear:dc/topic/Energy_Generation_NonFossilFuel
 Annual Generation of Fuel: Crude Oil:dc/topic/Energy_Generation_FossilFuels
 Annual Generation of Fuel: Diesel Oil:dc/topic/Energy_Generation_FossilFuels
-Amount of Economic Activity (Real Value): Gross Domestic Production, Accommodation And Food Services (NAICS/72):dc/topic/GDP
-Amount of Economic Activity (Real Value): Gross Domestic Production, Administrative And Support And Waste Management Services (NAICS/56):dc/topic/GDP
-Amount of Economic Activity (Real Value): Gross Domestic Production, Agriculture, Forestry, Fishing And Hunting (NAICS/11):dc/topic/GDP
-Amount of Economic Activity (Real Value): Gross Domestic Production, Arts, Entertainment, And Recreation (NAICS/71):dc/topic/GDP
-Amount of Economic Activity (Real Value): Gross Domestic Production, Construction (NAICS/23):dc/topic/GDP
-Amount of Economic Activity (Real Value): Gross Domestic Production, Educational Services (NAICS/61):dc/topic/GDP
-Amount of Economic Activity (Real Value): Gross Domestic Production, Finance And Insurance (NAICS/52):dc/topic/GDP
-Amount of Economic Activity (Real Value): Gross Domestic Production, Health Care And Social Assistance (NAICS/62):dc/topic/GDP
-Amount of Economic Activity (Real Value): Gross Domestic Production, Information (NAICS/51):dc/topic/GDP
-Amount of Economic Activity (Real Value): Gross Domestic Production, Management of Companies And Enterprises (NAICS/55):dc/topic/GDP
-Amount of Economic Activity (Real Value): Gross Domestic Production, Mining, Quarrying, And Oil And Gas Extraction (NAICS/21):dc/topic/GDP
-Amount of Economic Activity (Real Value): Gross Domestic Production, Other Services, Except Public Administration (NAICS/81):dc/topic/GDP
-Amount of Economic Activity (Real Value): Gross Domestic Production, Professional, Scientific, And Technical Services (NAICS/54):dc/topic/GDP
-Amount of Economic Activity (Real Value): Gross Domestic Production, Real Estate And Rental And Leasing (NAICS/53):dc/topic/GDP
-Amount of Economic Activity (Real Value): Gross Domestic Production, Utilities (NAICS/22):dc/topic/GDP
-Amount of Economic Activity (Real Value): Gross Domestic Production, Wholesale Trade (NAICS/42):dc/topic/GDP
+Amount of Economic Activity (Real Value): Gross Domestic Production, Accommodation And Food Services (NAICS/72):dc/topic/GDPByIndustry
+Amount of Economic Activity (Real Value): Gross Domestic Production, Administrative And Support And Waste Management Services (NAICS/56):dc/topic/GDPByIndustry
+Amount of Economic Activity (Real Value): Gross Domestic Production, Agriculture, Forestry, Fishing And Hunting (NAICS/11):dc/topic/GDPByIndustry
+Amount of Economic Activity (Real Value): Gross Domestic Production, Arts, Entertainment, And Recreation (NAICS/71):dc/topic/GDPByIndustry
+Amount of Economic Activity (Real Value): Gross Domestic Production, Construction (NAICS/23):dc/topic/GDPByIndustry
+Amount of Economic Activity (Real Value): Gross Domestic Production, Educational Services (NAICS/61):dc/topic/GDPByIndustry
+Amount of Economic Activity (Real Value): Gross Domestic Production, Finance And Insurance (NAICS/52):dc/topic/GDPByIndustry
+Amount of Economic Activity (Real Value): Gross Domestic Production, Health Care And Social Assistance (NAICS/62):dc/topic/GDPByIndustry
+Amount of Economic Activity (Real Value): Gross Domestic Production, Information (NAICS/51):dc/topic/GDPByIndustry
+Amount of Economic Activity (Real Value): Gross Domestic Production, Management of Companies And Enterprises (NAICS/55):dc/topic/GDPByIndustry
+Amount of Economic Activity (Real Value): Gross Domestic Production, Mining, Quarrying, And Oil And Gas Extraction (NAICS/21):dc/topic/GDPByIndustry
+Amount of Economic Activity (Real Value): Gross Domestic Production, Other Services, Except Public Administration (NAICS/81):dc/topic/GDPByIndustry
+Amount of Economic Activity (Real Value): Gross Domestic Production, Professional, Scientific, And Technical Services (NAICS/54):dc/topic/GDPByIndustry
+Amount of Economic Activity (Real Value): Gross Domestic Production, Real Estate And Rental And Leasing (NAICS/53):dc/topic/GDPByIndustry
+Amount of Economic Activity (Real Value): Gross Domestic Production, Utilities (NAICS/22):dc/topic/GDPByIndustry
+Amount of Economic Activity (Real Value): Gross Domestic Production, Wholesale Trade (NAICS/42):dc/topic/GDPByIndustry
 Population of Person: Cattle Ranching And Farming:dc/topic/NonEnglishLanguageAtHome
-Max Temperature:dc/topic/Temperatures
-Max Temperature (Difference Relative To Base Date): Relative To 2006, Based on RCP 4.5:dc/topic/Temperatures
+Max Temperature:dc/topic/Agriculture
+Max Temperature (Difference Relative To Base Date): Relative To 2006, Based on RCP 4.5:dc/topic/Agriculture
 About: Mean Cohort Scale Achievement of Student:dc/topic/Agriculture
 Count of BLS Establishment: Gambling Industries:dc/topic/NumberOfBusinessesByIndustry
 Population of Person: Gambling Industries:dc/topic/NonEnglishLanguageAtHome
@@ -1155,14 +1155,14 @@ Percent of Total Government Expenditure Spent on Education:dc/topic/EducationExp
 Percent of Nominal Gross Domestic Production (GDP) Spent on Education:dc/topic/EducationExpenditure
 Government Expenditure on Military Activities:dc/topic/Agriculture
 Percent of Total Government Expenditure Spent on Military Activities:dc/topic/EducationExpenditure
-Nominal Gross Domestic Production (GDP) Per Capita:dc/topic/GDP
+Nominal Gross Domestic Production (GDP) Per Capita:dc/topic/GDPByIndustry
 Gross National Income Based on Purchasing Power Parity:dc/topic/Agriculture
 Gross National Income Based on Purchasing Power Parity Per Capita:dc/topic/Agriculture
 Total Amount of Inward Remittances:dc/topic/Remittance
 Inward Remittances as a Percentage of Nominal Gross Domestic Production:dc/topic/Remittance
 Total Amount of Outward Remittances:dc/topic/Remittance
 Total Stock Value:dc/topic/Agriculture
-Stock Value as a Percentage of Nominal Gross Domestic Production (GDP):dc/topic/GDP
+Stock Value as a Percentage of Nominal Gross Domestic Production (GDP):dc/topic/GDPByIndustry
 Number of Cyclones:dc/topic/Agriculture
 Infant Mortality Rate:dc/topic/InfantMortality
 Female Infant Mortality Rate:dc/topic/InfantMortality
@@ -1233,7 +1233,7 @@ Number of People Aged 20 to 24 Years:dc/topic/AgeDistribution
 Number of People Aged 25 Years or Older:dc/topic/AgeDistribution
 Number of People Aged 25 to 29 Years:dc/topic/AgeDistribution
 Number of People Aged 25 to 34 Years:dc/topic/AgeDistribution
-Number of 25 to 34 Year Old Women With an Associates Degree:dc/topic/Agriculture
+Number of 25 to 34 Year Old Women With an Associates Degree:dc/topic/LevelOfEducationalAttainment
 Number of 25 to 34 Year Old Women With a Bachelor's Degree:dc/topic/LevelOfEducationalAttainment
 Number of 25 to 34 Year Old Women With a Graduate or Professional Degree:dc/topic/LevelOfEducationalAttainment
 Number 25 to 34 Year Old Men With a Graduate or Professional Degree:dc/topic/LevelOfEducationalAttainment
@@ -1262,23 +1262,23 @@ Population Aged 80 and Up:dc/topic/AgeDistribution
 Population Aged Below 4:dc/topic/AgeDistribution
 Number of People With a Bachelor's Degree:dc/topic/LevelOfEducationalAttainment
 Number of People With a Doctorate Degree:dc/topic/LevelOfEducationalAttainment
-Number of People With a Master's Degree:dc/topic/Agriculture
+Number of People With a Master's Degree:dc/topic/LevelOfEducationalAttainment
 Number of People Who Completed No Schooling:dc/topic/Agriculture
-Number of People With a Regular High School Diploma:dc/topic/LevelOfEducationalAttainment
+Number of People With a Regular High School Diploma:dc/topic/StudentsInHighSchool
 Population With Current Employment:dc/topic/Employment
-Number of People in the Labor Force:dc/topic/EmploymentEquity
-Percent of Working Age People in the Labor Force:dc/topic/EmploymentEquity
+Number of People in the Labor Force:dc/topic/Agriculture
+Percent of Working Age People in the Labor Force:dc/topic/Jobs
 Number of People With an Income Between $10,000 and $14,999:dc/topic/IndividualIncomeDistribution
 Number of People With an Income Between $15,000 and $24,999:dc/topic/IndividualIncomeDistribution
 Number of People With an Income Between $25,000 and $34,999:dc/topic/IndividualIncomeDistribution
 Number of People With an Income Between $35,000 and $49,999:dc/topic/IndividualIncomeDistribution
 Number of People With an Income Between $50,000 and $64,999:dc/topic/IndividualIncomeDistribution
 Number of People With an Income Between $65,000 and $74,999:dc/topic/IndividualIncomeDistribution
-Number of People With an Income of $75,000 or More:dc/topic/Agriculture
+Number of People With an Income of $75,000 or More:dc/topic/IndividualIncomeDistribution
 Number of People With an Income of Up to $9,999:dc/topic/IndividualIncomeDistribution
 Number of Married People Who Are Not Separated:dc/topic/MarriedPopulationByDemographic
 Number of People Who Have Never Been Married:dc/topic/Agriculture
-Number of People Who Are Not US Citizens:dc/topic/CitizenshipStatus
+Number of People Who Are Not US Citizens:dc/topic/Agriculture
 Number of People Living in Rural Areas:dc/topic/Agriculture
 Number of People Who Are Married but Separated:dc/topic/MarriedPopulationByDemographic
 Number of US Citizens Born in the United States:dc/topic/CitizenshipStatus
@@ -1287,25 +1287,25 @@ Number of US Citizens by Naturalization:dc/topic/CitizenshipStatus
 Percent of Children Younger Than 4 With Severe Cachexia (Wasting Syndrome):dc/topic/Agriculture
 Percent of Children Younger Than 4 With Cachexia (Wasting Syndrome):dc/topic/Agriculture
 Population Living in Urban Areas:dc/topic/NonEnglishLanguageAtHome
-Widowed Population:dc/topic/NonEnglishLanguageAtHome
+Widowed Population:dc/topic/WidowedPopulationByDemographic
 Number of State Unemployment Insurance Claims:dc/topic/Agriculture
 Cumulative Count of COVID-19 Cases:dc/topic/Agriculture
 Cumulative Count of COVID-19 Deaths:dc/topic/CausesOfDeath
 Growth Rate of Gross Domestic Production (GDP):dc/topic/GDPByIndustry
-Median Income of Households Identifying as American Indian or Alaska Native:dc/topic/MedianHouseholdIncomeByRace
+Median Income of Households Identifying as American Indian or Alaska Native:dc/topic/Income
 Median Income of Households Identifying as Asian:dc/topic/Income
 Median Income of Households Identifying as Black or African American:dc/topic/MedianHouseholdIncomeByRace
-Median Income of Households Identifying as Hispanic or Latino:dc/topic/Income
+Median Income of Households Identifying as Hispanic or Latino:dc/topic/MedianHouseholdIncomeByRace
 Median Income of Households Identifying as Native Hawaiian or Other Pacific Islander:dc/topic/MedianHouseholdIncomeByRace
 Median Income of Households Identifying as White:dc/topic/Income
-Median Income of Women (15 Years or Older) With Income:dc/topic/MedianHouseholdIncomeByRace
-Median Income of Men (15 Years or Older) With Income:dc/topic/MedianHouseholdIncomeByRace
+Median Income of Women (15 Years or Older) With Income:dc/topic/Income
+Median Income of Men (15 Years or Older) With Income:dc/topic/Income
 Percentage of Women (18 to 64 Years Old) Without Health Insurance:dc/topic/HealthInsuranceType
 Percentage of Men (18 to 64 Years Old) Without Health Insurance:dc/topic/HealthInsuranceType
 Percentage of Black or African American Population (18 to 64 Years Old) Without Health Insurance:dc/topic/WithHealthInsuranceByRace
 Percentage of Hispanic or Latino Population (18 to 64 Years Old) Without Health Insurance:dc/topic/WithHealthInsuranceByRace
 Percentage of White Population (18 to 64 Years Old) Without Health Insurance:dc/topic/AgeDistribution
-Percentage of Population Who Engage in Binge Drinking:dc/topic/NonEnglishLanguageAtHome
+Percentage of Population Who Engage in Binge Drinking:dc/topic/HealthBehavior
 Percentage of Population Who Are Physically Inactive:dc/topic/HealthBehavior
 Amount of Amphetamine Distributed Through Retail Drug Channels:dc/topic/Agriculture
 Amount of Codeine Distributed Through Retail Drug Channels:dc/topic/Agriculture
@@ -1333,7 +1333,7 @@ Number of Hate Crimes Motivated by Religion:dc/topic/Agriculture
 Number of Hate Crimes Motivated by Ethnicity:dc/topic/Agriculture
 Number of Hate Crimes Motivated by Sexual Orientation:dc/topic/Agriculture
 Number of Hate Crimes Motivated by Disability Status:dc/topic/Agriculture
-Nominal Gross Domestic Production (GDP):dc/topic/GDP
+Nominal Gross Domestic Production (GDP):dc/topic/GDPByIndustry
 Economic Activity by Industry:dc/topic/GDPByIndustry
 Agricultural Output by Product:dc/topic/Agriculture
 Economy:dc/topic/Agriculture
@@ -1352,7 +1352,7 @@ Poor English Speakers:dc/topic/Agriculture
 English Speakers:dc/topic/Agriculture
 Non-Separated Married Women:dc/topic/MarriedPopulationByDemographic
 Non-Separated Married Men:dc/topic/MarriedPopulationByDemographic
-Never-Married Asian Adults:dc/topic/NeverMarriedPopulationByDemographic
+Never-Married Asian Adults:dc/topic/Agriculture
 Never-Married Hispanic/Latino Adults:dc/topic/NeverMarriedPopulationByDemographic
 Never-Married Women:dc/topic/Agriculture
 Never-Married Men:dc/topic/Agriculture
@@ -1378,7 +1378,7 @@ Establishments in Manufacturing industry:dc/topic/GDPByIndustry
 Establishments in Retail Trade industry:dc/topic/GDPByIndustry
 Establishments in Wholesale Trade:dc/topic/Agriculture
 Establishments in Management of Companies And Enterprises:dc/topic/Agriculture
-Establishments in Mining, Quarrying, And Oil And Gas Extraction:dc/topic/Agriculture
+Establishments in Mining, Quarrying, And Oil And Gas Extraction:dc/topic/Jobs
 Establishments in Arts, Entertainment, And Recreation:dc/topic/Agriculture
 Establishments in Educational Services:dc/topic/Agriculture
 Establishment in Professional, Scientific, And Technical Services:dc/topic/Jobs
@@ -1395,8 +1395,8 @@ Establishments in State Government Owned, Total, All Industries:dc/topic/NumberO
 5 Years or More, Spanish, Below poverty line in Past 12 Months:dc/topic/PovertyByLanguageSpokenAtHome
 Rural residents, Below poverty line in The Past 12 Months:dc/topic/Agriculture
 Urban residents, Below poverty line in The Past 12 Months:dc/topic/Agriculture
-BA Qualified in Arts Humanities And Other Major:dc/topic/BachelorsMajor
-Bachelors Qualified in Business Major:dc/topic/Agriculture
+BA Qualified in Arts Humanities And Other Major:dc/topic/Agriculture
+Bachelors Qualified in Business Major:dc/topic/BachelorsMajor
 Bachelors Qualified in Education Major:dc/topic/BachelorsMajor
 Bachelors Qualified in Science And Engineering Major:dc/topic/BachelorsMajor
 Bachelors Qualified in Science And Engineering Related Major:dc/topic/BachelorsMajor
@@ -1419,7 +1419,7 @@ Students in High School:dc/topic/StudentEnrollmentLevels
 Students in Kindergarten:dc/topic/Agriculture
 Students in Middle School:dc/topic/StudentEnrollmentLevels
 Students in Pre Kindergarten, Pre Kindergarten:dc/topic/StudentEnrollmentLevels
-Students in Primary School:dc/topic/StudentsInPrimarySchool
+Students in Primary School:dc/topic/StudentEnrollmentLevels
 Students in 1 - 8 School Grade:dc/topic/LevelOfEducationalAttainment
 Students in 9 - 12 School Grade:dc/topic/LevelOfEducationalAttainment
 Students, Female:dc/topic/Agriculture
@@ -1480,22 +1480,22 @@ Mean Concentration: Sulfur Dioxide:dc/topic/Emissions_SulfurDioxide_EmissionsbyS
 Median Concentration: Sulfur Dioxide:dc/topic/Emissions_SulfurDioxide_EmissionsbySource
 Min Concentration: Sulfur Dioxide:dc/topic/Emissions_SulfurDioxide_EmissionsbySource
 Deaths Due To 15 - 24 Years (Neoplasms):dc/topic/Agriculture
-Deaths Due To 1 - 4 Years (Neoplasms):dc/topic/CausesOfDeath
+Deaths Due To 1 - 4 Years (Neoplasms):dc/topic/Agriculture
 Deaths Due To 25 - 34 Years (Neoplasms):dc/topic/Agriculture
 Deaths Due To 35 - 44 Years (Neoplasms):dc/topic/Agriculture
-Deaths Due To 45 - 54 Years (Neoplasms):dc/topic/AgeDistribution
+Deaths Due To 45 - 54 Years (Neoplasms):dc/topic/Agriculture
 Deaths Due To 55 - 64 Years (Neoplasms):dc/topic/AgeDistribution
-Deaths Due To 5 - 14 Years (Neoplasms):dc/topic/CausesOfDeath
+Deaths Due To 5 - 14 Years (Neoplasms):dc/topic/Agriculture
 Deaths Due To 65 - 74 Years (Neoplasms):dc/topic/Cancer
-Deaths Due To 75 - 84 Years (Neoplasms):dc/topic/CausesOfDeath
-Deaths Due To Years 85 (Neoplasms):dc/topic/CausesOfDeath
-Deaths Due To 1 Years or Less (Neoplasms):dc/topic/CausesOfDeath
+Deaths Due To 75 - 84 Years (Neoplasms):dc/topic/Agriculture
+Deaths Due To Years 85 (Neoplasms):dc/topic/Agriculture
+Deaths Due To 1 Years or Less (Neoplasms):dc/topic/Agriculture
 Women 21 - 65 Years Who Received Cervical Cancer Screening:dc/topic/PreventativeHealth
 Women 50 - 74 Years, Who Received Mammography:dc/topic/Cancer
 Patients 50 - 75 Years Who Received Colorectal Cancer Screening:dc/topic/PreventativeHealth
 Deaths Due To Symptoms, Signs And Abnormal Clinical And Laboratory Findings, Not Elsewhere Classified, Female:dc/topic/FemaleMortality
 Deaths Due To Certain Conditions Originating in The Perinatal Period, Female:dc/topic/FemaleMortality
-Deaths Due To Certain Infectious And Parasitic Diseases, Female:dc/topic/CausesOfDeath
+Deaths Due To Certain Infectious And Parasitic Diseases, Female:dc/topic/FemaleMortality
 Deaths Due To Congenital Malformations, Deformations And Chromosomal Abnormalities, Female:dc/topic/FemaleMortality
 Deaths Due To Diseases of The Blood And Blood-forming Organs And Certain Disorders Involving The Immune Mechanism, Female:dc/topic/CausesOfDeath
 Deaths Due To Diseases of The Circulatory System, Female:dc/topic/CausesOfDeath
@@ -1511,7 +1511,7 @@ Deaths Due To Mental And Behavioural Disorders, Female:dc/topic/FemaleMortality
 Deaths Due To Neoplasms, Female:dc/topic/Agriculture
 Deaths Due To Pregnancy, Childbirth And The Puerperium, Female:dc/topic/FemaleMortality
 Deaths Due To Codes for Special Purposes, Female:dc/topic/FemaleMortality
-Mortality Events (1 Years or Less): Symptoms, Signs And Abnormal Clinical And Laboratory Findings, Not Elsewhere Classified):dc/topic/CausesOfDeath
+Mortality Events (1 Years or Less): Symptoms, Signs And Abnormal Clinical And Laboratory Findings, Not Elsewhere Classified):dc/topic/InfantMortality
 Mortality Events (1 Years or Less): Certain Conditions Originating in The Perinatal Period):dc/topic/InfantMortality
 Mortality Events (1 Years or Less): Certain Infectious And Parasitic Diseases):dc/topic/CausesOfDeath
 Mortality Events (1 Years or Less): Q00-Q99 ( Congenital Malformations, Deformations And Chromosomal Abnormalities):dc/topic/InfantMortality
@@ -1521,7 +1521,7 @@ Mortality Events (1 Years or Less): Diseases of The Genitourinary System:dc/topi
 Mortality Events (1 Years or Less): Diseases of The Nervous System:dc/topic/CausesOfDeath
 Mortality Events (1 Years or Less): Diseases of The Respiratory System:dc/topic/CausesOfDeath
 Mortality Events (1 Years or Less): Endocrine, Nutritional And Metabolic Diseases:dc/topic/CausesOfDeath
-Mortality Events (1 Years or Less): External Causes of Morbidity And Mortality:dc/topic/CausesOfDeath
+Mortality Events (1 Years or Less): External Causes of Morbidity And Mortality:dc/topic/InfantMortality
 Mortality Events (15 - 24 Years): Mental And Behavioural Disorders:dc/topic/MentalHealth
 Mortality Events (25 - 34 Years): Mental And Behavioural Disorders:dc/topic/MentalHealth
 Mortality Events (35 - 44 Years): Mental And Behavioural Disorders:dc/topic/MentalHealth
@@ -1531,26 +1531,26 @@ Mortality Events (65 - 74 Years): Mental And Behavioural Disorders:dc/topic/Ment
 Mortality Events (75 - 84 Years): Mental And Behavioural Disorders:dc/topic/MentalHealth
 Mortality Events (Years 85): Mental And Behavioural Disorders:dc/topic/MentalHealth
 Mortality Events (Measured Based on Jurisdiction): NPSOther Cause of Death, Incarcerated:dc/topic/MortalityAmongIncarcerated
-Mortality Events (Measured Based on Jurisdiction): Illness or Natural Cause, Incarcerated:dc/topic/MortalityAmongIncarcerated
-Mortality Events (Measured Based on Jurisdiction): Accidents(Unintentional Injuries), Incarcerated:dc/topic/MortalityAmongIncarcerated
+Mortality Events (Measured Based on Jurisdiction): Illness or Natural Cause, Incarcerated:dc/topic/JusticeSystemEquity
+Mortality Events (Measured Based on Jurisdiction): Accidents(Unintentional Injuries), Incarcerated:dc/topic/JusticeSystemEquity
 Mortality Events (Measured Based on Jurisdiction): Intentional Self-Harm(Suicide), Incarcerated:dc/topic/MortalityAmongIncarcerated
-Mortality Events (Measured Based on Jurisdiction): Assault(Homicide), Incarcerated:dc/topic/MortalityAmongIncarcerated
-Mortality Events (Measured Based on Jurisdiction): Death Due To Another Person, Incarcerated:dc/topic/MortalityAmongIncarcerated
+Mortality Events (Measured Based on Jurisdiction): Assault(Homicide), Incarcerated:dc/topic/JusticeSystemEquity
+Mortality Events (Measured Based on Jurisdiction): Death Due To Another Person, Incarcerated:dc/topic/JusticeSystemEquity
 Mortality Events (Measured Based on Jurisdiction): AIDS, Incarcerated:dc/topic/JusticeSystemEquity
-Mortality Events (Measured Based on Jurisdiction): Judicial Execution, Incarcerated:dc/topic/MortalityAmongIncarcerated
+Mortality Events (Measured Based on Jurisdiction): Judicial Execution, Incarcerated:dc/topic/JusticeSystemEquity
 Women With No Health Insurance:dc/topic/Agriculture
 Men With No Health Insurance:dc/topic/Agriculture
 Non-Institutionalized Civilian Adults With No Health Insurance, Earnings 15,000 - 24,999 USD:dc/topic/HousesByHomeValue
 Non-Institutionalized Civilian Adults With No Health Insurance, Earnings 25,000 - 34,999 USD:dc/topic/HousesByHomeValue
-Non-Institutionalized Civilian Adults With No Health Insurance, Earnings 4,999 USD or Less:dc/topic/HealthInsuranceType
+Non-Institutionalized Civilian Adults With No Health Insurance, Earnings 4,999 USD or Less:dc/topic/NoHealthInsuranceByIncome
 Non-Institutionalized Civilian Adults With No Health Insurance, Earnings 50,000 - 74,999 USD:dc/topic/HousesByHomeValue
 Non-Institutionalized Civilian Adults With No Health Insurance, Earnings 5,000 - 14,999 USD:dc/topic/HousesByHomeValue
 Non-Institutionalized Civilian Adults With No Health Insurance, Earnings 75,000 USD or More:dc/topic/NoHealthInsuranceByIncome
-American Indian or Alaska Native With No Health Insurance:dc/topic/WithHealthInsuranceByRace
+American Indian or Alaska Native With No Health Insurance:dc/topic/NoHealthInsuranceByRace
 Asian With No Health Insurance:dc/topic/Agriculture
 Black or African American With No Health Insurance:dc/topic/WithHealthInsuranceByRace
 Hispanic or Latino With No Health Insurance:dc/topic/WithHealthInsuranceByRace
-Native Hawaiian or Other Pacific Islander With No Health Insurance:dc/topic/WithHealthInsuranceByRace
+Native Hawaiian or Other Pacific Islander With No Health Insurance:dc/topic/NoHealthInsuranceByRace
 White With No Health Insurance:dc/topic/Agriculture
 % Bcg Immunization, Female One-Year-Old:dc/topic/Agriculture
 % Dtp3 Immunization, Female One-Year-Olds:dc/topic/WHOChildImmunizationsByGender
@@ -1579,16 +1579,16 @@ Number Of Neonatal Deaths:dc/topic/WHOChildMortality
 % Overweight, Children Under 5 Years:dc/topic/Agriculture
 % Anaemia, Children Aged 6-59 Months:dc/topic/WHOChildrenNonCommunicableDiseases
 % Underweight, Children Under 5 Years:dc/topic/Agriculture
-% Wasted, Children Under 5 Years:dc/topic/WHOChildrenNonCommunicableDiseases
+% Wasted, Children Under 5 Years:dc/topic/Agriculture
 % Severely Wasted, Children Under 5 Years:dc/topic/WHOChildrenNonCommunicableDiseases
 % Stunting,  Children Under 5 Years:dc/topic/Agriculture
 Alcohol Use Disorders, Per 100,000:dc/topic/WHODALYByCauses
 Breast Cancer, Per 100,000:dc/topic/WHODALYByCauses
 Colon And Rectum Cancers, Per 100,000:dc/topic/WHODALYByCauses
 Diabetes Mellitus, Per 100,000:dc/topic/WHODALYByCauses
-Drownings, Per 100,000:dc/topic/WHODALYByCauses
-Falls, Per 100,000:dc/topic/WHODALYByCauses
-Fires, Per 100,000:dc/topic/WHODALYByCauses
+Drownings, Per 100,000:dc/topic/Agriculture
+Falls, Per 100,000:dc/topic/Agriculture
+Fires, Per 100,000:dc/topic/Agriculture
 Ischaemic Heart Disease, Per 100,000:dc/topic/WHODALYByCauses
 Liver Cancer, Per 100,000:dc/topic/WHODALYByCauses
 Liver Cirrhosis, Per 100,000:dc/topic/WHODALYByCauses
@@ -1596,13 +1596,13 @@ Mouth And Oropharynx Cancer, Per 100,000:dc/topic/WHODALYByCauses
 Oesophagus Cancer, Per 100,000:dc/topic/WHODALYByCauses
 Poisoning, Per 100,000:dc/topic/Agriculture
 Prematurity And Low Birth Rate, Per 100,000:dc/topic/WHODALYByCauses
-Road Traffic Accidents, Per 100,000:dc/topic/WHODALYByCauses
+Road Traffic Accidents, Per 100,000:dc/topic/Agriculture
 Self-Inflicted Injury, Per 100,000:dc/topic/WHODALYByCauses
 Other Unintentional Injuries, Per 100,000:dc/topic/WHODALYByCauses
-Violence, Per 100,000:dc/topic/WHODALYByCauses
+Violence, Per 100,000:dc/topic/Agriculture
 Cerebrovascular Disease, Per 100,000:dc/topic/WHODALYByCauses
-% Daily Tobacco Use Among Adults:dc/topic/Agriculture
-% Daily Tobacco Smokers (Estimate):dc/topic/Agriculture
+% Daily Tobacco Use Among Adults:dc/topic/WHOHealthBehavior
+% Daily Tobacco Smokers (Estimate):dc/topic/WHOHealthBehavior
 % Underweight Among Adults, BMI < 18:dc/topic/Agriculture
 % Obesity Among Adults, BMI >= 30:dc/topic/Agriculture
 % Insufficient Physical Activity Among Adults Aged 18+ Years (Crude Estimate):dc/topic/WHOHealthBehavior
@@ -1628,8 +1628,8 @@ Age-Standardized Death Rates (15+ Years), Alcoholic Liver Disease, Per 100,000:d
 Age-Standardized Death Rates (15+ Years), Poisoning, Per 100,000:dc/topic/WHOMortalityCauses
 Age-Standardized Death Rates (15+ Years), Violence, Per 100,000:dc/topic/WHOMortalityCauses
 Age-Standardized Death Rates, Cerebrovascular Disease, Per 100,000:dc/topic/WHOMortalityCauses
-New Cases Of Buruli Ulcer:dc/topic/Agriculture
-New Cases Of Human African Trypanosomiasis:dc/topic/Agriculture
+New Cases Of Buruli Ulcer:dc/topic/WHONeglectedTropicalDiseases
+New Cases Of Human African Trypanosomiasis:dc/topic/WHONeglectedTropicalDiseases
 Cases Of Cutaneous Leishmaniasis:dc/topic/WHONeglectedTropicalDiseases
 Cases Of Visceral Leishmaniasis:dc/topic/WHONeglectedTropicalDiseases
 New G2D Leprosy Cases:dc/topic/WHONeglectedTropicalDiseases
@@ -1641,9 +1641,9 @@ Non-Communicable Diseases Deaths, By Disease & Sex, Major Cardiovascular Disease
 Non-Communicable Diseases Deaths, By Disease & Sex, Malignant Neoplasms:dc/topic/CausesOfDeath
 Women With Health Insurance:dc/topic/Agriculture
 Men With Health Insurance:dc/topic/Agriculture
-American Indian or Alaska Native Population With Health Insurance:dc/topic/WithHealthInsuranceByRace
+American Indian or Alaska Native Population With Health Insurance:dc/topic/NoHealthInsuranceByRace
 Asian Population With Health Insurance:dc/topic/WithHealthInsuranceByRace
 Black or African American Alone Population With Health Insurance:dc/topic/WithHealthInsuranceByRace
 Hispanic or Latino Population With Health Insurance:dc/topic/WithHealthInsuranceByRace
-Native Hawaiian or Other Pacific Islander Population With Health Insurance:dc/topic/WithHealthInsuranceByRace
+Native Hawaiian or Other Pacific Islander Population With Health Insurance:dc/topic/NoHealthInsuranceByRace
 White Population With Health Insurance:dc/topic/WithHealthInsuranceByRace
