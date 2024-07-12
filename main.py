@@ -86,21 +86,24 @@ def get_names_from_topics(dc_topics):
 	unused, unused, test_stat_vars = fetch_testing_data()
 
 	names_to_topics = {}
+	skip_count = 0
 	for topic in topics_to_stat_vars:
 		if topics_to_stat_vars[topic]:
 			# Fetch names of all statVars
 			response = dc.get_property_values(topics_to_stat_vars[topic],'name')
 			stat_var_names = []
 			for stat_var in response:
-				if not FLAGS.evaluate_model or not test_stat_vars.includes(stat_var):
+				if not FLAGS.evaluate_model or not np.any(test_stat_vars[:] == stat_var):
 					stat_var_names.extend(response[stat_var])
 				else:
-					print("Skipping StatVar ", stat_var)
+					# Skipping statVar
+					skip_count += 1
 
 			for name in stat_var_names:
 				names_to_topics[name] = topic
 	
 	# Formatted as: "Total Population": "dc/topic/Demographics"
+	print("Skp Count = ", skip_count)
 	return names_to_topics
 
 def fetch_training_data():
